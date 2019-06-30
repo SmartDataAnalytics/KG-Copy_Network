@@ -1,0 +1,4 @@
+save/
+*.pyc
+vocab/wiki.en.vec
+.idea
