@@ -1,0 +1,10 @@
+{
+    "q1": "car i need to get to a gas_station please show me the nearest one",
+    "a1": "there is valero 7_miles away with moderate_traffic on our way",
+    "q2": "alright where is it located",
+    "a2": "valero is at 200_alester_ave",
+    "q3": "please pick the fastest route to get there",
+    "a3": "there is moderate_traffic on our way i sent the route on your screen",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

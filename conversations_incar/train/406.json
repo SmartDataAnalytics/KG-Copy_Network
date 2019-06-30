@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to nearest mall",
+    "a1": "the nearest mall is town_and_country 4_miles away at 383_university_ave",
+    "q2": "pick a route to avoid all heavy_traffic and let s go there",
+    "a2": "unfortunately on the shortest road there is heavy_traffic i will set up another route please follow the directions on your screen",
+    "q3": "thank you",
+    "a3": "you re welcome"
+}

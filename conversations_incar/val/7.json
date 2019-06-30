@@ -1,0 +1,8 @@
+{
+    "q1": "what hospital is nearby",
+    "a1": "palo_alto_medical_foundation and stanford_express_care are close",
+    "q2": "which one is quickest to reach",
+    "a2": "stanford_express_care is just 3_miles away and there is less traffic on its way than on the other hospital do you want me to set the navigation to go there",
+    "q3": "sure thank you",
+    "a3": "you re welcome glad to help"
+}

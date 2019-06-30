@@ -1,0 +1,10 @@
+{
+    "q1": "what hospitals are here",
+    "a1": "palo_alto_medical_foundation is 4_miles away",
+    "q2": "how is the traffic to palo alto",
+    "a2": "there is heavy_traffic on the route to palo_alto_medical_foundation 4_miles away",
+    "q3": "ok well i don t feel well so get me there as quick as possible please",
+    "a3": "setting gps for palo_alto_medical_foundation at 611_ames_ave",
+    "q4": "thanks so much",
+    "a4": "you re welcome"
+}

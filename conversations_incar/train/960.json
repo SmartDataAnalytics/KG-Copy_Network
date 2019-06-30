@@ -1,0 +1,12 @@
+{
+    "q1": "can you give me directions to the nearest starbucks",
+    "a1": "there is no starbucks nearby",
+    "q2": "how about the address to any coffee shop",
+    "a2": "ther are cafe_venetia and philz 2_miles away and palo_alto_cafe 3_miles away which one do you prefer",
+    "q3": "the one with the quickest route",
+    "a3": "then let s go at philz it s the nearest one and there is no_traffic on our way",
+    "q4": "okay give me the address to philz and set navigation to find the quickest route there",
+    "a4": "philz is at 583_alester_ave and navigation is set",
+    "q5": "thank you",
+    "a5": "you re welcome"
+}

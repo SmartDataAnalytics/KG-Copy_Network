@@ -1,0 +1,12 @@
+{
+    "q1": "find me a nearby parking_garage or parking lot",
+    "a1": "the closest parking_garage is dish_parking 5_miles away at 550_alester_ave",
+    "q2": "does this route have any traffic",
+    "a2": "it has heavy_traffic",
+    "q3": "any parking_garages with no_traffic",
+    "a3": "no that s the only parking_garage in your area at this time",
+    "q4": "then let s go there thank you",
+    "a4": "navigating to 550_alester_ave now",
+    "q5": "thank you",
+    "a5": "you re welcome"
+}

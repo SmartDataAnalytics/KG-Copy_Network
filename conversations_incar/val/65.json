@@ -1,0 +1,10 @@
+{
+    "q1": "find directions to nearest starbucks",
+    "a1": "there is no starbucks in your area but there are other coffee places near by would you like more info",
+    "q2": "yes",
+    "a2": "the nearest coffee shop is 2_miles away and the name of it is philz would you like the address",
+    "q3": "yes please",
+    "a3": "philz is 2_miles away at 583_alester_ave anything else",
+    "q4": "no that s it for now thanks",
+    "a4": "great glad to help"
+}

@@ -1,0 +1,12 @@
+{
+    "q1": "where is there a shopping_center within 5_miles",
+    "a1": "we re 2_miles away from town_and_country but there is a car_collision_nearby we might lose lot of time",
+    "q2": "mmm no i wanted some route with no_traffic is it the only option",
+    "a2": "currently town_and_country is the only option",
+    "q3": "well okay i guess it will have to do then where is it located",
+    "a3": "town_and_country is at 383_university_ave but be aware there is a car collision being reported nearby",
+    "q4": "ok that s fine just set the navigation",
+    "a4": "navigation set for town_and_country",
+    "q5": "thanks so much",
+    "a5": "you are welcome"
+}

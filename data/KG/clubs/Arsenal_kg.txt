@@ -1,0 +1,165 @@
+Arsenal	ground	Emirates Stadium
+Emirates Stadium	capacity	60,260
+Arsenal	chairman	Sir Chips Keswick
+Arsenal	coach	Unai Emery
+Arsenal	has player	Bernd Leno
+Bernd Leno	position	goalkeeper
+Bernd Leno	goals	0
+Bernd Leno	caps	32
+Bernd Leno	date of birth	1992-03-04
+Bernd Leno	jersey	1
+Bernd Leno	height	1.90 m
+Arsenal	has player	Hector Bellerin
+Hector Bellerin	position	defender
+Hector Bellerin	goals	6
+Hector Bellerin	caps	143
+Hector Bellerin	date of birth	1995-03-19
+Hector Bellerin	jersey	2
+Hector Bellerin	height	1.78 m
+Arsenal	has player	Mohamed Elneny
+Mohamed Elneny	position	midfielder
+Mohamed Elneny	goals	0
+Mohamed Elneny	caps	46
+Mohamed Elneny	date of birth	1992-07-11
+Mohamed Elneny	jersey	4
+Mohamed Elneny	height	1.80 m
+Arsenal	has player	Sokratis Papastathopoulos
+Sokratis Papastathopoulos	position	defender
+Sokratis Papastathopoulos	goals	1
+Sokratis Papastathopoulos	caps	25
+Sokratis Papastathopoulos	date of birth	1988-06-09
+Sokratis Papastathopoulos	jersey	5
+Sokratis Papastathopoulos	height	1.86 m
+Arsenal	has player	Laurent Koscielny
+Laurent Koscielny	position	defender
+Laurent Koscielny	goals	22
+Laurent Koscielny	caps	255
+Laurent Koscielny	date of birth	1985-09-10
+Laurent Koscielny	jersey	6
+Laurent Koscielny	height	1.86 m
+Arsenal	has player	Henrikh Mkhitaryan
+Henrikh Mkhitaryan	position	midfielder
+Henrikh Mkhitaryan	goals	8
+Henrikh Mkhitaryan	caps	36
+Henrikh Mkhitaryan	date of birth	1989-01-21
+Henrikh Mkhitaryan	jersey	7
+Henrikh Mkhitaryan	height	1.77 m
+Arsenal	has player	Alexandre Lacazette
+Alexandre Lacazette	position	forward
+Alexandre Lacazette	goals	27
+Alexandre Lacazette	caps	67
+Alexandre Lacazette	date of birth	1991-05-28
+Alexandre Lacazette	jersey	9
+Alexandre Lacazette	height	1.75 m
+Arsenal	has player	Mesut Ozil
+Mesut Ozil	position	midfielder
+Mesut Ozil	goals	32
+Mesut Ozil	caps	166
+Mesut Ozil	date of birth	1988-10-15
+Mesut Ozil	jersey	10
+Mesut Ozil	height	1.83 m
+Arsenal	has player	Lucas Torreira
+Lucas Torreira	position	midfielder
+Lucas Torreira	goals	2
+Lucas Torreira	caps	34
+Lucas Torreira	date of birth	1996-02-11
+Lucas Torreira	jersey	11
+Lucas Torreira	height	1.68 m
+Arsenal	has player	David Ospina
+David Ospina	position	goalkeeper
+David Ospina	goals	0
+David Ospina	caps	29
+David Ospina	date of birth	1988-08-31
+David Ospina	jersey	13
+David Ospina	height	1.83 m
+Arsenal	has player	Pierre-Emerick Aubameyang
+Pierre-Emerick Aubameyang	position	forward
+Pierre-Emerick Aubameyang	goals	32
+Pierre-Emerick Aubameyang	caps	49
+Pierre-Emerick Aubameyang	date of birth	1989-06-18
+Pierre-Emerick Aubameyang	jersey	14
+Pierre-Emerick Aubameyang	height	1.85 m
+Arsenal	has player	Ainsley Maitland-Niles
+Ainsley Maitland-Niles	position	midfielder
+Ainsley Maitland-Niles	goals	1
+Ainsley Maitland-Niles	caps	33
+Ainsley Maitland-Niles	date of birth	1997-08-29
+Ainsley Maitland-Niles	jersey	15
+Ainsley Maitland-Niles	height	1.77 m
+Arsenal	has player	Rob Holding
+Rob Holding	position	defender
+Rob Holding	goals	0
+Rob Holding	caps	31
+Rob Holding	date of birth	1995-09-20
+Rob Holding	jersey	16
+Rob Holding	height	1.89 m
+Arsenal	has player	Alex Iwobi
+Alex Iwobi	position	forward
+Alex Iwobi	goals	11
+Alex Iwobi	caps	100
+Alex Iwobi	date of birth	1996-05-03
+Alex Iwobi	jersey	17
+Alex Iwobi	height	1.80 m
+Arsenal	has player	Nacho Monreal
+Nacho Monreal	position	defender
+Nacho Monreal	goals	7
+Nacho Monreal	caps	184
+Nacho Monreal	date of birth	1986-02-26
+Nacho Monreal	jersey	18
+Nacho Monreal	height	1.79 m
+Arsenal	has player	Shkodran Mustafi
+Shkodran Mustafi	position	defender
+Shkodran Mustafi	goals	7
+Shkodran Mustafi	caps	84
+Shkodran Mustafi	date of birth	1992-04-17
+Shkodran Mustafi	jersey	20
+Shkodran Mustafi	height	1.84 m
+Arsenal	has player	Calum Chambers
+Calum Chambers	position	defender
+Calum Chambers	goals	2
+Calum Chambers	caps	48
+Calum Chambers	date of birth	1995-01-20
+Calum Chambers	jersey	21
+Calum Chambers	height	1.82 m
+Arsenal	has player	Carl Jenkinson
+Carl Jenkinson	position	defender
+Carl Jenkinson	goals	1
+Carl Jenkinson	caps	41
+Carl Jenkinson	date of birth	1992-02-08
+Carl Jenkinson	jersey	25
+Carl Jenkinson	height	1.85 m
+Arsenal	has player	Emiliano Martinez
+Emiliano Martinez	position	goalkeeper
+Emiliano Martinez	goals	0
+Emiliano Martinez	caps	6
+Emiliano Martinez	date of birth	1992-09-02
+Emiliano Martinez	jersey	26
+Emiliano Martinez	height	1.95 m
+Arsenal	has player	Konstantinos Mavropanos
+Konstantinos Mavropanos	position	defender
+Konstantinos Mavropanos	goals	0
+Konstantinos Mavropanos	caps	7
+Konstantinos Mavropanos	date of birth	1997-12-11
+Konstantinos Mavropanos	jersey	27
+Konstantinos Mavropanos	height	1.94 m
+Arsenal	has player	Matteo Guendouzi
+Matteo Guendouzi	position	midfielder
+Matteo Guendouzi	goals	0
+Matteo Guendouzi	caps	33
+Matteo Guendouzi	date of birth	1999-04-14
+Matteo Guendouzi	jersey	29
+Matteo Guendouzi	height	1.85 m
+Arsenal	has player	Sead Kolasinac
+Sead Kolasinac	position	defender
+Sead Kolasinac	goals	2
+Sead Kolasinac	caps	51
+Sead Kolasinac	date of birth	1993-06-20
+Sead Kolasinac	jersey	31
+Sead Kolasinac	height	1.83 m
+Arsenal	has player	Granit Xhaka
+Granit Xhaka	position	midfielder
+Granit Xhaka	goals	7
+Granit Xhaka	caps	99
+Granit Xhaka	date of birth	1992-09-27
+Granit Xhaka	jersey	34
+Granit Xhaka	height	1.83 m

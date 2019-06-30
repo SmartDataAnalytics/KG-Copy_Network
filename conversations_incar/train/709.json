@@ -1,0 +1,10 @@
+{
+    "q1": "what s the shortest distance to the nearest rest_stop",
+    "a1": "the_clement_hotel is located nearest to you at 1_miles away would you like directions there",
+    "q2": "i need the address for it and to know if there will be any traffic",
+    "a2": "the_clement_hotel is at 657_ames_ave with moderate_traffic noted",
+    "q3": "ok please direct me there by the shortest distance",
+    "a3": "i sent the directions on your screen please drive carefully",
+    "q4": "thank you",
+    "a4": "you are welcome driver"
+}

@@ -1,0 +1,130 @@
+Paris SG	ground	Parc des Princes
+Parc des Princes	capacity	47,929
+Paris SG	chairman	Nasser Al-Khelaifi
+Paris SG	coach	Thomas Tuchel
+Paris SG	has player	Thiago Silva
+Thiago Silva	position	defender
+Thiago Silva	goals	9
+Thiago Silva	caps	179
+Thiago Silva	date of birth	1984-09-22
+Thiago Silva	jersey	2
+Thiago Silva	height	1.83 m
+Paris SG	has player	Presnel Kimpembe
+Presnel Kimpembe	position	defender
+Presnel Kimpembe	goals	0
+Presnel Kimpembe	caps	67
+Presnel Kimpembe	date of birth	1995-08-13
+Presnel Kimpembe	jersey	3
+Presnel Kimpembe	height	1.83 m
+Paris SG	has player	Thilo Kehrer
+Thilo Kehrer	position	defender
+Thilo Kehrer	goals	1
+Thilo Kehrer	caps	27
+Thilo Kehrer	date of birth	1996-09-21
+Thilo Kehrer	jersey	4
+Thilo Kehrer	height	1.85 m
+Paris SG	has player	Marquinhos
+Marquinhos	position	defender
+Marquinhos	goals	11
+Marquinhos	caps	160
+Marquinhos	date of birth	1994-05-14
+Marquinhos	jersey	5
+Marquinhos	height	1.83 m
+Paris SG	has player	Marco Verratti
+Marco Verratti	position	midfielder
+Marco Verratti	goals	5
+Marco Verratti	caps	182
+Marco Verratti	date of birth	1992-11-05
+Marco Verratti	jersey	6
+Marco Verratti	height	1.65 m
+Paris SG	has player	Kylian Mbappe
+Kylian Mbappe	position	forward
+Kylian Mbappe	goals	33
+Kylian Mbappe	caps	29
+Kylian Mbappe	date of birth	1998-12-20
+Kylian Mbappe	jersey	7
+Kylian Mbappe	height	1.78 m
+Paris SG	has player	Leandro Paredes
+Leandro Paredes	position	midfielder
+Leandro Paredes	goals	0
+Leandro Paredes	caps	16
+Leandro Paredes	date of birth	1994-06-29
+Leandro Paredes	jersey	8
+Leandro Paredes	height	1.80 m
+Paris SG	has player	Edinson Cavani
+Edinson Cavani	position	forward
+Edinson Cavani	goals	134
+Edinson Cavani	caps	186
+Edinson Cavani	date of birth	1987-02-14
+Edinson Cavani	jersey	9
+Edinson Cavani	height	1.84 m
+Paris SG	has player	Neymar
+Neymar	position	forward
+Neymar	goals	34
+Neymar	caps	37
+Neymar	date of birth	1992-02-05
+Neymar	jersey	10
+Neymar	height	1.75 m
+Paris SG	has player	Angel Di Maria
+Angel Di Maria	position	midfielder
+Angel Di Maria	goals	39
+Angel Di Maria	caps	117
+Angel Di Maria	date of birth	1988-02-14
+Angel Di Maria	jersey	11
+Angel Di Maria	height	1.80 m
+Paris SG	has player	Thomas Meunier
+Thomas Meunier	position	defender
+Thomas Meunier	goals	8
+Thomas Meunier	caps	67
+Thomas Meunier	date of birth	1991-09-12
+Thomas Meunier	jersey	12
+Thomas Meunier	height	1.90 m
+Paris SG	has player	Juan Bernat
+Juan Bernat	position	defender
+Juan Bernat	goals	1
+Juan Bernat	caps	25
+Juan Bernat	date of birth	1993-03-01
+Juan Bernat	jersey	14
+Juan Bernat	height	1.72 m
+Paris SG	has player	Alphonse Areola
+Alphonse Areola	position	goalkeeper
+Alphonse Areola	goals	0
+Alphonse Areola	caps	72
+Alphonse Areola	date of birth	1993-02-27
+Alphonse Areola	jersey	16
+Alphonse Areola	height	1.95 m
+Paris SG	has player	Eric Maxim Choupo-Moting
+Eric Maxim Choupo-Moting	position	forward
+Eric Maxim Choupo-Moting	goals	3
+Eric Maxim Choupo-Moting	caps	22
+Eric Maxim Choupo-Moting	date of birth	1989-03-23
+Eric Maxim Choupo-Moting	jersey	17
+Eric Maxim Choupo-Moting	height	1.91 m
+Paris SG	has player	Layvin Kurzawa
+Layvin Kurzawa	position	defender
+Layvin Kurzawa	goals	8
+Layvin Kurzawa	caps	72
+Layvin Kurzawa	date of birth	1992-09-04
+Layvin Kurzawa	jersey	20
+Layvin Kurzawa	height	1.82 m
+Paris SG	has player	Julian Draxler
+Julian Draxler	position	midfielder
+Julian Draxler	goals	11
+Julian Draxler	caps	75
+Julian Draxler	date of birth	1993-09-20
+Julian Draxler	jersey	23
+Julian Draxler	height	1.85 m
+Paris SG	has player	Colin Dagba
+Colin Dagba	position	defender
+Colin Dagba	goals	0
+Colin Dagba	caps	17
+Colin Dagba	date of birth	1998-09-09
+Colin Dagba	jersey	31
+Colin Dagba	height	1.70 m
+Paris SG	has player	Stanley Nsoki
+Stanley Nsoki	position	defender
+Stanley Nsoki	goals	0
+Stanley Nsoki	caps	13
+Stanley Nsoki	date of birth	1999-04-09
+Stanley Nsoki	jersey	34
+Stanley Nsoki	height	1.78 m

@@ -1,0 +1,8 @@
+{
+    "q1": "where is a gas_station within 2_miles",
+    "a1": "i do not have a gas_station listed in the 2_miles range the closest one is 4_miles away",
+    "q2": "what is the address",
+    "a2": "chevron is located 4_miles away at 783_arcadia_pl with no_traffic",
+    "q3": "thanks",
+    "a3": "you re welcome"
+}

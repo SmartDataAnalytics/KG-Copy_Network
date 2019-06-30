@@ -1,0 +1,10 @@
+{
+    "q1": "navigate to the nearest mall",
+    "a1": "we are 2_miles away from midtown_shopping_center would you like to go there",
+    "q2": "please send me the address and pick the fastes route to go there thanks",
+    "a2": "midtown_shopping_center is located at 338_alester_ave which is 2_miles away",
+    "q3": "please pick the fastest way for me and don t be repetitive car you re not doing well your job",
+    "a3": "i m sorry i m doing my best i picked the best route for you enjoy your trip",
+    "q4": "thank you",
+    "a4": "you re welcome happy to help"
+}

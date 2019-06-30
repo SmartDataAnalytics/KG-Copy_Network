@@ -1,0 +1,10 @@
+{
+    "q1": "navigate me to the nearest hotel",
+    "a1": "there is no hotel listed that is near you",
+    "q2": "i need a rest_stop that is quick and near me",
+    "a2": "the closest rest_stop is the_westin",
+    "q3": "could you please give me the address and set the navigation there",
+    "a3": "the address for the_westin is 329_el_camino_real and the gps has been set",
+    "q4": "thanks so much",
+    "a4": "you are welcome"
+}

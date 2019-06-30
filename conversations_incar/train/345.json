@@ -1,0 +1,10 @@
+{
+    "q1": "take me to the nearest starbucks please",
+    "a1": "there is no starbucks nearby but palo_alto_cafe is 3_miles away would you like to go there",
+    "q2": "yes please but please avoid all traffic",
+    "a2": "there is moderate_traffic on our way but you should reach fast anyway i sent the route on your screen",
+    "q3": "could you confirm the address please",
+    "a3": "the address is 436_alger_dr setting navigation now via the quickest route",
+    "q4": "thanks car",
+    "a4": "you re welcome"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "find me a local hotel in my area",
+    "a1": "hotel_keen and the_clement_hotel are near",
+    "q2": "which has less traffic",
+    "a2": "there is moderate_traffic on the way to hotel_keen and heavy_traffic to the_clement_hotel should we go to hotel_keen",
+    "q3": "yes sounds good",
+    "a3": "happy to be of service directions will begin now"
+}

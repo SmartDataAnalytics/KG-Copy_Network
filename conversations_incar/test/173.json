@@ -1,0 +1,12 @@
+{
+    "q1": "show me the nearby hospital",
+    "a1": "stanford_express_care is nearby",
+    "q2": "does stanford_express_care have heavy_traffic nearby",
+    "a2": "does stanford_express_care have heavy_traffic nearby",
+    "q3": "does stanford_express_care have heavy_traffic nearby",
+    "a3": "the route to stanford_express_care does have heavy_traffic",
+    "q4": "any other local hospital s with no heavy_traffic",
+    "a4": "yes stanford_childrens_health is 1_miles away with no_traffic do you want the address",
+    "q5": "quickly reboot your system car and then send me the address thank you",
+    "a5": "i m sorry i did and i sent the address on your screen drive carefully"
+}

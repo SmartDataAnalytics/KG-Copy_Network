@@ -1,0 +1,8 @@
+{
+    "q1": "please confirm the address and give me directions via a route with no_traffic to home",
+    "a1": "the only route to home at 56_cadwell_street has a road_block_nearby shall i proceed",
+    "q2": "yes i got to get home thanks",
+    "a2": "setting navigation now",
+    "q3": "thank you",
+    "a3": "you re welcome drive safely"
+}

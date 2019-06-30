@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to some nearby hotels",
+    "a1": "we re 6_miles away from the_clement_hotel send you its address on screen",
+    "q2": "yes please",
+    "a2": "the_clement_hotel is located at 657_ames_ave",
+    "q3": "set the navigation please",
+    "a3": "gps set for the_clement_hotel",
+    "q4": "please select the quickest route",
+    "a4": "i sent you the info with the quickest route on screen drive carefully"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "car please bring me to my friends_house it should be near me",
+    "a1": "i have a location for jack s house is that the destination you are looking for",
+    "q2": "yes that would be the one i need make sure i don t have to deal with any traffic",
+    "a2": "jack s house has moderate_traffic but only 1_miles away at 864_almanor_ln",
+    "q3": "ok sounds good thanks",
+    "a3": "you re welcome navigating there now"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to the nearest mall",
+    "a1": "navigating you to town_and_country",
+    "q2": "give me the address",
+    "a2": "the address to town_and_country is 383_university_ave",
+    "q3": "thank you car please set the gps with the fastest route to get there",
+    "a3": "gps set to fastest route we should be there soon",
+    "q4": "thank you",
+    "a4": "you are welcome"
+}

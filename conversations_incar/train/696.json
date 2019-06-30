@@ -1,0 +1,10 @@
+{
+    "q1": "find me all the nearest hotels",
+    "a1": "the_westin is located 4_miles away at 329_el_camino_real and the_clement_hotel 5_miles away at 657_ames_ave",
+    "q2": "how s the traffic to them",
+    "a2": "westin has no_traffic and the_clement_hotel has moderate_traffic",
+    "q3": "let s go to the_westin please",
+    "a3": "i sent its position and the route on your screen",
+    "q4": "thanks for giving me directions via the quickest route",
+    "a4": "you re welcome"
+}

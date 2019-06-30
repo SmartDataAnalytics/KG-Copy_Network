@@ -1,0 +1,10 @@
+{
+    "q1": "where can i get gas",
+    "a1": "there are 2 gas_stations near you woud you like the closest one",
+    "q2": "yes what is the address",
+    "a2": "the 76 is located at 91_el_camino_real it is 4_miles away in heavy_traffic",
+    "q3": "any without heavy_traffic",
+    "a3": "that is still the closest gas_station",
+    "q4": "then let s go there thank you car",
+    "a4": "you re welcome"
+}

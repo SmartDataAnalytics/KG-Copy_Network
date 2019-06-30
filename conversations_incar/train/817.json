@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to the local starbucks",
+    "a1": "there is no starbucks nearby but teavana is located 1_miles away would you like directions there",
+    "q2": "yes please send me directions with a route that avoids heavy_traffic",
+    "a2": "i sent on your screen another route it will take slightly longer but there shouldn t be any traffic",
+    "q3": "thanks so much what s the address",
+    "a3": "145_amherst_st you can see it on your screen",
+    "q4": "thank you car",
+    "a4": "you are welcome"
+}

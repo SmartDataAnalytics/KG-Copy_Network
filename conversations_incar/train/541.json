@@ -1,0 +1,10 @@
+{
+    "q1": "i m in need of coffee is there any near my current location",
+    "a1": "starbucks and teavana are close",
+    "q2": "which is closer",
+    "a2": "teavana is 3_miles away with heavy_traffic and starbucks is 4_miles with moderate_traffic which do you prefer",
+    "q3": "let s try starbucks today",
+    "a3": "there is moderate_traffic on our way but i sent the best possible route on your screen",
+    "q4": "thanks for the help",
+    "a4": "you re welcome always happy to help"
+}

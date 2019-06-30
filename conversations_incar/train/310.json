@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to the nearest parking_garage",
+    "a1": "palo_alto_garage_r is the nearest at 2_miles away you will find it at 481_amaranta_ave",
+    "q2": "thank you very much car please bring me there through a quick route",
+    "a2": "the quickest route has moderate_traffic is that going to do",
+    "q3": "yes sounds good",
+    "a3": "navigation set anything else",
+    "q4": "no thank you",
+    "a4": "you re welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "get me directions to the closest starbucks",
+    "a1": "i have no starbucks listed as close to you",
+    "q2": "how about any coffee shop",
+    "a2": "the closest coffee shop to you is 5_miles away at 436_alger_dr",
+    "q3": "does this route contain traffic i need to go there with no_traffic",
+    "a3": "there is no_traffic now i ve already set the gps so you can get there",
+    "q4": "thank you",
+    "a4": "you re welcome"
+}

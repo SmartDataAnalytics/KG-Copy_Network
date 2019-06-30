@@ -1,0 +1,10 @@
+{
+    "q1": "where is the nearest rest_stop",
+    "a1": "nearest rest_stop is 3_miles away",
+    "q2": "how is the traffic there",
+    "a2": "there is moderate_traffic",
+    "q3": "what is the address",
+    "a3": "the address is 578_arbol_dr",
+    "q4": "thanks",
+    "a4": "no problem"
+}

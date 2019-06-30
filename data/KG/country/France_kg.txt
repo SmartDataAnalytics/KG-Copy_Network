@@ -1,0 +1,117 @@
+France	coach	Didier Deschamps
+France	captain	Hugo Lloris
+France	world cup appearance	15 (first in 1930)
+France	world cup Champions	1998
+France	world cup Champions	 2018
+France	goalkeeper	Hugo Lloris 
+France	has player	Hugo Lloris 
+Hugo Lloris 	position	goalkeeper
+Hugo Lloris 	goals	0
+Hugo Lloris 	caps	112
+Hugo Lloris 	age	32
+Hugo Lloris 	jersey	1
+France	defender	Benjamin Pavard
+France	has player	Benjamin Pavard
+Benjamin Pavard	position	defender
+Benjamin Pavard	goals	1
+Benjamin Pavard	caps	22
+Benjamin Pavard	age	23
+Benjamin Pavard	jersey	2
+France	defender	Raphael Varane
+France	has player	Raphael Varane
+Raphael Varane	position	defender
+Raphael Varane	goals	4
+Raphael Varane	caps	58
+Raphael Varane	age	26
+Raphael Varane	jersey	4
+France	defender	Samuel Umtiti
+France	has player	Samuel Umtiti
+Samuel Umtiti	position	defender
+Samuel Umtiti	goals	4
+Samuel Umtiti	caps	31
+Samuel Umtiti	age	25
+Samuel Umtiti	jersey	5
+France	defender	Lucas Digne
+France	has player	Lucas Digne
+Lucas Digne	position	defender
+Lucas Digne	goals	0
+Lucas Digne	caps	25
+Lucas Digne	age	25
+Lucas Digne	jersey	12
+France	defender	Kurt Zouma
+France	has player	Kurt Zouma
+Kurt Zouma	position	defender
+Kurt Zouma	goals	1
+Kurt Zouma	caps	5
+Kurt Zouma	age	24
+Kurt Zouma	jersey	15
+France	midfielder	Paul Pogba
+France	has player	Paul Pogba
+Paul Pogba	position	midfielder
+Paul Pogba	goals	10
+Paul Pogba	caps	69
+Paul Pogba	age	26
+Paul Pogba	jersey	6
+France	midfielder	Blaise Matuidi
+France	has player	Blaise Matuidi
+Blaise Matuidi	position	midfielder
+Blaise Matuidi	goals	9
+Blaise Matuidi	caps	81
+Blaise Matuidi	age	32
+Blaise Matuidi	jersey	14
+France	midfielder	Moussa Sissoko
+France	has player	Moussa Sissoko
+Moussa Sissoko	position	midfielder
+Moussa Sissoko	goals	2
+Moussa Sissoko	caps	58
+Moussa Sissoko	age	29
+Moussa Sissoko	jersey	17
+France	midfielder	Tanguy Ndombele
+France	has player	Tanguy Ndombele
+Tanguy Ndombele	position	midfielder
+Tanguy Ndombele	goals	0
+Tanguy Ndombele	caps	6
+Tanguy Ndombele	age	22
+Tanguy Ndombele	jersey	21
+France	forward	Antoine Griezmann
+France	has player	Antoine Griezmann
+Antoine Griezmann	position	forward
+Antoine Griezmann	goals	29
+Antoine Griezmann	caps	72
+Antoine Griezmann	age	28
+Antoine Griezmann	jersey	7
+France	forward	Thomas Lemar
+France	has player	Thomas Lemar
+Thomas Lemar	position	forward
+Thomas Lemar	goals	4
+Thomas Lemar	caps	18
+Thomas Lemar	age	23
+Thomas Lemar	jersey	8
+France	forward	Olivier Giroud
+France	has player	Olivier Giroud
+Olivier Giroud	position	forward
+Olivier Giroud	goals	35
+Olivier Giroud	caps	91
+Olivier Giroud	age	32
+Olivier Giroud	jersey	9
+France	forward	Kylian Mbappe
+France	has player	Kylian Mbappe
+Kylian Mbappe	position	forward
+Kylian Mbappe	goals	13
+Kylian Mbappe	caps	33
+Kylian Mbappe	age	20
+Kylian Mbappe	jersey	10
+France	forward	Kingsley Coman
+France	has player	Kingsley Coman
+Kingsley Coman	position	forward
+Kingsley Coman	goals	1
+Kingsley Coman	caps	17
+Kingsley Coman	age	23
+Kingsley Coman	jersey	11
+France	forward	Florian Thauvin
+France	has player	Florian Thauvin
+Florian Thauvin	position	forward
+Florian Thauvin	goals	1
+Florian Thauvin	caps	10
+Florian Thauvin	age	26
+Florian Thauvin	jersey	20

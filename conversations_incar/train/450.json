@@ -1,0 +1,8 @@
+{
+    "q1": "where is the closest rest_stop",
+    "a1": "one rest_stop is located 1_miles away it s the comfort_inn do you need the address",
+    "q2": "yes please",
+    "a2": "the address is 753_university_ave do you want me to set the gps",
+    "q3": "no thanks that will be all",
+    "a3": "goodbye"
+}

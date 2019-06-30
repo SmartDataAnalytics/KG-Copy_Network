@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to the nearest place where i can have a cup of tea",
+    "a1": "palo_alto_cafe is 1_miles away at 436_alger_dr",
+    "q2": "please pick a route to avoid all heavy_traffic and let s go there",
+    "a2": "unfortunately there is a car_collision_nearby but since we re just 1_miles away i sent on your screen another route to reach faster",
+    "q3": "sounds good rhank you car assistant",
+    "a3": "you are welcome driver",
+    "q4": "thanks",
+    "a4": "you are welcome"
+}

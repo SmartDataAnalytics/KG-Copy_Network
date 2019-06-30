@@ -1,0 +1,10 @@
+{
+    "q1": "locate a parking_garage around my current location",
+    "a1": "stanford_oval_parking is 2_miles away",
+    "q2": "is it the quickest route",
+    "a2": "there is a road_block_nearby but it is the only option i currently have",
+    "q3": "what is the address",
+    "a3": "stanford_oval_parking is located at 610_amarillo_ave do you need me to set the navigation",
+    "q4": "yes please thank you",
+    "a4": "you are welcome"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "send me to the nearest gas_station",
+    "a1": "the nearest gas_station is valero at 200_alester_ave 7_miles away setting directions now",
+    "q2": "where is valero and is there any traffic on the way",
+    "a2": "valero is at 200_alester_ave and moderate_traffic is being noted",
+    "q3": "thank you",
+    "a3": "you re welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "find me the nearest grocery_store",
+    "a1": "the nearest grocery_store is 5_miles away called willows_market at 409_bollard_st",
+    "q2": "ok please direct me there via the fastest route",
+    "a2": "okay there is a car_collision_nearby willows_market thre is another route to sigona_farmers_market it is the same amount of miles away this route has moderate_traffic",
+    "q3": "let s go at willow please send the direction on my screen thank you car",
+    "a3": "it s everything on your map enjoy your trip",
+    "q4": "thank you car assistant",
+    "a4": "you re welcome"
+}

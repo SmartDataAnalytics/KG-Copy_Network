@@ -1,0 +1,8 @@
+{
+    "q1": "find a gas_station that is not farther than 3_miles away",
+    "a1": "i have a shell gas_station 1_miles away",
+    "q2": "ok where is it and i need a quick route there",
+    "a2": "shell is located at 53_university_av",
+    "q3": "give me the directions there with the quickest route",
+    "a3": "okay heading to shell"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to a coffee place",
+    "a1": "we re 4_miles away from philz but there is a car_collision_nearby",
+    "q2": "ok please give me the address and directions via the fastest available route",
+    "a2": "it is located at 583_alester_ave and i will provide turn by turn directions now",
+    "q3": "thank you car",
+    "a3": "you re welcome happy to help"
+}

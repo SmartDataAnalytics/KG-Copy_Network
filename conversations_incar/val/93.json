@@ -1,0 +1,8 @@
+{
+    "q1": "can you help me find the closest shopping_center without heavy_traffic",
+    "a1": "town_and_country is the closest",
+    "q2": "is there traffic",
+    "a2": "there is moderate_traffic",
+    "q3": "ok that s fine set the gps for there",
+    "a3": "i sent the info on your screen drive carefully"
+}

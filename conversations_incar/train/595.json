@@ -1,0 +1,10 @@
+{
+    "q1": "what types of pizza can i get around here",
+    "a1": "there is a pizza_chicago and round_table",
+    "q2": "which is closer",
+    "a2": "pizza_chicago is closer",
+    "q3": "what is the address",
+    "a3": "pizza_chicago s address is 915_arbol_dr",
+    "q4": "thank you please pick the fastest route to get there",
+    "a4": "setting gps to quickest route we should be there soon"
+}

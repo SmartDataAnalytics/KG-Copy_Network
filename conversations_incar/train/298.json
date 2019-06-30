@@ -1,0 +1,10 @@
+{
+    "q1": "tell me the closest place to get a cup of hot tea",
+    "a1": "coupa is located 8_miles away from here at 394_van_ness_ave would you like directions there",
+    "q2": "is there a coffee shop within 4_miles if not please give me directions via the shortest route",
+    "a2": "coupa is the only nearby coffee shop do you want to go there",
+    "q3": "yes thank you car let s go",
+    "a3": "setting navigation now to coupa",
+    "q4": "thank you",
+    "a4": "you are welcome"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "get me directions to the nearest chinese_restaurant",
+    "a1": "the nearest one is tai_pan 6_miles away from our position",
+    "q2": "i would have preferred something within 2_miles but patience can you show me the shortest distance to go there",
+    "a2": "yes there is no_traffic so it should be quick i will display the directions now",
+    "q3": "thank you car",
+    "a3": "you are welcome"
+}

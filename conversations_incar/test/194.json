@@ -1,0 +1,8 @@
+{
+    "q1": "take me to the mall to buy some clothes",
+    "a1": "would you prefer stanford_shopping_center which is 7_miles away with no_traffic or ravenswood_shopping_center which is 1_miles away with a road_block_nearby",
+    "q2": "i am guessing ravenswood would be faster let s go there",
+    "a2": "setting directions to 434_arastradero_rd now",
+    "q3": "thank you very much car",
+    "a3": "you are welcome"
+}

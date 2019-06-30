@@ -1,0 +1,8 @@
+{
+    "q1": "show me the closest location where i can get chinese food",
+    "a1": "panda_express is 3_miles away",
+    "q2": "give me the address",
+    "a2": "842_arrowhead_way there is heavy_traffic but you should be able to reach there soon anyway",
+    "q3": "i wish to avoid all heavy_traffic check if there is another way to get there otherwise just set my gps thank you",
+    "a3": "i sent on your screen the best possible route to avoid all heavy_traffic and you re welcome"
+}

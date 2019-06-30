@@ -1,0 +1,12 @@
+{
+    "q1": "car i need a pizza_restaurant to satisfy my hunger is there any in the area",
+    "a1": "there is only 1 pizza_restaurant in your area pizza_chicago would you like me to pull up the route",
+    "q2": "send me the address then set the quickest route on my gps navigation system",
+    "a2": "pizza_chicago is at 915_arbol_dr and the gps is set",
+    "q3": "please pick a quick route to go there",
+    "a3": "i sent on your screen the best route available drive carefully",
+    "q4": "thank you car",
+    "a4": "you re welcome drive carefully and enjoy",
+    "q5": "thanks again",
+    "a5": "anytime"
+}

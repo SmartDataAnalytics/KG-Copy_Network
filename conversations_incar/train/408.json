@@ -1,0 +1,8 @@
+{
+    "q1": "what hospital is close",
+    "a1": "stanford_childrens_health is 3_miles away",
+    "q2": "please avoid all heavy_traffic and send me the route to get there thank you",
+    "a2": "im sorry stanford_childrens_health is the only hospital i can find it is 3_miles away through heavy_traffic at 899_ames_ct",
+    "q3": "ok sounds good set the navigation there please",
+    "a3": "you re welcome and the navigation has been set"
+}

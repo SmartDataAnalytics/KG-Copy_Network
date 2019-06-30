@@ -1,0 +1,10 @@
+{
+    "q1": "find the nearest coffee shop",
+    "a1": "the nearest coffee shop is starbucks which is 3_miles away do you need the address",
+    "q2": "yes please send it on my screen and pick a route to avoid all heavy_traffic",
+    "a2": "the address to starbucks is 792_bedoin_street and there is moderate_traffic on the route would you like me to set the gps",
+    "q3": "yes please",
+    "a3": "i sent the info on your screen drive carefully",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

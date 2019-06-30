@@ -1,0 +1,8 @@
+{
+    "q1": "i need the quickest route to a gas_station please",
+    "a1": "the quickest route to a gas_station is through moderate_traffic would you like more info",
+    "q2": "yes please send me the address and how s the traffic",
+    "a2": "valero is at 200_alester_ave and there is moderate_traffic",
+    "q3": "thank you",
+    "a3": "you are welcome"
+}

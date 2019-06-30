@@ -1,0 +1,10 @@
+{
+    "q1": "i need to go home and avoid the heavy_traffic",
+    "a1": "taking you home there is a car_collision_nearby",
+    "q2": "am i more than 3_miles away right now",
+    "a2": "you are 5_miles away from home",
+    "q3": "ok avoid all heavy_traffic with the fasest route home",
+    "a3": "there is a car_collision_nearby but i already sent another route on your map",
+    "q4": "awesome thanks",
+    "a4": "yor welcome"
+}

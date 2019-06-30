@@ -1,0 +1,8 @@
+{
+    "q1": "where can i go shopping",
+    "a1": "there is two shopping_center town_and_country and stanford_shopping_center do you have a preference",
+    "q2": "which is closer",
+    "a2": "town_and_country is closer",
+    "q3": "then pick the route through the shortest distance and let s go there thank you",
+    "a3": "okay heading to town_and_country at 383_university_ave"
+}

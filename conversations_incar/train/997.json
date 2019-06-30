@@ -1,0 +1,10 @@
+{
+    "q1": "find me a place where i can buy coffee or tea",
+    "a1": "palo_alto_cafe serves coffee and tea",
+    "q2": "is it closest to my current location",
+    "a2": "yes it s 4_miles away and even if there is heavy_traffic it s the nearest one send the info on your screen",
+    "q3": "yes please just pick a route to avoid all heavy_traffic",
+    "a3": "i sent the best possible route on your screen drive carefully",
+    "q4": "thank you",
+    "a4": "you re welcome"
+}

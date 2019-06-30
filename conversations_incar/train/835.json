@@ -1,0 +1,10 @@
+{
+    "q1": "take me to a fast food restaurant",
+    "a1": "pizza_chicago and chef_chu_s ( chinese ) are located 5_miles away would you like directions to either of those",
+    "q2": "give me the pizza_chicago directions please",
+    "a2": "i will display the directions to pizza_chicago for you now",
+    "q3": "thank you car pick a quick route if available",
+    "a3": "there is a road_block_nearby but i sent on your screen the best route available",
+    "q4": "thank you",
+    "a4": "you are welcome"
+}

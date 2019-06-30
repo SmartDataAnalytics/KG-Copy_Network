@@ -1,0 +1,8 @@
+{
+    "q1": "car i need a parking_garage within 5_miles of my current position",
+    "a1": "civic_center_garage is 4_miles away do you want me to set the gps to get there",
+    "q2": "where is civic_center_garage can i get there while avoiding all heavy_traffic",
+    "a2": "in this moment there is moderate_traffic on our way i will pick for you the fastest route",
+    "q3": "thanks so much and set the gps",
+    "a3": "you re welcome and the gps is set"
+}

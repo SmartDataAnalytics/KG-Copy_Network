@@ -1,0 +1,14 @@
+{
+    "q1": "show me the nearest shopping mall",
+    "a1": "we are 1_miles away from stanford_shopping_center does it sound good to you",
+    "q2": "give me the address",
+    "a2": "the address is 773_alger_dr i sent it on your screen",
+    "q3": "set gps for a route without any traffic",
+    "a3": "there is moderate_traffic but you should be able to reach it fast anyway",
+    "q4": "is there an alternate mall with no_traffic on the route",
+    "a4": "no that s the closest and fastest available",
+    "q5": "ok thanks set the gps for there please",
+    "a5": "gps is set for stanford_shopping_center at 773_alger_dr 1_miles away with moderate_traffic",
+    "q6": "thanks for all the help",
+    "a6": "happy to help you re welcome"
+}

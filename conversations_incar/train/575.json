@@ -1,0 +1,12 @@
+{
+    "q1": "find nearest coffee shop",
+    "a1": "the nearest coffee shop is palo alto coffee",
+    "q2": "could you give me the address please and the distance from here",
+    "a2": "palo_alto_cafe is 4_miles away at 436_alger_drive",
+    "q3": "thank you how is the traffic there",
+    "a3": "there is currently moderate_traffic on the route",
+    "q4": "ok please set gps and navigate there",
+    "a4": "gps is set and we are now enroute",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

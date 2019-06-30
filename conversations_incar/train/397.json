@@ -1,0 +1,8 @@
+{
+    "q1": "find me a nearby parking_garage or parking lot",
+    "a1": "civic_center_garage is nearby",
+    "q2": "what is the address",
+    "a2": "270_altaire_walk the garage is 4_miles away and you should be able to reach it quickly despite the moderate_traffic",
+    "q3": "sounds like a plan thank you",
+    "a3": "you are welcome"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "car i need to buy groceries is there any grocery_store on our way",
+    "a1": "the hacienda_market is 2_miles away in heavy_traffic would you like directions there alternately there is the sigona_farmers_market 3_miles away",
+    "q2": "is there traffic on the route to sigona_farmers_market if not please direct me there",
+    "a2": "there is no_traffic at all i sent its position and the route to follow on your screen",
+    "q3": "ok that works thank you car assistant",
+    "a3": "you re very welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "are there shopping_centers nearby",
+    "a1": "they are one shopping_center 2_miles away called midtown_shopping_center",
+    "q2": "how is the traffic",
+    "a2": "midtown_shopping_center has moderate_traffic",
+    "q3": "what is the address",
+    "a3": "the address is 338_alester_ave i sent its position on your map",
+    "q4": "thanks for all the help",
+    "a4": "no problem"
+}

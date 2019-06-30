@@ -1,0 +1,12 @@
+{
+    "q1": "give me directions to a place to sleep",
+    "a1": "there are the four_seasons hotel 2_miles away and the_westin 5_miles from here which one do you prefer",
+    "q2": "give me the address of westin",
+    "a2": "the_westin hotel is at 329_el_camino_real it s 5_miles away and there is heavy_traffic on the route",
+    "q3": "thanks how s the traffic to the four_seasons",
+    "a3": "four_seasons has moderate_traffic is that okay",
+    "q4": "give me the address to the four_seasons instead and set the gps to the quickest route",
+    "a4": "the address of the four_seasons is 465_arcadia_pl gps set to the quickest route to the four_seasons",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

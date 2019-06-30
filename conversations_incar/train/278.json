@@ -1,0 +1,8 @@
+{
+    "q1": "can you give me directions to the nearest starbucks",
+    "a1": "i do not have a starbucks nearby but there is a philz coffee and tea place 2_miles away would you like more information",
+    "q2": "yes please check if there is a route with no_traffic and send me its address on the screen",
+    "a2": "unfortunately philzis the only coffee_or_tea_place that i can find it is located at 583_alester_ave there is heavy_traffic on this route",
+    "q3": "that s ok thanks for providing directions",
+    "a3": "you re very welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "please give me directions to 5677_springer_street",
+    "a1": "navigating you to 5677_springer_street",
+    "q2": "is that route without traffic",
+    "a2": "yes the current route has no_traffic",
+    "q3": "ok set navigation there",
+    "a3": "sounds good thanks",
+    "q4": "thanks to you car",
+    "a4": "you are welcome"
+}

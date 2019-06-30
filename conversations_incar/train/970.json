@@ -1,0 +1,12 @@
+{
+    "q1": "where is a parking_garage without heavy_traffic",
+    "a1": "there is stanford_oval_parking 6_miles avoid with moderate_traffic on its direction",
+    "q2": "that s great please send me the directions on my map",
+    "a2": "displaying directions on your map",
+    "q3": "thanks what is the address",
+    "a3": "stanford_oval_parking is at 610_amarillo_ave",
+    "q4": "please pick a route to avoid all heavy_traffic and let s go there thanks",
+    "a4": "maping route to stanford_oval_parking",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

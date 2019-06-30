@@ -1,0 +1,10 @@
+{
+    "q1": "where is the nearest hotel",
+    "a1": "the nearest hotel is the_clement_hotel 3_miles away",
+    "q2": "what is the address",
+    "a2": "the_clement_hotel is at 657_ames_ave",
+    "q3": "perfect",
+    "a3": "navigation set and we should be there shortly",
+    "q4": "thanks for the help",
+    "a4": "you re welcome"
+}

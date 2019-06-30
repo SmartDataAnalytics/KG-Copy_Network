@@ -1,0 +1,8 @@
+{
+    "q1": "i want to do some shopping direct me to a mall but in a way that avoids all traffic",
+    "a1": "the nearest mall is town_and_country which is 4_miles away but there is moderate_traffic",
+    "q2": "ok please give me the address and direct me via the route that avoids most traffic",
+    "a2": "town_and_country is at 383_university_ave there is moderate_traffic on our way and i sent the best route on your screen",
+    "q3": "thank you very much car",
+    "a3": "you re welcome"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "where can i get groceries",
+    "a1": "i have a grocery_store 1_miles away would you like info on it",
+    "q2": "yes and find me the fastest route please",
+    "a2": "okay the route to whole_foods located at 819 alma dr is 1_miles away with moderate_traffic",
+    "q3": "thanks set the gps for there please",
+    "a3": "you re welcome and the gps is set"
+}

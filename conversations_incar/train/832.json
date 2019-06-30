@@ -1,0 +1,10 @@
+{
+    "q1": "i need a hospital within 5_miles of me and the quickest route please",
+    "a1": "stanford_express_care is located at 214_el_camino_real would you like directions there",
+    "q2": "yes please",
+    "a2": "setting navigation now",
+    "q3": "is there supposed to be any traffic",
+    "a3": "there is a car_collision_nearby do you still want to go",
+    "q4": "yes and thank you",
+    "a4": "the directions are on your screen you re welcome"
+}

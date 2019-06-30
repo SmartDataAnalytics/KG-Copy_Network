@@ -1,0 +1,10 @@
+{
+    "q1": "is there a nearby rest_stop",
+    "a1": "hotel_keen and the_westin are both nearby",
+    "q2": "which has the least amount of traffic at the moment",
+    "a2": "they both have none",
+    "q3": "what is the address for keen",
+    "a3": "578_arbol_dr we re 2_miles away from it set the navigation there",
+    "q4": "yes sounds great",
+    "a4": "alright"
+}

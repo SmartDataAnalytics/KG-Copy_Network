@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to my friends house",
+    "a1": "i m sorry but i don t have this info could you please give me an address",
+    "q2": "i don t have the address with me i guess you can t help me",
+    "a2": "your home is within 4_miles of here would you like to go there",
+    "q3": "what is the address yes please direct me to home by the quickest route",
+    "a3": "directing you to 5671_barringer_street now",
+    "q4": "thanks",
+    "a4": "no problem"
+}

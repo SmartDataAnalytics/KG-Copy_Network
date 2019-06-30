@@ -1,0 +1,10 @@
+{
+    "q1": "where do i live",
+    "a1": "your home address is 56_cadwell_street",
+    "q2": "thanks",
+    "a2": "you re welcome would you like to set the car to navigate home",
+    "q3": "yes please",
+    "a3": "directions will begin now",
+    "q4": "thank you car please avoid all heavy_traffic",
+    "a4": "route set to avoid traffic when possible have a good day"
+}

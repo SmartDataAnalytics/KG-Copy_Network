@@ -1,0 +1,10 @@
+{
+    "q1": "take me to the nearest cafe",
+    "a1": "the nearest cafe is 5_miles away would you like more info",
+    "q2": "yes please if it s the best location you could show me its address on the map and then pick the quickest route to get there",
+    "a2": "philz is the nearest cafe at 5_miles away it s located at 583_alester_ave would you like me to set the navigation",
+    "q3": "yes please do that",
+    "a3": "setting gps for philz cafe at 583_alester_ave 5_miles away with no_traffic",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

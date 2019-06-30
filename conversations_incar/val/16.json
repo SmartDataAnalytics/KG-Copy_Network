@@ -1,0 +1,8 @@
+{
+    "q1": "please give me an address and directions by the fastest route to a rest_stop nearby",
+    "a1": "the travelers_lodge is 1_miles away at 333_arbol_dr though there is a car_collision_nearby would you like directions there",
+    "q2": "yes",
+    "a2": "travelers_lodge is located at 333_arbol_dr",
+    "q3": "thank you car let s go there",
+    "a3": "you are welcome"
+}

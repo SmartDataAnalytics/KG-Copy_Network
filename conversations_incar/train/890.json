@@ -1,0 +1,8 @@
+{
+    "q1": "find me a place where i could have some coffee",
+    "a1": "there is a starbucks and palo_alto_cafe nearby",
+    "q2": "which is within 5_miles",
+    "a2": "palo_alto_cafe is 3_miles away",
+    "q3": "set the navigation for there thanks",
+    "a3": "you re welcome navigation set"
+}

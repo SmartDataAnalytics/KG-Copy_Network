@@ -1,0 +1,10 @@
+{
+    "q1": "what the nearest gas_station by me",
+    "a1": "the nearest gas_station is chevron at 783_arcadia_pl",
+    "q2": "ok please direct me there via the quickest route",
+    "a2": "setting navigation to the chevron now",
+    "q3": "should i expect any traffic",
+    "a3": "there is heavy_traffic expected on this route this is the only gas_station i can find at this time",
+    "q4": "that s ok thank you",
+    "a4": "you are welcome driver"
+}

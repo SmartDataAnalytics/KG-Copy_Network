@@ -1,0 +1,10 @@
+{
+    "q1": "give me the fastest route to a rest_stop",
+    "a1": "the travelers_lodge is located 5_miles away though there is a road_block_nearby would you like directions there",
+    "q2": "are there any detours avalible",
+    "a2": "no that s the best i can do",
+    "q3": "ok that will be fine please give me the address and directions via the fastest route",
+    "a3": "travelers_lodge is at 333_arbol_dr and i have set the gps",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

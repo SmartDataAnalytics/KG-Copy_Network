@@ -1,0 +1,8 @@
+{
+    "q1": "find me a hotel nearby",
+    "a1": "there is the_clement_hotel 4_miles away and comfort_inn in 5_miles which one do you prefer",
+    "q2": "can i have the address of a rest_stop",
+    "a2": "sure the the_clement_hotel is at 657_ames_ave it s just 4_miles away with no_traffic on our route",
+    "q3": "thank you let s go there",
+    "a3": "you re welcome navigation set"
+}

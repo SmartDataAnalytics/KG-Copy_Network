@@ -1,0 +1,14 @@
+{
+    "q1": "can you give me directions to a fast food place that serves pizza",
+    "a1": "we are 4_miles away from pizza_my_heart do you want me to highlight its address on the map",
+    "q2": "yes please",
+    "a2": "pizza_my_heart is 4_miles away at 528_anton_ct with moderate_traffic",
+    "q3": "is it the nearest to my current location",
+    "a3": "yes pizza_my_heart is the closest available",
+    "q4": "is there no_traffic on the route to pizza_my_heart",
+    "a4": "there is moderate_traffic but it s just 4_miles away it shouldn t take too long to reach",
+    "q5": "is there a nearby pizza place with no_traffic on the way",
+    "a5": "no that s the only pizza place in the area",
+    "q6": "ok thanks set the gps for there please",
+    "a6": "you re welcome happy to help"
+}

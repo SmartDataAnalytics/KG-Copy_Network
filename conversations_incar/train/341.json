@@ -1,0 +1,10 @@
+{
+    "q1": "car i need to get to a shopping_center please pick the quickest one around here",
+    "a1": "the closest shopping_center to you would be ravenswood_shopping_center at 434_arastradero_rd",
+    "q2": "i need a route with no_traffic please",
+    "a2": "i have one route with moderate_traffic",
+    "q3": "that is fine thank you",
+    "a3": "okay great we will navigate there then anything else",
+    "q4": "no that will be it thank you",
+    "a4": "you re welcome happy to help"
+}

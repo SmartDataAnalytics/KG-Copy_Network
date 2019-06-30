@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to the nearest mall",
+    "a1": "the nearest mall is town_and_country it is on 383_university_ave",
+    "q2": "how far is it and is there any traffic",
+    "a2": "town_and_country is 2_miles away with moderate_traffic should i plot a route",
+    "q3": "pick the quickest available and let s go thank you car",
+    "a3": "i sent the route on your screen you re welcome"
+}

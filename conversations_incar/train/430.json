@@ -1,0 +1,8 @@
+{
+    "q1": "find me a nearby shopping mall shopping_center",
+    "a1": "there is stanford_shopping_center 1_miles away do you want me to send you its address on screen",
+    "q2": "yes sounds good",
+    "a2": "stanford_shopping_center is located at 773_alger_dr do you want me to set the gps",
+    "q3": "yes please pick a quick route to go there too thank you",
+    "a3": "i sent the info with the best route on your screen you re welcome"
+}

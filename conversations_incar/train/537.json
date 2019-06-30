@@ -1,0 +1,12 @@
+{
+    "q1": "car i need a parking_garage closest to my position help me please",
+    "a1": "webster_garage is 4_miles away",
+    "q2": "is that the closest one if so send me the address as soon as possible",
+    "a2": "webster_garage is at 880_ames_ct",
+    "q3": "is that the closest one with no_traffic if so give me directions",
+    "a3": "here are directions to webster_garage",
+    "q4": "plot the fastest route to webster_garage with no_traffic",
+    "a4": "there is moderate_traffic on our route but you should reach fast anyway i sent the info on your screen drive carefully",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

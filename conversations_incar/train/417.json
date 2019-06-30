@@ -1,0 +1,10 @@
+{
+    "q1": "whats the nearest shopping_center to me and i need the quickest route",
+    "a1": "town_and_country is the nearest shopping_center but it has heavy_traffic on route",
+    "q2": "where is it located",
+    "a2": "town_and_country is at 383_university_ave",
+    "q3": "set gps for quickest possible route please",
+    "a3": "setting gps for quickest route now",
+    "q4": "thanks",
+    "a4": "you are welcome"
+}

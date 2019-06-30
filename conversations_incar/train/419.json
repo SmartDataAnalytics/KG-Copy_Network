@@ -1,0 +1,12 @@
+{
+    "q1": "where can i get tea",
+    "a1": "i have two locations you could purchase some tea at which would you prefer",
+    "q2": "i d like to give a name to these two \" locations \" and maybe an address thanks",
+    "a2": "okay both palo_alto_cafe and teavana are near",
+    "q3": "which one has no_traffic on our way",
+    "a3": "palo alto would be better as it only has moderate_traffic and teavana is heavy_traffic",
+    "q4": "would you give me the address for the palo_alto_cafe and set the quickest route there please",
+    "a4": "the quickest route noted is to 436_alger_dr do you want me to set the navigation",
+    "q5": "yes please thank you",
+    "a5": "you re welcome have a good day"
+}

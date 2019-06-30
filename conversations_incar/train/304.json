@@ -1,0 +1,8 @@
+{
+    "q1": "can you give me the address and the quickest route directions to a gas_station within two miles of here",
+    "a1": "the only gas_station is shell at 4_miles away but a roadblock is being reported",
+    "q2": "ok please give me the address and directions via the shortest distance",
+    "a2": "the address is 53_university_av and i am setting gps presently",
+    "q3": "thank you",
+    "a3": "you re welcome drive carefully"
+}

@@ -1,0 +1,12 @@
+{
+    "q1": "please find me directions to a nearby place i can get some coffee",
+    "a1": "here are directions to palo_alto_cafe",
+    "q2": "yes thanks and make sure to get me the quickest route please",
+    "a2": "there is no_traffic on the quickest route to palo_alto_cafe would you like the address",
+    "q3": "yes please",
+    "a3": "the address is 436_alger_dr and it is 5_miles away",
+    "q4": "thank you can you set gps to navigate us there",
+    "a4": "gps is set for palo_alto_cafe at 436_alger_dr which is 5_miles away with no_traffic",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

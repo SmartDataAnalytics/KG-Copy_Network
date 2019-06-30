@@ -1,0 +1,12 @@
+{
+    "q1": "i need the closest parking_garage",
+    "a1": "i have two parking_garages listed both are 2_miles away",
+    "q2": "which has the least amount of traffic so i could get there in the shortest distance",
+    "a2": "they both have no_traffic currently",
+    "q3": "what s the name and address of them",
+    "a3": "they are dish_parking at 550_alester_ave and civic_center_garage at270_altaire_walk",
+    "q4": "let s go to dish_parking",
+    "a4": "taking you to dish_parking",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

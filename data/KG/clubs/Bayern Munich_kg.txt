@@ -1,0 +1,151 @@
+Bayern Munich	ground	Allianz Arena
+Allianz Arena	capacity	75,000
+Bayern Munich	chairman	Karl-Heinz Rummenigge
+Bayern Munich	coach	Niko Kovač
+Bayern Munich	has player	Manuel Neuer
+Manuel Neuer	position	goalkeeper
+Manuel Neuer	goals	0
+Manuel Neuer	caps	216
+Manuel Neuer	date of birth	1986-03-27
+Manuel Neuer	jersey	1
+Manuel Neuer	height	1.93 m
+Bayern Munich	has player	Niklas Sule
+Niklas Sule	position	defender
+Niklas Sule	goals	4
+Niklas Sule	caps	58
+Niklas Sule	date of birth	1995-09-03
+Niklas Sule	jersey	4
+Niklas Sule	height	1.95 m
+Bayern Munich	has player	Mats Hummels
+Mats Hummels	position	defender
+Mats Hummels	goals	3
+Mats Hummels	caps	74
+Mats Hummels	date of birth	1988-12-16
+Mats Hummels	jersey	5
+Mats Hummels	height	1.92 m
+Bayern Munich	has player	Thiago
+Thiago	position	midfielder
+Thiago	goals	14
+Thiago	caps	126
+Thiago	date of birth	1991-04-11
+Thiago	jersey	6
+Thiago	height	1.74 m
+Bayern Munich	has player	Franck Ribery
+Franck Ribery	position	midfielder
+Franck Ribery	goals	86
+Franck Ribery	caps	273
+Franck Ribery	date of birth	1983-04-07
+Franck Ribery	jersey	7
+Franck Ribery	height	1.70 m
+Bayern Munich	has player	Javi Martinez
+Javi Martinez	position	defender
+Javi Martinez	goals	9
+Javi Martinez	caps	130
+Javi Martinez	date of birth	1988-09-02
+Javi Martinez	jersey	8
+Javi Martinez	height	1.90 m
+Bayern Munich	has player	Robert Lewandowski
+Robert Lewandowski	position	forward
+Robert Lewandowski	goals	128
+Robert Lewandowski	caps	159
+Robert Lewandowski	date of birth	1988-08-21
+Robert Lewandowski	jersey	9
+Robert Lewandowski	height	1.85 m
+Bayern Munich	has player	Arjen Robben
+Arjen Robben	position	midfielder
+Arjen Robben	goals	99
+Arjen Robben	caps	201
+Arjen Robben	date of birth	1984-01-23
+Arjen Robben	jersey	10
+Arjen Robben	height	1.80 m
+Bayern Munich	has player	James Rodriguez
+James Rodriguez	position	midfielder
+James Rodriguez	goals	14
+James Rodriguez	caps	43
+James Rodriguez	date of birth	1991-07-12
+James Rodriguez	jersey	11
+James Rodriguez	height	1.80 m
+Bayern Munich	has player	Rafinha
+Rafinha	position	defender
+Rafinha	goals	5
+Rafinha	caps	179
+Rafinha	date of birth	1985-09-07
+Rafinha	jersey	13
+Rafinha	height	1.71 m
+Bayern Munich	has player	Jerome Boateng
+Jerome Boateng	position	defender
+Jerome Boateng	goals	4
+Jerome Boateng	caps	176
+Jerome Boateng	date of birth	1988-09-03
+Jerome Boateng	jersey	17
+Jerome Boateng	height	1.92 m
+Bayern Munich	has player	Leon Goretzka
+Leon Goretzka	position	midfielder
+Leon Goretzka	goals	8
+Leon Goretzka	caps	30
+Leon Goretzka	date of birth	1995-02-06
+Leon Goretzka	jersey	18
+Leon Goretzka	height	1.89 m
+Bayern Munich	has player	Alphonso Davies
+Alphonso Davies	position	midfielder
+Alphonso Davies	goals	1
+Alphonso Davies	caps	6
+Alphonso Davies	date of birth	2000-11-02
+Alphonso Davies	jersey	19
+Alphonso Davies	height	1.81 m
+Bayern Munich	has player	Serge Gnabry
+Serge Gnabry	position	midfielder
+Serge Gnabry	goals	10
+Serge Gnabry	caps	30
+Serge Gnabry	date of birth	1995-07-14
+Serge Gnabry	jersey	22
+Serge Gnabry	height	1.75 m
+Bayern Munich	has player	Corentin Tolisso
+Corentin Tolisso	position	midfielder
+Corentin Tolisso	goals	7
+Corentin Tolisso	caps	28
+Corentin Tolisso	date of birth	1994-08-03
+Corentin Tolisso	jersey	24
+Corentin Tolisso	height	1.80 m
+Bayern Munich	has player	Thomas Muller
+Thomas Muller	position	forward
+Thomas Muller	goals	110
+Thomas Muller	caps	318
+Thomas Muller	date of birth	1989-09-13
+Thomas Muller	jersey	25
+Thomas Muller	height	1.86 m
+Bayern Munich	has player	Sven Ulreich
+Sven Ulreich	position	goalkeeper
+Sven Ulreich	goals	0
+Sven Ulreich	caps	44
+Sven Ulreich	date of birth	1988-08-03
+Sven Ulreich	jersey	26
+Sven Ulreich	height	1.92 m
+Bayern Munich	has player	David Alaba
+David Alaba	position	defender
+David Alaba	goals	19
+David Alaba	caps	221
+David Alaba	date of birth	1992-06-24
+David Alaba	jersey	27
+David Alaba	height	1.80 m
+Bayern Munich	has player	Kingsley Coman
+Kingsley Coman	position	midfielder
+Kingsley Coman	goals	9
+Kingsley Coman	caps	42
+Kingsley Coman	date of birth	1996-06-13
+Kingsley Coman	jersey	29
+Kingsley Coman	height	1.79 m
+Bayern Munich	has player	Joshua Kimmich
+Joshua Kimmich	position	defender
+Joshua Kimmich	goals	9
+Joshua Kimmich	caps	113
+Joshua Kimmich	date of birth	1995-02-08
+Joshua Kimmich	jersey	32
+Joshua Kimmich	height	1.76 m
+Bayern Munich	has player	Renato Sanches
+Renato Sanches	position	midfielder
+Renato Sanches	goals	1
+Renato Sanches	caps	34
+Renato Sanches	date of birth	1997-08-18
+Renato Sanches	jersey	35
+Renato Sanches	height	1.76 m

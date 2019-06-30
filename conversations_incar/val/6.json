@@ -1,0 +1,8 @@
+{
+    "q1": "car i need to get home it should be near me please highlight its position on the map",
+    "a1": "your home is at 10_ames_street",
+    "q2": "avoid all heavy_traffic and let s go there thank you",
+    "a2": "setting gps to avoid any heavy_traffic your route is now set",
+    "q3": "thanks so much",
+    "a3": "you re welcome"
+}

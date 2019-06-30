@@ -1,0 +1,10 @@
+{
+    "q1": "find me the closest fast food place that serves chinese",
+    "a1": "the nearest chinese_restaurant is mandarin_roots at 271_springer_street 4_miles away",
+    "q2": "i need a pizza_restaurant please not chinese i m sorry",
+    "a2": "the closest pizza is dominos would you like their information",
+    "q3": "yes please",
+    "a3": "dominos is 1_miles away at 776 arastradero road",
+    "q4": "thanks that sounds great",
+    "a4": "no problem i m here to assist you"
+}

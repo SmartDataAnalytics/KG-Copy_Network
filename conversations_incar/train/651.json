@@ -1,0 +1,8 @@
+{
+    "q1": "i need a grocery_store near me with no_traffic",
+    "a1": "there is willows_market 1_miles away and the road should be free from cars is it good for you",
+    "q2": "yes please give me the address and directions via the route that avoids all heavy_traffic",
+    "a2": "willows_market is located at 409_bollard_st with no_traffic reported",
+    "q3": "awesome thanks",
+    "a3": "no problem"
+}

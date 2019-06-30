@@ -1,0 +1,12 @@
+{
+    "q1": "find directions to home",
+    "a1": "i do not have directions for home at this moment",
+    "q2": "my home is within 3_miles does this help",
+    "a2": "do you mean you want to go at tom s house it s the only private address i have in a 3_miles range",
+    "q3": "yes please that will do",
+    "a3": "i ve marked the address on your gps 580_van_ness_ave",
+    "q4": "thank you",
+    "a4": "there is currently no_traffic on the way to tom s house",
+    "q5": "thank you car let s go on the quickest route",
+    "a5": "you re welcome just follow your gps now i ve picked for you the fastest route"
+}

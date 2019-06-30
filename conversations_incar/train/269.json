@@ -1,0 +1,12 @@
+{
+    "q1": "give me directions to my friends house",
+    "a1": "i don t see any address listed as that do you have an alternate one",
+    "q2": "mmm no i m sorry if you don t see it forget about it i remember the road let s hope to avoid all heavy_traffic",
+    "a2": "sorry i just found it 56_cadwell_street i set the gps to get there and don t worry there is no_traffic now",
+    "q3": "that ll work thanks",
+    "a3": "no problem",
+    "q4": "show me route details please",
+    "a4": "gps is set for 56_cadwell_street which is 3 minutes away with no_traffic",
+    "q5": "thank you",
+    "a5": "you re welcome"
+}

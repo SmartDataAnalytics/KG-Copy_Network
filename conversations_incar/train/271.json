@@ -1,0 +1,10 @@
+{
+    "q1": "where can i go shopping",
+    "a1": "ravenswood_shopping_center is close",
+    "q2": "is it within 3_miles of my location",
+    "a2": "yes ravenswood is within 3_miles with moderate_traffic noted",
+    "q3": "please give me the quickest route",
+    "a3": "i sent the quickest route on your screen drive carefully",
+    "q4": "thank you",
+    "a4": "you re welcome"
+}

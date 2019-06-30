@@ -1,0 +1,133 @@
+Italy	coach	Roberto Mancini
+Italy	captain	Giorgio Chiellini
+Italy	world cup appearance	18 (first in 1934)
+Italy	world cup Champions	1934
+Italy	world cup Champions	 1938
+Italy	world cup Champions	 1982
+Italy	world cup Champions	 2006
+Italy	goalkeeper	Salvatore Sirigu
+Italy	has player	Salvatore Sirigu
+Salvatore Sirigu	position	goalkeeper
+Salvatore Sirigu	goals	0
+Salvatore Sirigu	caps	22
+Salvatore Sirigu	age	32
+Salvatore Sirigu	jersey	1
+Italy	defender	Mattia De Sciglio
+Italy	has player	Mattia De Sciglio
+Mattia De Sciglio	position	defender
+Mattia De Sciglio	goals	0
+Mattia De Sciglio	caps	39
+Mattia De Sciglio	age	26
+Mattia De Sciglio	jersey	2
+Italy	defender	Giorgio Chiellini 
+Italy	has player	Giorgio Chiellini 
+Giorgio Chiellini 	position	defender
+Giorgio Chiellini 	goals	8
+Giorgio Chiellini 	caps	103
+Giorgio Chiellini 	age	34
+Giorgio Chiellini 	jersey	3
+Italy	defender	Alessio Romagnoli
+Italy	has player	Alessio Romagnoli
+Alessio Romagnoli	position	defender
+Alessio Romagnoli	goals	0
+Alessio Romagnoli	caps	9
+Alessio Romagnoli	age	24
+Alessio Romagnoli	jersey	13
+Italy	defender	Alessandro Florenzi
+Italy	has player	Alessandro Florenzi
+Alessandro Florenzi	position	defender
+Alessandro Florenzi	goals	2
+Alessandro Florenzi	caps	32
+Alessandro Florenzi	age	28
+Alessandro Florenzi	jersey	16
+Italy	defender	Leonardo Bonucci
+Italy	has player	Leonardo Bonucci
+Leonardo Bonucci	position	defender
+Leonardo Bonucci	goals	7
+Leonardo Bonucci	caps	89
+Leonardo Bonucci	age	32
+Leonardo Bonucci	jersey	19
+Italy	midfielder	Marco Verratti
+Italy	has player	Marco Verratti
+Marco Verratti	position	midfielder
+Marco Verratti	goals	3
+Marco Verratti	caps	33
+Marco Verratti	age	26
+Marco Verratti	jersey	6
+Italy	midfielder	Lorenzo Pellegrini
+Italy	has player	Lorenzo Pellegrini
+Lorenzo Pellegrini	position	midfielder
+Lorenzo Pellegrini	goals	0
+Lorenzo Pellegrini	caps	10
+Lorenzo Pellegrini	age	23
+Lorenzo Pellegrini	jersey	7
+Italy	midfielder	Jorginho
+Italy	has player	Jorginho
+Jorginho	position	midfielder
+Jorginho	goals	1
+Jorginho	caps	17
+Jorginho	age	27
+Jorginho	jersey	8
+Italy	midfielder	Nicolo Barella
+Italy	has player	Nicolo Barella
+Nicolo Barella	position	midfielder
+Nicolo Barella	goals	2
+Nicolo Barella	caps	7
+Nicolo Barella	age	22
+Nicolo Barella	jersey	18
+Italy	midfielder	Federico Bernardeschi
+Italy	has player	Federico Bernardeschi
+Federico Bernardeschi	position	midfielder
+Federico Bernardeschi	goals	2
+Federico Bernardeschi	caps	19
+Federico Bernardeschi	age	25
+Federico Bernardeschi	jersey	20
+Italy	midfielder	Bryan Cristante
+Italy	has player	Bryan Cristante
+Bryan Cristante	position	midfielder
+Bryan Cristante	goals	0
+Bryan Cristante	caps	6
+Bryan Cristante	age	24
+Bryan Cristante	jersey	23
+Italy	forward	Andrea Belotti
+Italy	has player	Andrea Belotti
+Andrea Belotti	position	forward
+Andrea Belotti	goals	5
+Andrea Belotti	caps	22
+Andrea Belotti	age	25
+Andrea Belotti	jersey	9
+Italy	forward	Lorenzo Insigne
+Italy	has player	Lorenzo Insigne
+Lorenzo Insigne	position	forward
+Lorenzo Insigne	goals	6
+Lorenzo Insigne	caps	32
+Lorenzo Insigne	age	28
+Lorenzo Insigne	jersey	10
+Italy	forward	Stephan El Shaarawy
+Italy	has player	Stephan El Shaarawy
+Stephan El Shaarawy	position	forward
+Stephan El Shaarawy	goals	3
+Stephan El Shaarawy	caps	23
+Stephan El Shaarawy	age	26
+Stephan El Shaarawy	jersey	11
+Italy	forward	Federico Chiesa
+Italy	has player	Federico Chiesa
+Federico Chiesa	position	forward
+Federico Chiesa	goals	0
+Federico Chiesa	caps	13
+Federico Chiesa	age	21
+Federico Chiesa	jersey	14
+Italy	forward	Ciro Immobile
+Italy	has player	Ciro Immobile
+Ciro Immobile	position	forward
+Ciro Immobile	goals	7
+Ciro Immobile	caps	36
+Ciro Immobile	age	29
+Ciro Immobile	jersey	17
+Italy	forward	Fabio Quagliarella
+Italy	has player	Fabio Quagliarella
+Fabio Quagliarella	position	forward
+Fabio Quagliarella	goals	9
+Fabio Quagliarella	caps	28
+Fabio Quagliarella	age	36
+Fabio Quagliarella	jersey	21

@@ -1,0 +1,10 @@
+{
+    "q1": "can you find me a rest_stop i m tired",
+    "a1": "four_seasons is 7_miles away",
+    "q2": "is that the closest available",
+    "a2": "yes it is and unfortunately there is a car_collision_nearby reaching there will take longer",
+    "q3": "oh no ok set the gps and let s get started",
+    "a3": "i sent the route and the position of the hotel on your screen drive carefully",
+    "q4": "thank you",
+    "a4": "you are welcome"
+}

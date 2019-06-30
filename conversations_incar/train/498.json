@@ -1,0 +1,12 @@
+{
+    "q1": "how many hotels are around here",
+    "a1": "there is just the_westin it s 4_miles away",
+    "q2": "how is the traffic",
+    "a2": "there is a car_collision_nearby it might cost us lot of wait",
+    "q3": "okay where is the_westin",
+    "a3": "the_westin is at 329 el camino rea 4_miles away with a car collision is nearby",
+    "q4": "is there a quick route to reach it",
+    "a4": "i sent the best possible route on your screen please drive carefully",
+    "q5": "thank you car assistant",
+    "a5": "you re welcome happy to help"
+}

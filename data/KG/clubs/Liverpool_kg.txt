@@ -1,0 +1,179 @@
+Liverpool	ground	Anfield
+Anfield	capacity	54,074
+Liverpool	chairman	Tom Werner
+Liverpool	coach	Jürgen Klopp
+Liverpool	has player	Nathaniel Clyne
+Nathaniel Clyne	position	defender
+Nathaniel Clyne	goals	1
+Nathaniel Clyne	caps	77
+Nathaniel Clyne	date of birth	1991-04-05
+Nathaniel Clyne	jersey	2
+Nathaniel Clyne	height	1.75 m
+Liverpool	has player	Fabinho
+Fabinho	position	midfielder
+Fabinho	goals	1
+Fabinho	caps	28
+Fabinho	date of birth	1993-10-23
+Fabinho	jersey	3
+Fabinho	height	1.88 m
+Liverpool	has player	Virgil van Dijk
+Virgil van Dijk	position	defender
+Virgil van Dijk	goals	4
+Virgil van Dijk	caps	52
+Virgil van Dijk	date of birth	1991-07-08
+Virgil van Dijk	jersey	4
+Virgil van Dijk	height	1.93 m
+Liverpool	has player	Georginio Wijnaldum
+Georginio Wijnaldum	position	midfielder
+Georginio Wijnaldum	goals	10
+Georginio Wijnaldum	caps	104
+Georginio Wijnaldum	date of birth	1990-11-11
+Georginio Wijnaldum	jersey	5
+Georginio Wijnaldum	height	1.75 m
+Liverpool	has player	Dejan Lovren
+Dejan Lovren	position	defender
+Dejan Lovren	goals	5
+Dejan Lovren	caps	122
+Dejan Lovren	date of birth	1989-07-05
+Dejan Lovren	jersey	6
+Dejan Lovren	height	1.88 m
+Liverpool	has player	James Milner
+James Milner	position	midfielder
+James Milner	goals	17
+James Milner	caps	127
+James Milner	date of birth	1986-01-04
+James Milner	jersey	7
+James Milner	height	1.75 m
+Liverpool	has player	Naby Keita
+Naby Keita	position	midfielder
+Naby Keita	goals	2
+Naby Keita	caps	25
+Naby Keita	date of birth	1995-02-10
+Naby Keita	jersey	8
+Naby Keita	height	1.72 m
+Liverpool	has player	Roberto Firmino
+Roberto Firmino	position	forward
+Roberto Firmino	goals	48
+Roberto Firmino	caps	137
+Roberto Firmino	date of birth	1991-10-02
+Roberto Firmino	jersey	9
+Roberto Firmino	height	1.81 m
+Liverpool	has player	Sadio Mane
+Sadio Mane	position	forward
+Sadio Mane	goals	45
+Sadio Mane	caps	92
+Sadio Mane	date of birth	1992-04-10
+Sadio Mane	jersey	10
+Sadio Mane	height	1.75 m
+Liverpool	has player	Mohamed Salah
+Mohamed Salah	position	forward
+Mohamed Salah	goals	54
+Mohamed Salah	caps	74
+Mohamed Salah	date of birth	1992-06-15
+Mohamed Salah	jersey	11
+Mohamed Salah	height	1.75 m
+Liverpool	has player	Joe Gomez
+Joe Gomez	position	defender
+Joe Gomez	goals	0
+Joe Gomez	caps	44
+Joe Gomez	date of birth	1997-05-23
+Joe Gomez	jersey	12
+Joe Gomez	height	1.88 m
+Liverpool	has player	Alisson
+Alisson	position	goalkeeper
+Alisson	goals	0
+Alisson	caps	38
+Alisson	date of birth	1992-10-02
+Alisson	jersey	13
+Alisson	height	1.93 m
+Liverpool	has player	Jordan Henderson
+Jordan Henderson	position	midfielder
+Jordan Henderson	goals	22
+Jordan Henderson	caps	239
+Jordan Henderson	date of birth	1990-06-17
+Jordan Henderson	jersey	14
+Jordan Henderson	height	1.82 m
+Liverpool	has player	Daniel Sturridge
+Daniel Sturridge	position	forward
+Daniel Sturridge	goals	50
+Daniel Sturridge	caps	116
+Daniel Sturridge	date of birth	1989-09-01
+Daniel Sturridge	jersey	15
+Daniel Sturridge	height	1.88 m
+Liverpool	has player	Marko Grujic
+Marko Grujic	position	midfielder
+Marko Grujic	goals	0
+Marko Grujic	caps	8
+Marko Grujic	date of birth	1996-04-13
+Marko Grujic	jersey	16
+Marko Grujic	height	1.90 m
+Liverpool	has player	Alberto Moreno
+Alberto Moreno	position	defender
+Alberto Moreno	goals	3
+Alberto Moreno	caps	90
+Alberto Moreno	date of birth	1992-07-05
+Alberto Moreno	jersey	18
+Alberto Moreno	height	1.71 m
+Liverpool	has player	Adam Lallana
+Adam Lallana	position	midfielder
+Adam Lallana	goals	17
+Adam Lallana	caps	113
+Adam Lallana	date of birth	1988-05-10
+Adam Lallana	jersey	20
+Adam Lallana	height	1.72 m
+Liverpool	has player	Alex Oxlade-Chamberlain
+Alex Oxlade-Chamberlain	position	midfielder
+Alex Oxlade-Chamberlain	goals	3
+Alex Oxlade-Chamberlain	caps	34
+Alex Oxlade-Chamberlain	date of birth	1993-08-15
+Alex Oxlade-Chamberlain	jersey	21
+Alex Oxlade-Chamberlain	height	1.80 m
+Liverpool	has player	Simon Mignolet
+Simon Mignolet	position	goalkeeper
+Simon Mignolet	goals	0
+Simon Mignolet	caps	155
+Simon Mignolet	date of birth	1988-03-06
+Simon Mignolet	jersey	22
+Simon Mignolet	height	1.93 m
+Liverpool	has player	Xherdan Shaqiri
+Xherdan Shaqiri	position	midfielder
+Xherdan Shaqiri	goals	6
+Xherdan Shaqiri	caps	24
+Xherdan Shaqiri	date of birth	1991-10-10
+Xherdan Shaqiri	jersey	23
+Xherdan Shaqiri	height	1.69 m
+Liverpool	has player	Andrew Robertson
+Andrew Robertson	position	defender
+Andrew Robertson	goals	1
+Andrew Robertson	caps	58
+Andrew Robertson	date of birth	1994-03-11
+Andrew Robertson	jersey	26
+Andrew Robertson	height	178 cm
+Liverpool	has player	Divock Origi
+Divock Origi	position	forward
+Divock Origi	goals	15
+Divock Origi	caps	63
+Divock Origi	date of birth	1995-04-18
+Divock Origi	jersey	27
+Divock Origi	height	1.85 m
+Liverpool	has player	Joel Matip
+Joel Matip	position	defender
+Joel Matip	goals	3
+Joel Matip	caps	76
+Joel Matip	date of birth	1991-08-08
+Joel Matip	jersey	32
+Joel Matip	height	1.95 m
+Liverpool	has player	Ben Woodburn
+Ben Woodburn	position	forward
+Ben Woodburn	goals	0
+Ben Woodburn	caps	6
+Ben Woodburn	date of birth	1999-10-15
+Ben Woodburn	jersey	58
+Ben Woodburn	height	1.74 m
+Liverpool	has player	Trent Alexander-Arnold
+Trent Alexander-Arnold	position	defender
+Trent Alexander-Arnold	goals	2
+Trent Alexander-Arnold	caps	55
+Trent Alexander-Arnold	date of birth	1998-10-07
+Trent Alexander-Arnold	jersey	66
+Trent Alexander-Arnold	height	1.75 m

@@ -1,0 +1,12 @@
+{
+    "q1": "give me directions to a coffee place",
+    "a1": "navigating to cafe_venetia",
+    "q2": "please pick the fastest route and bring me there thank you",
+    "a2": "i only have one listed and it s got heavy_traffic do you still want to go there",
+    "q3": "i guess what is the address",
+    "a3": "cafe_venetia is located at 269_alger_drive",
+    "q4": "pick the fastest route for me car thank you",
+    "a4": "setting your gps for the fastest route to cafe_venetia now",
+    "q5": "thank you for all your help",
+    "a5": "you re very welcome"
+}

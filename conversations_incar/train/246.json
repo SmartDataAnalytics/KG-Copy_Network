@@ -1,0 +1,8 @@
+{
+    "q1": "find a parking_garage",
+    "a1": "there is 2 local parking_garage s both are 3_miles away palo alto garage has moderate_traffic and stanford oval has no_traffic which one do you prefer",
+    "q2": "stanford oval please",
+    "a2": "alright stanford_oval_parking is located at 610_amarillo_ave",
+    "q3": "please pick the fastest way to go there thank you",
+    "a3": "fastest route chosen we should arrive shortly"
+}

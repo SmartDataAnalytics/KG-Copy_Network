@@ -1,0 +1,8 @@
+{
+    "q1": "navigate home",
+    "a1": "home is 5_miles away at 5671 barringer street",
+    "q2": "is that route avoiding heavy_traffic",
+    "a2": "no the only route available has heavy_traffic i m sorry",
+    "q3": "that is ok",
+    "a3": "sorry about it enjoy some music in the meantime"
+}

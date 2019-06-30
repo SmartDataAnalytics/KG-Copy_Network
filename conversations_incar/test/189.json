@@ -1,0 +1,10 @@
+{
+    "q1": "please give the directions to a nearby hospital",
+    "a1": "the only nearby hospital is stanford_express_care which is 5_miles away",
+    "q2": "and how is the traffic",
+    "a2": "there is currently a road_block_nearby on the 5_miles route to stanford_express_care",
+    "q3": "could you give me the address and directions via a quick route",
+    "a3": "the only route to stanford is reporting a road block but i am finding you the quickest route to 214_el_camino_real",
+    "q4": "okay thank you",
+    "a4": "you re welcome drive safely and take care"
+}

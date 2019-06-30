@@ -1,0 +1,10 @@
+{
+    "q1": "show me the route to coffee shop",
+    "a1": "we are 2_miles away from teavana would you like me to send you its address on screen",
+    "q2": "is it the quickest to get to from my current location",
+    "a2": "yes teavana is the only place close to you at 2_miles away located at 145_amherst_st do you want me to set the gps",
+    "q3": "set gps on route to avoid heavy_traffic",
+    "a3": "i found some alternate road follow your gps and let s hope to not get lost just kidding",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

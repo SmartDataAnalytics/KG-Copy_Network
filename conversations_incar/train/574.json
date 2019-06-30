@@ -1,0 +1,8 @@
+{
+    "q1": "i need a gas_station with the least amount of traffic",
+    "a1": "76 at 91_el_camino_real is the only gas_station that i can find it is 4_miles away through heavy_traffic",
+    "q2": "ok please give me directions via the route that seems to avoid most heavy_traffic",
+    "a2": "there is no current route without heavy_traffic",
+    "q3": "okay it will do let s go",
+    "a3": "alright"
+}

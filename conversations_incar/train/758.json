@@ -1,0 +1,12 @@
+{
+    "q1": "navigate to my friend s home please",
+    "a1": "do you know the address of friend s home",
+    "q2": "actually i need to go home the quickest route please",
+    "a2": "the quickest route home is 4_miles away with heavy_traffic located at 5671_barringer_street",
+    "q3": "thanks",
+    "a3": "the quickest route to home is in heavy_traffic",
+    "q4": "ok well set the gps to there please",
+    "a4": "setting navigation to 5671_barringer_street now",
+    "q5": "thank you so much car",
+    "a5": "you re welcome"
+}

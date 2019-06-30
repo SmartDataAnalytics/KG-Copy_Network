@@ -1,0 +1,8 @@
+{
+    "q1": "please give me a list of hotels that are near me in the direction",
+    "a1": "i have two rest_stops near you one is 4_miles away with no_traffic and one is 5_miles away with heavy_traffic do you have a preference",
+    "q2": "i need the quickest route please",
+    "a2": "i will begin the directions now",
+    "q3": "thank you",
+    "a3": "you re welcome"
+}

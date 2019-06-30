@@ -1,0 +1,8 @@
+{
+    "q1": "can you find me a gas_station nearby",
+    "a1": "we re 6_miles away from chevron but there is a road_block_nearby",
+    "q2": "which one is it the quickest way to get there",
+    "a2": "i picked the quickest way and sent it on your map navigating there now",
+    "q3": "thank you so much car",
+    "a3": "no problem i m here to assist you"
+}

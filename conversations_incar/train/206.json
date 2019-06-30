@@ -1,0 +1,10 @@
+{
+    "q1": "give me the closest fast food restaurant",
+    "a1": "i do not have a listing for any fast food places but i do have a pizza_restaurant that is 3_miles away would you like more info on it",
+    "q2": "sure find the fastest route to a pizza place that is within 3_miles of me",
+    "a2": "pizza_hut is 3_miles away would you like the address",
+    "q3": "yes please",
+    "a3": "704_el_camino_real i ve already set the navigator to go there",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "search for nearby starbucks",
+    "a1": "there are no nearby starbucks",
+    "q2": "is there another coffee place within 4_miles",
+    "a2": "sure there are philz and coupa they re both 1_miles away but there is a car_collision_nearby philz and heavy_traffic on coupa s direction",
+    "q3": "give me directions to philz please",
+    "a3": "i sent all the info on your screen please drive carefully",
+    "q4": "thank you very much",
+    "a4": "you re welcome"
+}

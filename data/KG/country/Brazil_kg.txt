@@ -1,0 +1,173 @@
+Brazil	coach	Tite[1]
+Brazil	captain	Dani Alves[2]
+Brazil	world cup appearance	21 (first in 1930)
+Brazil	world cup Champions	1958
+Brazil	world cup Champions	 1962
+Brazil	world cup Champions	 1970
+Brazil	world cup Champions	 1994
+Brazil	world cup Champions	 2002
+Brazil	goalkeeper	Alisson
+Brazil	has player	Alisson
+Alisson	position	goalkeeper
+Alisson	goals	0
+Alisson	caps	40
+Alisson	age	26
+Alisson	jersey	1
+Brazil	goalkeeper	Ederson
+Brazil	has player	Ederson
+Ederson	position	goalkeeper
+Ederson	goals	0
+Ederson	caps	5
+Ederson	age	25
+Ederson	jersey	23
+Brazil	defender	Thiago Silva
+Brazil	has player	Thiago Silva
+Thiago Silva	position	defender
+Thiago Silva	goals	7
+Thiago Silva	caps	83
+Thiago Silva	age	34
+Thiago Silva	jersey	2
+Brazil	defender	Miranda
+Brazil	has player	Miranda
+Miranda	position	defender
+Miranda	goals	3
+Miranda	caps	57
+Miranda	age	34
+Miranda	jersey	3
+Brazil	defender	Marquinhos
+Brazil	has player	Marquinhos
+Marquinhos	position	defender
+Marquinhos	goals	1
+Marquinhos	caps	40
+Marquinhos	age	25
+Marquinhos	jersey	4
+Brazil	defender	Filipe Luis
+Brazil	has player	Filipe Luis
+Filipe Luis	position	defender
+Filipe Luis	goals	2
+Filipe Luis	caps	44
+Filipe Luis	age	33
+Filipe Luis	jersey	6
+Brazil	defender	Alex Sandro
+Brazil	has player	Alex Sandro
+Alex Sandro	position	defender
+Alex Sandro	goals	1
+Alex Sandro	caps	17
+Alex Sandro	age	28
+Alex Sandro	jersey	12
+Brazil	defender	Dani Alves 
+Brazil	has player	Dani Alves 
+Dani Alves 	position	defender
+Dani Alves 	goals	8
+Dani Alves 	caps	113
+Dani Alves 	age	36
+Dani Alves 	jersey	13
+Brazil	defender	Fagner
+Brazil	has player	Fagner
+Fagner	position	defender
+Fagner	goals	0
+Fagner	caps	9
+Fagner	age	30
+Fagner	jersey	22
+Brazil	midfielder	Casemiro
+Brazil	has player	Casemiro
+Casemiro	position	midfielder
+Casemiro	goals	1
+Casemiro	caps	39
+Casemiro	age	27
+Casemiro	jersey	5
+Brazil	midfielder	Arthur
+Brazil	has player	Arthur
+Arthur	position	midfielder
+Arthur	goals	0
+Arthur	caps	13
+Arthur	age	22
+Arthur	jersey	8
+Brazil	midfielder	Willian
+Brazil	has player	Willian
+Willian	position	midfielder
+Willian	goals	9
+Willian	caps	68
+Willian	age	30
+Willian	jersey	10
+Brazil	midfielder	Philippe Coutinho
+Brazil	has player	Philippe Coutinho
+Philippe Coutinho	position	midfielder
+Philippe Coutinho	goals	16
+Philippe Coutinho	caps	53
+Philippe Coutinho	age	27
+Philippe Coutinho	jersey	11
+Brazil	midfielder	Allan
+Brazil	has player	Allan
+Allan	position	midfielder
+Allan	goals	0
+Allan	caps	6
+Allan	age	28
+Allan	jersey	15
+Brazil	midfielder	Fernandinho
+Brazil	has player	Fernandinho
+Fernandinho	position	midfielder
+Fernandinho	goals	2
+Fernandinho	caps	53
+Fernandinho	age	34
+Fernandinho	jersey	17
+Brazil	midfielder	Lucas Paqueta
+Brazil	has player	Lucas Paqueta
+Lucas Paqueta	position	midfielder
+Lucas Paqueta	goals	1
+Lucas Paqueta	caps	6
+Lucas Paqueta	age	21
+Lucas Paqueta	jersey	18
+Brazil	forward	David Neres
+Brazil	has player	David Neres
+David Neres	position	forward
+David Neres	goals	1
+David Neres	caps	5
+David Neres	age	22
+David Neres	jersey	7
+Brazil	forward	Gabriel Jesus
+Brazil	has player	Gabriel Jesus
+Gabriel Jesus	position	forward
+Gabriel Jesus	goals	16
+Gabriel Jesus	caps	33
+Gabriel Jesus	age	22
+Gabriel Jesus	jersey	9
+Brazil	forward	Everton
+Brazil	has player	Everton
+Everton	position	forward
+Everton	goals	2
+Everton	caps	10
+Everton	age	23
+Everton	jersey	19
+Brazil	forward	Roberto Firmino
+Brazil	has player	Roberto Firmino
+Roberto Firmino	position	forward
+Roberto Firmino	goals	11
+Roberto Firmino	caps	36
+Roberto Firmino	age	27
+Roberto Firmino	jersey	20
+Brazil	forward	Richarlison
+Brazil	has player	Richarlison
+Richarlison	position	forward
+Richarlison	goals	5
+Richarlison	caps	12
+Richarlison	age	22
+Richarlison	jersey	21
+Brazil	defender	Marcelo
+Brazil	has player	Marcelo
+Marcelo	position	defender
+Marcelo	goals	6
+Marcelo	caps	58
+Marcelo	age	31
+Brazil	midfielder	Paulinho
+Brazil	has player	Paulinho
+Paulinho	position	midfielder
+Paulinho	goals	13
+Paulinho	caps	56
+Paulinho	age	30
+Brazil	forward	Neymar
+Brazil	has player	Neymar
+Neymar	position	forward
+Neymar	goals	60
+Neymar	caps	97
+Neymar	age	27

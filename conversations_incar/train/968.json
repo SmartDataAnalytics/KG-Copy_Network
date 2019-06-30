@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to my house",
+    "a1": "where is your house located",
+    "q2": "it should be the closest address",
+    "a2": "is it 5677_springer_street",
+    "q3": "yes",
+    "a3": "will you be needing any more info",
+    "q4": "that s it thank you car please set the navigation to reach there on a route with no_traffic",
+    "a4": "i ve picked a route with no_traffic follow the map on the screen and enjoy your trip"
+}

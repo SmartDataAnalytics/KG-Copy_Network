@@ -1,0 +1,12 @@
+{
+    "q1": "navigate to the nearest coffee shop",
+    "a1": "we re 6_miles away from starbucks and there is a road_block_nearby do you want to go there anyway",
+    "q2": "is starbucks the closest coffee shop",
+    "a2": "the closest coffee shop is cafe_venetia 1_miles away",
+    "q3": "where is cafe_venetia",
+    "a3": "cafe_venetia is located at 269_alger_dr",
+    "q4": "sounds good make a route to cafe_venetia with no_traffic",
+    "a4": "i sent the best route on your screen enjoy your trip",
+    "q5": "thank you very much car",
+    "a5": "you re welcome"
+}

@@ -1,0 +1,12 @@
+{
+    "q1": "where is the closest place to eat",
+    "a1": "there is a pizza_restaurant 3_miles away and a couple chinese_restaurant a little farther what would you like to eat",
+    "q2": "chinese please",
+    "a2": "panda_express is 5_miles away in heavy_traffic and chef_chu_s is 8_miles away but there is a road_block_nearby which of these do you prefer",
+    "q3": "let s go at panda to avoid all heavy_traffic nearby chef chu",
+    "a3": "i sent the directions to reach panda_express on your screen enjoy the trip",
+    "q4": "okay but where is panda_express",
+    "a4": "panda_express is at 842_arrowhead_way setting navigation now",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

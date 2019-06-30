@@ -1,0 +1,8 @@
+{
+    "q1": "please give me the address and directions via the shortest distance to the nearest pizza place",
+    "a1": "the closest is pizza_chicago 5_miles away at 915_arbol_dr would you like directions there",
+    "q2": "yes please show me the route with the shortest distance thank you",
+    "a2": "here is the shortest route to pizza_chicago",
+    "q3": "thank you car",
+    "a3": "you re welcome"
+}

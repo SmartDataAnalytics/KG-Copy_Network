@@ -1,0 +1,10 @@
+{
+    "q1": "find me a nearby shopping mall shopping_center",
+    "a1": "the local shopping_center is stanford_shopping_center located at 773_alger_dr",
+    "q2": "ok please direct me there via a route with no_traffic",
+    "a2": "there is heavy_traffic going into 773_alger_dr",
+    "q3": "is there another shopping_center nearby if not please set directions via the route with least traffic",
+    "a3": "there are no other shopping_centers nearby sending directions",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

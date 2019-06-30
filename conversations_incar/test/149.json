@@ -1,0 +1,10 @@
+{
+    "q1": "i need a route to the shopping_center with no_traffic",
+    "a1": "stanford_shopping_center is the only nearby shopping_center",
+    "q2": "what does the traffic look like",
+    "a2": "there is a car_collision_nearby stanford_shopping_center",
+    "q3": "ouch patience please pick the route with least traffic and let s go there thank you",
+    "a3": "the route to 773_alger_dr set to the quickest possible",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

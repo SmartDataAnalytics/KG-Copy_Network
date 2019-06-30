@@ -1,0 +1,10 @@
+{
+    "q1": "take me to the nearest hotel",
+    "a1": "i am setting gps for the nearest hotel which is a travelers_lodge 4_miles away at 333_arbol_dr and there is a nearby road block",
+    "q2": "please direct me via a route with the least heavy_traffic",
+    "a2": "the current route is the only one that i have available to travelers_lodge",
+    "q3": "then let s go there through this route thank you car",
+    "a3": "current route plotted to traveler s lodge is there anything else you need",
+    "q4": "i need some sleep but i will get it there thank you car",
+    "a4": "you are welcome driver drive safely"
+}

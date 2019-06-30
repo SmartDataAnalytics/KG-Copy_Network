@@ -1,0 +1,8 @@
+{
+    "q1": "show me traffic for going home",
+    "a1": "home is 1_miles away with moderate_traffic do you need the address",
+    "q2": "no thanks i remember it just avoid all heavy_traffic and show me the route on screen",
+    "a2": "home is located at 10_ames_street and has moderate_traffic we should be there soon",
+    "q3": "thanks so much",
+    "a3": "you re welcome"
+}

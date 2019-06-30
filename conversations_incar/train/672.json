@@ -1,0 +1,12 @@
+{
+    "q1": "car i need to get to the nearest shopping_center and i need the fastest route",
+    "a1": "topanga_mall is the nearest shopping mall and it s located 8_miles away",
+    "q2": "topanga_mall is the nearest shopping mall and it s located 8_miles away",
+    "a2": "topanga_mall is the nearest shopping mall setting gps for fastest route",
+    "q3": "send me the address as well",
+    "a3": "topanga_mall is at 171_oak_rd",
+    "q4": "thank you car set the gps to go there on the fastest route please",
+    "a4": "unfortunately there is a road_block_nearby but i sent on your screen another route that should allow you to reach the mall in about the same time",
+    "q5": "thank you very much car",
+    "a5": "you re welcome"
+}

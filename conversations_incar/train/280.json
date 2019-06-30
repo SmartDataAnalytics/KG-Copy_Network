@@ -1,0 +1,10 @@
+{
+    "q1": "can you find me a coffee place near me",
+    "a1": "coupa is 3_miles away",
+    "q2": "is there any traffic on the way there",
+    "a2": "the route to coupa does not have any traffic",
+    "q3": "can you pull up the route and put it on the screen",
+    "a3": "coupa is 3_miles away at 394_van_ness_ave the screen has been set to display the address",
+    "q4": "thank you car",
+    "a4": "you re welcome drive safely"
+}

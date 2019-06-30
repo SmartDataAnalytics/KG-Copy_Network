@@ -1,0 +1,12 @@
+{
+    "q1": "i want coffee",
+    "a1": "starbucks is 1_miles away",
+    "q2": "what is the address",
+    "a2": "the address is 792_bedoin_street",
+    "q3": "what is the traffic like to that location",
+    "a3": "there is heavy_traffic to that location should we navigate there",
+    "q4": "no i would like to avoid any heavy_traffic please",
+    "a4": "there is only heavy_traffic noted but it s only 1_miles away so we should arrive quickly",
+    "q5": "thank you",
+    "a5": "you re welcome"
+}

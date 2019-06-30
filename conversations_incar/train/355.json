@@ -1,0 +1,8 @@
+{
+    "q1": "i need the route with the shortest distance to a parking_garage in the area",
+    "a1": "webster_garage is located at 880_ames_ct it is 2_miles away",
+    "q2": "can you provide me with the shortest distance to reach there",
+    "a2": "unfortunately there is a car_collision_nearby but i already sent on your screen another route to reach the garage fast enough",
+    "q3": "thanks sounds good",
+    "a3": "drive carefully"
+}

@@ -1,0 +1,149 @@
+Portugal	coach	Fernando Santos
+Portugal	captain	Cristiano Ronaldo
+Portugal	world cup appearance	7 (first in 1966)
+Portugal	world cup Third place	1966
+Portugal	goalkeeper	Rui Patricio
+Portugal	has player	Rui Patricio
+Rui Patricio	position	goalkeeper
+Rui Patricio	goals	0
+Rui Patricio	caps	81
+Rui Patricio	age	31
+Rui Patricio	jersey	1
+Portugal	goalkeeper	Beto
+Portugal	has player	Beto
+Beto	position	goalkeeper
+Beto	goals	0
+Beto	caps	16
+Beto	age	37
+Beto	jersey	22
+Portugal	defender	Pepe
+Portugal	has player	Pepe
+Pepe	position	defender
+Pepe	goals	7
+Pepe	caps	106
+Pepe	age	36
+Pepe	jersey	3
+Portugal	defender	Jose Fonte
+Portugal	has player	Jose Fonte
+Jose Fonte	position	defender
+Jose Fonte	goals	0
+Jose Fonte	caps	38
+Jose Fonte	age	35
+Jose Fonte	jersey	6
+Portugal	defender	Raphael Guerreiro
+Portugal	has player	Raphael Guerreiro
+Raphael Guerreiro	position	defender
+Raphael Guerreiro	goals	2
+Raphael Guerreiro	caps	34
+Raphael Guerreiro	age	25
+Raphael Guerreiro	jersey	5
+Portugal	defender	Joao Cancelo
+Portugal	has player	Joao Cancelo
+Joao Cancelo	position	defender
+Joao Cancelo	goals	3
+Joao Cancelo	caps	14
+Joao Cancelo	age	25
+Joao Cancelo	jersey	2
+Portugal	defender	Ruben Dias
+Portugal	has player	Ruben Dias
+Ruben Dias	position	defender
+Ruben Dias	goals	0
+Ruben Dias	caps	11
+Ruben Dias	age	22
+Ruben Dias	jersey	4
+Portugal	defender	Nelson Semedo
+Portugal	has player	Nelson Semedo
+Nelson Semedo	position	defender
+Nelson Semedo	goals	0
+Nelson Semedo	caps	10
+Nelson Semedo	age	25
+Nelson Semedo	jersey	20
+Portugal	defender	Mario Rui
+Portugal	has player	Mario Rui
+Mario Rui	position	defender
+Mario Rui	goals	0
+Mario Rui	caps	8
+Mario Rui	age	28
+Mario Rui	jersey	19
+Portugal	midfielder	Joao Moutinho
+Portugal	has player	Joao Moutinho
+Joao Moutinho	position	midfielder
+Joao Moutinho	goals	7
+Joao Moutinho	caps	116
+Joao Moutinho	age	32
+Joao Moutinho	jersey	8
+Portugal	midfielder	William Carvalho
+Portugal	has player	William Carvalho
+William Carvalho	position	midfielder
+William Carvalho	goals	2
+William Carvalho	caps	57
+William Carvalho	age	27
+William Carvalho	jersey	14
+Portugal	midfielder	Bernardo Silva
+Portugal	has player	Bernardo Silva
+Bernardo Silva	position	midfielder
+Bernardo Silva	goals	3
+Bernardo Silva	caps	37
+Bernardo Silva	age	24
+Bernardo Silva	jersey	10
+Portugal	midfielder	Danilo Pereira
+Portugal	has player	Danilo Pereira
+Danilo Pereira	position	midfielder
+Danilo Pereira	goals	2
+Danilo Pereira	caps	33
+Danilo Pereira	age	27
+Danilo Pereira	jersey	13
+Portugal	midfielder	Pizzi
+Portugal	has player	Pizzi
+Pizzi	position	midfielder
+Pizzi	goals	2
+Pizzi	caps	14
+Pizzi	age	29
+Pizzi	jersey	21
+Portugal	midfielder	Bruno Fernandes
+Portugal	has player	Bruno Fernandes
+Bruno Fernandes	position	midfielder
+Bruno Fernandes	goals	1
+Bruno Fernandes	caps	13
+Bruno Fernandes	age	24
+Bruno Fernandes	jersey	16
+Portugal	midfielder	Ruben Neves
+Portugal	has player	Ruben Neves
+Ruben Neves	position	midfielder
+Ruben Neves	goals	0
+Ruben Neves	caps	12
+Ruben Neves	age	22
+Ruben Neves	jersey	18
+Portugal	forward	Cristiano Ronaldo 
+Portugal	has player	Cristiano Ronaldo 
+Cristiano Ronaldo 	position	forward
+Cristiano Ronaldo 	goals	88
+Cristiano Ronaldo 	caps	158
+Cristiano Ronaldo 	age	34
+Cristiano Ronaldo 	jersey	7
+Portugal	forward	Goncalo Guedes
+Portugal	has player	Goncalo Guedes
+Goncalo Guedes	position	forward
+Goncalo Guedes	goals	4
+Goncalo Guedes	caps	17
+Goncalo Guedes	age	22
+Goncalo Guedes	jersey	17
+Portugal	forward	Rafa Silva
+Portugal	has player	Rafa Silva
+Rafa Silva	position	forward
+Rafa Silva	goals	0
+Rafa Silva	caps	16
+Rafa Silva	age	26
+Rafa Silva	jersey	15
+Portugal	defender	Bruno Alves
+Portugal	has player	Bruno Alves
+Bruno Alves	position	defender
+Bruno Alves	goals	11
+Bruno Alves	caps	96
+Bruno Alves	age	37
+Portugal	forward	Ricardo Quaresma
+Portugal	has player	Ricardo Quaresma
+Ricardo Quaresma	position	forward
+Ricardo Quaresma	goals	10
+Ricardo Quaresma	caps	80
+Ricardo Quaresma	age	35

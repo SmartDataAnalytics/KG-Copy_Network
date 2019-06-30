@@ -1,0 +1,10 @@
+{
+    "q1": "locate any hospitals in the area",
+    "a1": "the nearest hospital is called palo_alto_medical_foundation and is 6_miles away",
+    "q2": "does it have the least amount of traffic",
+    "a2": "yes",
+    "q3": "what is the address",
+    "a3": "palo_alto_medical_foundation is located at 611_ames_ave do you want me to set the gps",
+    "q4": "yes thanks",
+    "a4": "navigating there now"
+}

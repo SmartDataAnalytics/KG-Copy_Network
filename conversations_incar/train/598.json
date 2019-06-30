@@ -1,0 +1,10 @@
+{
+    "q1": "find the closest parking_garage",
+    "a1": "palo_alto_garage_r is 2_miles away",
+    "q2": "give me the address to it",
+    "a2": "palo alto garage is located at 481_amaranta_ave do you want me to set the gps",
+    "q3": "okay will i encounter any traffic along the way",
+    "a3": "yes there may be moderate amounts of traffic",
+    "q4": "it s okay just pick the fastest route and let s go there thank you",
+    "a4": "i sent on your screen the best route drive carefully you re welcome"
+}

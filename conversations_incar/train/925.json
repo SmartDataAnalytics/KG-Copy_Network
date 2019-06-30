@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to the local starbucks",
+    "a1": "there are no local starbucks",
+    "q2": "some other kind of coffee_or_tea_place within 3_miles and with no_traffic",
+    "a2": "there are no coffee and tea places within 3_miles",
+    "q3": "thanks",
+    "a3": "you are welcome"
+}

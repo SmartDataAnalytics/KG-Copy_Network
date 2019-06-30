@@ -1,0 +1,8 @@
+{
+    "q1": "navigate to the nearest hotel",
+    "a1": "there is comfort_inn in 3_miles do you want me to set the gps to go there",
+    "q2": "sure thank you send the address on my screen and pick the fastest route for me",
+    "a2": "comfort_inn is located at 753_university_ave which is 3_miles away with heavy_traffic we should be there shortly",
+    "q3": "thank you car",
+    "a3": "you re welcome"
+}

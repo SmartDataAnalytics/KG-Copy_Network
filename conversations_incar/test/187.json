@@ -1,0 +1,8 @@
+{
+    "q1": "directions to nearest barista",
+    "a1": "the nearer cafe is cafe_venetia it s 2_miles away and there is a car_collision_nearby",
+    "q2": "is there another coffee shop that situated on a route with no_traffic",
+    "a2": "i m afraid that cafe_venetia is the best option in this moment i sent on your screen the directions to reach there through another route",
+    "q3": "ok thank you",
+    "a3": "you re welcome drive safely"
+}

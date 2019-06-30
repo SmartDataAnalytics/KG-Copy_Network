@@ -1,0 +1,8 @@
+{
+    "q1": "show me the route to coffee shop",
+    "a1": "there is 2 coffee shops locally one is philz that s 2_miles away and starbucks that is 6_miles away which do you prefer",
+    "q2": "pick the one with no_traffic or the least traffic route",
+    "a2": "there is no_traffic to starbucks navigating now",
+    "q3": "thank you car",
+    "a3": "you re very welcome"
+}

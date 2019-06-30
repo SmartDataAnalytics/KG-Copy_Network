@@ -1,0 +1,12 @@
+{
+    "q1": "where is the local gas_station",
+    "a1": "there is a gas_station 4_miles away it s chevron would you like more details",
+    "q2": "yes please show me the route and avoid heavy_traffic",
+    "a2": "here is the best route to chevron",
+    "q3": "what is the address",
+    "a3": "783_arcadia_pl do you want me to send the route on your screen",
+    "q4": "yes please that sounds great",
+    "a4": "plotting route to 783_arcadia_pl 4_miles away with car_collision_nearby",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

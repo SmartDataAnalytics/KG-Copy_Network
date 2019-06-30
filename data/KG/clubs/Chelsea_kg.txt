@@ -1,0 +1,123 @@
+Chelsea	ground	Stamford Bridge
+Stamford Bridge	capacity	40,853
+Chelsea	chairman	Bruce Buck
+Chelsea	coach	Vacant
+Chelsea	has player	Kepa Arrizabalaga
+Kepa Arrizabalaga	position	goalkeeper
+Kepa Arrizabalaga	goals	0
+Kepa Arrizabalaga	caps	36
+Kepa Arrizabalaga	date of birth	1994-10-03
+Kepa Arrizabalaga	jersey	1
+Kepa Arrizabalaga	height	1.86 m
+Chelsea	has player	Antonio Rudiger
+Antonio Rudiger	position	defender
+Antonio Rudiger	goals	3
+Antonio Rudiger	caps	60
+Antonio Rudiger	date of birth	1993-03-03
+Antonio Rudiger	jersey	2
+Antonio Rudiger	height	1.90 m
+Chelsea	has player	Marcos Alonso
+Marcos Alonso	position	defender
+Marcos Alonso	goals	15
+Marcos Alonso	caps	95
+Marcos Alonso	date of birth	1990-12-28
+Marcos Alonso	jersey	3
+Marcos Alonso	height	1.88 m
+Chelsea	has player	Jorginho
+Jorginho	position	midfielder
+Jorginho	goals	2
+Jorginho	caps	37
+Jorginho	date of birth	1991-12-20
+Jorginho	jersey	5
+Jorginho	height	1.80 m
+Chelsea	has player	Danny Drinkwater
+Danny Drinkwater	position	midfielder
+Danny Drinkwater	goals	1
+Danny Drinkwater	caps	12
+Danny Drinkwater	date of birth	1990-03-05
+Danny Drinkwater	jersey	6
+Danny Drinkwater	height	1.77 m
+Chelsea	has player	N'Golo Kante
+N'Golo Kante	position	midfielder
+N'Golo Kante	goals	6
+N'Golo Kante	caps	105
+N'Golo Kante	date of birth	1991-03-29
+N'Golo Kante	jersey	7
+N'Golo Kante	height	1.68 m
+Chelsea	has player	Ross Barkley
+Ross Barkley	position	midfielder
+Ross Barkley	goals	3
+Ross Barkley	caps	29
+Ross Barkley	date of birth	1993-12-05
+Ross Barkley	jersey	8
+Ross Barkley	height	1.85 m
+Chelsea	has player	Pedro
+Pedro	position	forward
+Pedro	goals	28
+Pedro	caps	126
+Pedro	date of birth	1987-07-28
+Pedro	jersey	11
+Pedro	height	1.69 m
+Chelsea	has player	Ruben Loftus-Cheek
+Ruben Loftus-Cheek	position	midfielder
+Ruben Loftus-Cheek	goals	7
+Ruben Loftus-Cheek	caps	46
+Ruben Loftus-Cheek	date of birth	1996-01-23
+Ruben Loftus-Cheek	jersey	12
+Ruben Loftus-Cheek	height	1.91 m
+Chelsea	has player	Olivier Giroud
+Olivier Giroud	position	forward
+Olivier Giroud	goals	5
+Olivier Giroud	caps	40
+Olivier Giroud	date of birth	1986-09-30
+Olivier Giroud	jersey	18
+Olivier Giroud	height	1.93 m
+Chelsea	has player	Callum Hudson-Odoi
+Callum Hudson-Odoi	position	forward
+Callum Hudson-Odoi	goals	0
+Callum Hudson-Odoi	caps	12
+Callum Hudson-Odoi	date of birth	2000-11-07
+Callum Hudson-Odoi	jersey	20
+Callum Hudson-Odoi	height	1.77 m
+Chelsea	has player	Davide Zappacosta
+Davide Zappacosta	position	defender
+Davide Zappacosta	goals	1
+Davide Zappacosta	caps	26
+Davide Zappacosta	date of birth	1992-06-11
+Davide Zappacosta	jersey	21
+Davide Zappacosta	height	1.82 m
+Chelsea	has player	Willian
+Willian	position	forward
+Willian	goals	28
+Willian	caps	198
+Willian	date of birth	1988-08-09
+Willian	jersey	22
+Willian	height	1.75 m
+Chelsea	has player	Andreas Christensen
+Andreas Christensen	position	defender
+Andreas Christensen	goals	0
+Andreas Christensen	caps	36
+Andreas Christensen	date of birth	1996-04-10
+Andreas Christensen	jersey	27
+Andreas Christensen	height	1.88 m
+Chelsea	has player	Cesar Azpilicueta
+Cesar Azpilicueta	position	defender
+Cesar Azpilicueta	goals	6
+Cesar Azpilicueta	caps	235
+Cesar Azpilicueta	date of birth	1989-08-28
+Cesar Azpilicueta	jersey	28
+Cesar Azpilicueta	height	1.78 m
+Chelsea	has player	David Luiz
+David Luiz	position	defender
+David Luiz	goals	5
+David Luiz	caps	79
+David Luiz	date of birth	1987-04-22
+David Luiz	jersey	30
+David Luiz	height	1.89 m
+Chelsea	has player	Emerson Palmieri
+Emerson Palmieri	position	defender
+Emerson Palmieri	goals	1
+Emerson Palmieri	caps	34
+Emerson Palmieri	date of birth	1994-08-03
+Emerson Palmieri	jersey	33
+Emerson Palmieri	height	1.75 m

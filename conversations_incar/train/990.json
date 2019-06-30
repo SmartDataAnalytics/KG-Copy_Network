@@ -1,0 +1,10 @@
+{
+    "q1": "find a pizza_restaurant that is open near me",
+    "a1": "pizza_chicago pizza_hut and pizza_my_heart are all near",
+    "q2": "what has the least traffic",
+    "a2": "pizza_chicago has no_traffic",
+    "q3": "what is the address",
+    "a3": "915_arbol_dr we re 2_miles away i sent its position on your screen",
+    "q4": "thanks so much for your help",
+    "a4": "you re welcome have a good day"
+}

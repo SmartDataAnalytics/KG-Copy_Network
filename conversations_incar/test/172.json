@@ -1,0 +1,8 @@
+{
+    "q1": "is there a grocery_store within 3_miles of me",
+    "a1": "trader_joes is 2_miles away at 408_university_ave there is currently heavy_traffic on the route",
+    "q2": "ok please give me directions via the route with least traffic",
+    "a2": "setting navigation now there is heavy_traffic on the way so drive carefully",
+    "q3": "thank you",
+    "a3": "you re welcome drive safely"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "what hospitals are nearby",
+    "a1": "there is one hospital nearby called stanford_express_care do you need the address",
+    "q2": "yes",
+    "a2": "its address is 214_el_camino_real do you want me to set the gps to go there",
+    "q3": "yes please thanks",
+    "a3": "you re welcome glad i could help"
+}

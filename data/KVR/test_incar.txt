@@ -1,0 +1,3527 @@
+#conv#
+0 chevron distance 5_miles
+0 chevron traffic_info moderate_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 town_and_country distance 5_miles
+0 town_and_country traffic_info no_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 jacks_house distance 5_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 home distance 6_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 the_clement_hotel distance 4_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 sigona_farmers_market distance 1_miles
+0 sigona_farmers_market traffic_info heavy_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 tai_pan distance 6_miles
+0 tai_pan traffic_info no_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+1 what gas_stations are here	there is a chevron	['chevron']
+2 that s good please pick the quickest route to get there and avoid all heavy_traffic	taking you to chevron	['chevron']
+3 what is the address	783_arcadia_pl is the address for chevron gas_station	['783_arcadia_pl', 'chevron', 'gas_station']
+4 perfect thank you	you re welcome happy to help	[]
+
+#conv#
+0 the_westin distance 4_miles
+0 the_westin traffic_info no_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 sigona_farmers_market distance 4_miles
+0 sigona_farmers_market traffic_info no_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 whole_foods distance 2_miles
+0 whole_foods traffic_info heavy_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 stanford_shopping_center distance 2_miles
+0 stanford_shopping_center traffic_info moderate_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 toms_house distance 1_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+1 give me directions to the closest grocery_store	there are whole_foods 2_miles away and sigona_farmers_market 4_miles away where do we go	['sigona_farmers_market', 'whole_foods', '2_miles', '4_miles']
+2 i need the one that avoids all heavy_traffic	sigona_farmers_market is located 4_miles away with no_traffic it s located at 638_amherst_st	['sigona_farmers_market', '4_miles', '638_amherst_st', 'no_traffic']
+3 thank you	great glad i could help have a great day we will be there soon	[]
+
+#conv#
+0 trader_joes distance 5_miles
+0 trader_joes traffic_info heavy_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 home distance 3_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 teavana distance 3_miles
+0 teavana traffic_info car_collision_nearby
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 dominos distance 3_miles
+0 dominos traffic_info car_collision_nearby
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 whole_foods distance 3_miles
+0 whole_foods traffic_info car_collision_nearby
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 comfort_inn distance 6_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 panda_express distance 2_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 tai_pan distance 4_miles
+0 tai_pan traffic_info road_block_nearby
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+1 where is home	home is where is your heart is at 56_cadwell_street	['56_cadwell_street', 'home']
+2 okay how far away am i and send me the quickest route	you are 3_miles away from home with heavy_traffic noted	['home', '3_miles', 'heavy_traffic']
+3 thank you very much car	you are welcome driver	[]
+4 no response needed	glad to help	[]
+
+#conv#
+0 pizza_my_heart distance 5_miles
+0 pizza_my_heart traffic_info moderate_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 whole_foods distance 4_miles
+0 whole_foods traffic_info heavy_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 hotel_keen distance 3_miles
+0 hotel_keen traffic_info no_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 safeway distance 4_miles
+0 safeway traffic_info no_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 midtown_shopping_center distance 3_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 round_table distance 4_miles
+0 round_table traffic_info heavy_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 mandarin_roots distance 3_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+1 where is the closest grocery_store	we are 4_miles away from whole_foods and from safeway which one do you prefer	['whole_foods', 'safeway', '4_miles']
+2 safeway	safeway is located at 452_arcadia_pl	['safeway', '452_arcadia_pl']
+3 pick the quickest route to go there and send the info on my screen please	you re all set drive carefully	[]
+
+#conv#
+0 willows_market distance 3_miles
+0 willows_market traffic_info car_collision_nearby
+0 willows_market poi_type grocery_store
+0 willows_market address 409_bollard_st
+0 jing_jing distance 3_miles
+0 jing_jing traffic_info car_collision_nearby
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 panda_express distance 5_miles
+0 panda_express traffic_info moderate_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 palo_alto_garage_r distance 5_miles
+0 palo_alto_garage_r traffic_info no_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 stanford_childrens_health distance 5_miles
+0 stanford_childrens_health traffic_info moderate_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 76 distance 5_miles
+0 76 traffic_info car_collision_nearby
+0 76 poi_type gas_station
+0 76 address 91_el_camino_real
+0 peets_coffee distance 4_miles
+0 peets_coffee traffic_info moderate_traffic
+0 peets_coffee poi_type coffee_or_tea_place
+0 peets_coffee address 9981_archuleta_ave
+0 coupa distance 6_miles
+0 coupa traffic_info road_block_nearby
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+1 give me directions to the closest grocery_store	we re 3_miles away from willows_market but there is a car_collision_nearby	['willows_market', 'car_collision_nearby', '3_miles']
+2 what is the next closest location	i m sorry but there are no other options nearby	[]
+3 ok well make a route to the willows_market then try to avoid the car accident	ok driver making a route to willows_market and avoiding the car accident	['willows_market']
+4 that s great thank you car	you are welcome driver	[]
+
+#conv#
+0 teavana distance 3_miles
+0 teavana traffic_info moderate_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 trader_joes distance 2_miles
+0 trader_joes traffic_info heavy_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 jills_house distance 5_miles
+0 jills_house traffic_info heavy_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 stanford_express_care distance 1_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 5672_barringer_street distance 5_miles
+0 5672_barringer_street traffic_info moderate_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 stanford_oval_parking distance 4_miles
+0 stanford_oval_parking traffic_info heavy_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 home distance 1_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+1 where does my friend live	jill s house is located 5_miles away at 347_alta_mesa_ave	['347_alta_mesa_ave', '5_miles']
+2 i was thinking about something that happened to jill yesterday long story please pick a quick route to get there thank you	the quickest route is 347_alta_mesa_ave at 5_miles we will be there shortly	['347_alta_mesa_ave', '5_miles']
+3 thank you	you re welcome	[]
+
+#conv#
+0 ravenswood_shopping_center distance 4_miles
+0 ravenswood_shopping_center traffic_info heavy_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 civic_center_garage distance 4_miles
+0 civic_center_garage traffic_info no_traffic
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+0 jills_house distance 4_miles
+0 jills_house traffic_info heavy_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 sigona_farmers_market distance 4_miles
+0 sigona_farmers_market traffic_info no_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 trader_joes distance 5_miles
+0 trader_joes traffic_info no_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 chevron distance 3_miles
+0 chevron traffic_info moderate_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+1 what are the directions to the closest parking_garage	the closest parking_garage is civic_center_garage located 4_miles away at 270_altaire_walk	['270_altaire_walk', 'parking_garage', 'civic_center_garage', '4_miles']
+2 thank you	you re welcome	[]
+
+#conv#
+0 stanford_shopping_center distance 2_miles
+0 stanford_shopping_center traffic_info moderate_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 jacks_house distance 6_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 comfort_inn distance 5_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 5677_southwest_4th_street distance 5_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 ravenswood_shopping_center distance 4_miles
+0 ravenswood_shopping_center traffic_info heavy_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 panda_express distance 1_miles
+0 panda_express traffic_info moderate_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 valero distance 2_miles
+0 valero traffic_info no_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+1 give me directions to the nearest shopping_center	i ve set the gps to stanford_shopping_center 773_alger_dr it s 2_miles away	['stanford_shopping_center', '773_alger_dr', '2_miles']
+2 thanks	you re welcome	[]
+
+#conv#
+0 coupa distance 5_miles
+0 coupa traffic_info no_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 midtown_shopping_center distance 5_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 stanford_express_care distance 5_miles
+0 stanford_express_care traffic_info moderate_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 p_._f_._changs distance 6_miles
+0 p_._f_._changs traffic_info moderate_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 toms_house distance 2_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info road_block_nearby
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 panda_express distance 2_miles
+0 panda_express traffic_info heavy_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 philz distance 4_miles
+0 philz traffic_info car_collision_nearby
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+1 find the address to a hospital or clinic	stanford_express_care is at 214_el_camino_real	['stanford_express_care', '214_el_camino_real']
+2 thank you	good day	[]
+
+#conv#
+0 toms_house distance 3_miles
+0 toms_house traffic_info heavy_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 coupa distance 2_miles
+0 coupa traffic_info moderate_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 palo_alto_medical_foundation distance 2_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 stanford_express_care distance 5_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 starbucks distance 1_miles
+0 starbucks traffic_info heavy_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 panda_express distance 2_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 valero distance 4_miles
+0 valero traffic_info heavy_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+1 i need gas	valero is 4_miles away	['4_miles', 'valero']
+2 what is the address	valero is at 200_alester_ave	['200_alester_ave', 'valero']
+3 can i have some route details i would like to avoid any heavy_traffic there	i sent the best possible route on screen but there will be heavy_traffic anyway i m sorry	['heavy_traffic']
+4 it s okay thank you car	you re welcome	[]
+
+#conv#
+0 home distance 5_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 5677_southwest_4th_street distance 1_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info moderate_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 hotel_keen distance 4_miles
+0 hotel_keen traffic_info moderate_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 panda_express distance 2_miles
+0 panda_express traffic_info moderate_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 sigona_farmers_market distance 1_miles
+0 sigona_farmers_market traffic_info heavy_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 chef_chu_s distance 1_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+1 take me to my friend s house	your friends house is on 5677_southwest_4th_street there is moderate_traffic on our way but we re just 1_miles away	['1_miles', 'moderate_traffic', '5677_southwest_4th_street']
+2 what about the address of my home	it must have been a hard day for you if you don t remember the address of your home 56_cadwell_street i was kidding don t crash me please	['56_cadwell_street', 'home']
+3 thanks for the help	you re welcome	[]
+
+#conv#
+0 coupa distance 2_miles
+0 coupa traffic_info no_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 trader_joes distance 4_miles
+0 trader_joes traffic_info road_block_nearby
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 safeway distance 6_miles
+0 safeway traffic_info car_collision_nearby
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 dominos distance 5_miles
+0 dominos traffic_info car_collision_nearby
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 shell distance 2_miles
+0 shell traffic_info moderate_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 chevron distance 2_miles
+0 chevron traffic_info car_collision_nearby
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 midtown_shopping_center distance 3_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 home distance 6_miles
+0 home traffic_info road_block_nearby
+0 home poi_type home
+0 home address 5671_barringer_street
+1 where can i go shopping	we re 3_miles away from midtown_shopping_center and there is no_traffic on our way	['midtown_shopping_center', '3_miles', 'no_traffic']
+2 sounds amazing set the gps to go there	you got it gps set	[]
+3 thanks	no problem	[]
+
+#conv#
+0 civic_center_garage distance 2_miles
+0 civic_center_garage traffic_info no_traffic
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+0 home distance 3_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 chef_chu_s distance 2_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 sigona_farmers_market distance 1_miles
+0 sigona_farmers_market traffic_info no_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 starbucks distance 5_miles
+0 starbucks traffic_info heavy_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 mandarin_roots distance 6_miles
+0 mandarin_roots traffic_info heavy_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 chevron distance 3_miles
+0 chevron traffic_info moderate_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+1 get me directions to a local cafe	we re 5_miles away from starbucks would you like to go there	['5_miles', 'starbucks']
+2 yes	navigating you to starbucks	['starbucks']
+3 thanks can you provide the address and is this the fastest route	the address is 792_bedoin_street i sent the info on your screen drive carefully	['792_bedoin_street']
+
+#conv#
+0 toms_house distance 1_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 chef_chu_s distance 5_miles
+0 chef_chu_s traffic_info heavy_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 the_clement_hotel distance 5_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 midtown_shopping_center distance 3_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 pizza_chicago distance 6_miles
+0 pizza_chicago traffic_info heavy_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+0 teavana distance 2_miles
+0 teavana traffic_info heavy_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 pizza_hut distance 3_miles
+0 pizza_hut traffic_info heavy_traffic
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+1 give me directions to the nearest shopping mall	there is the midtown_shopping_center 3_miles away and no_traffic on the route set this destination on your gps	['midtown_shopping_center', '3_miles', 'no_traffic']
+2 yes please that sounds perfect	setting gps to midtown_shopping_center anything else	['midtown_shopping_center']
+3 that will be all thanks	no problem	[]
+
+#conv#
+0 hacienda_market distance 1_miles
+0 hacienda_market traffic_info road_block_nearby
+0 hacienda_market poi_type grocery_store
+0 hacienda_market address 1313_chester_ave
+0 trader_joes distance 2_miles
+0 trader_joes traffic_info heavy_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 home distance 4_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 willows_market distance 4_miles
+0 willows_market traffic_info car_collision_nearby
+0 willows_market poi_type grocery_store
+0 willows_market address 409_bollard_st
+0 coupa distance 1_miles
+0 coupa traffic_info car_collision_nearby
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 hotel_keen distance 2_miles
+0 hotel_keen traffic_info road_block_nearby
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 panda_express distance 3_miles
+0 panda_express traffic_info road_block_nearby
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 dominos distance 4_miles
+0 dominos traffic_info car_collision_nearby
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+1 find me the quickest route to the grocery_store	hacienda_market is the closest grocery_store 1_miles away	['1_miles', 'hacienda_market', 'grocery_store']
+2 ok please give me the address and directions via the quickest route	setting navigation to 1313_chester_ave now there is a road_block_nearby so drive carefully	['road_block_nearby', '1313_chester_ave']
+3 thank you	no problem	[]
+
+#conv#
+0 palo_alto_garage_r distance 1_miles
+0 palo_alto_garage_r traffic_info car_collision_nearby
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 valero distance 4_miles
+0 valero traffic_info heavy_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+0 home distance 5_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 stanford_oval_parking distance 4_miles
+0 stanford_oval_parking traffic_info car_collision_nearby
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 palo_alto_cafe distance 3_miles
+0 palo_alto_cafe traffic_info no_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 philz distance 3_miles
+0 philz traffic_info no_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 four_seasons distance 1_miles
+0 four_seasons traffic_info heavy_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 topanga_mall distance 2_miles
+0 topanga_mall traffic_info road_block_nearby
+0 topanga_mall poi_type shopping_center
+0 topanga_mall address 171_oak_rd
+1 where is a nearby parking_garage	the nearest one is palo_alto_garage_r it s just 1_miles away	['1_miles', 'palo_alto_garage_r']
+2 oh great job thanks	you re welcome	[]
+
+#conv#
+0 dominos distance 1_miles
+0 dominos traffic_info moderate_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 stanford_express_care distance 1_miles
+0 stanford_express_care traffic_info moderate_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 5672_barringer_street distance 5_miles
+0 5672_barringer_street traffic_info heavy_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 stanford_oval_parking distance 1_miles
+0 stanford_oval_parking traffic_info no_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 home distance 5_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 civic_center_garage distance 2_miles
+0 civic_center_garage traffic_info no_traffic
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+0 hotel_keen distance 1_miles
+0 hotel_keen traffic_info heavy_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+1 car please send me the fastest route to go back home	taking you home	['home']
+2 what is the address	home is 5671_barringer_street anything else i can help you with	['5671_barringer_street', 'home']
+3 please send me the fastest route on screen and let s go there thank you	got it will do	[]
+4 thanks for all your help	you re welcome i am always happy to help	[]
+
+#conv#
+0 pizza_hut distance 2_miles
+0 pizza_hut traffic_info heavy_traffic
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 cafe_venetia distance 6_miles
+0 cafe_venetia traffic_info no_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 midtown_shopping_center distance 5_miles
+0 midtown_shopping_center traffic_info heavy_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 jills_house distance 2_miles
+0 jills_house traffic_info moderate_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info heavy_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 philz distance 4_miles
+0 philz traffic_info heavy_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+1 car i need a hospital please send me a quick route to the one near me in the direction we re driving	stanford_express_care is on the way	['stanford_express_care']
+2 please pick a quick route and let s go there thank you	navigating to stanford_express_care at 214_el_camino_real there is heavy_traffic on the way there however	['heavy_traffic', 'stanford_express_care', '214_el_camino_real']
+3 ok thanks car	you re very welcome	[]
+
+#conv#
+0 chef_chu_s distance 4_miles
+0 chef_chu_s traffic_info heavy_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 whole_foods distance 5_miles
+0 whole_foods traffic_info heavy_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info car_collision_nearby
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 ravenswood_shopping_center distance 6_miles
+0 ravenswood_shopping_center traffic_info car_collision_nearby
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 webster_garage distance 2_miles
+0 webster_garage traffic_info no_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 four_seasons distance 2_miles
+0 four_seasons traffic_info road_block_nearby
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 chevron distance 5_miles
+0 chevron traffic_info no_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 sigona_farmers_market distance 1_miles
+0 sigona_farmers_market traffic_info road_block_nearby
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+1 find me a chinese_restaurant with a no_traffic route	chef_chu_s is the only chinese_restaurant but here is heavy_traffic	['heavy_traffic', 'chinese_restaurant', 'chef_chu_s']
+2 send me the address anyway	chef_chu_s is at 593_arrowhead_way	['593_arrowhead_way', 'chef_chu_s']
+3 please pick a route with no_traffic to get there thanks	there will be heavy_traffic sorry	['heavy_traffic']
+4 that is ok thank you	you re welcome	[]
+
+#conv#
+0 chef_chu_s distance 5_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 comfort_inn distance 4_miles
+0 comfort_inn traffic_info moderate_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 cafe_venetia distance 3_miles
+0 cafe_venetia traffic_info moderate_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 trader_joes distance 3_miles
+0 trader_joes traffic_info moderate_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 home distance 2_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 jing_jing distance 6_miles
+0 jing_jing traffic_info no_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 5677_springer_street distance 2_miles
+0 5677_springer_street traffic_info moderate_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+1 can you find me a chinese_restaurant that is within 5_miles	chef_chu_s is 5_miles away	['5_miles', 'chef_chu_s']
+2 how is the traffic to there	there is currently no_traffic	['no_traffic']
+3 sounds good set the gps please	gps set happy to assist you	[]
+
+#conv#
+0 home distance 1_miles
+0 home traffic_info road_block_nearby
+0 home poi_type home
+0 home address 10_ames_street
+0 teavana distance 4_miles
+0 teavana traffic_info car_collision_nearby
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 round_table distance 4_miles
+0 round_table traffic_info road_block_nearby
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 panda_express distance 3_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 comfort_inn distance 2_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 pizza_hut distance 5_miles
+0 pizza_hut traffic_info car_collision_nearby
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 stanford_shopping_center distance 3_miles
+0 stanford_shopping_center traffic_info road_block_nearby
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 5672_barringer_street distance 5_miles
+0 5672_barringer_street traffic_info no_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+1 i need directions to a local fast food restaurant please	there is a panda_express 3_miles from you as well as a pizza_hut 5_miles from you	['5_miles', 'pizza_hut', 'panda_express', '3_miles']
+2 please give me the address and directions to whichever restaurant is on a route where i can avoid heavy_traffic	panda_express is at 842_arrowhead_way with no_traffic noted	['panda_express', '842_arrowhead_way', 'no_traffic']
+3 sounds good set the gps for the there thanks	i sent the info on your map drive carefully	[]
+
+#conv#
+0 jills_house distance 4_miles
+0 jills_house traffic_info road_block_nearby
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 p_._f_._changs distance 5_miles
+0 p_._f_._changs traffic_info car_collision_nearby
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 76 distance 6_miles
+0 76 traffic_info moderate_traffic
+0 76 poi_type gas_station
+0 76 address 91_el_camino_real
+0 5672_barringer_street distance 6_miles
+0 5672_barringer_street traffic_info road_block_nearby
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 starbucks distance 6_miles
+0 starbucks traffic_info moderate_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 pizza_chicago distance 2_miles
+0 pizza_chicago traffic_info no_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+0 chevron distance 5_miles
+0 chevron traffic_info moderate_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 panda_express distance 3_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+1 please give me the address and directions via the fastest route to a pizza_restaurant within 4_miles of me	you will find pizza_chicago at 915_arbol_dr it is 2_miles away without any traffic	['pizza_chicago', '915_arbol_dr', '2_miles']
+2 ok please direct me there via the fastest route	fastest route being programmed for pizza_chicago	['pizza_chicago']
+3 okay thanks	you re welcome	[]
+
+#conv#
+0 5677_springer_street distance 5_miles
+0 5677_springer_street traffic_info moderate_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 home distance 1_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 5672_barringer_street distance 1_miles
+0 5672_barringer_street traffic_info heavy_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 stanford_oval_parking distance 4_miles
+0 stanford_oval_parking traffic_info moderate_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 the_clement_hotel distance 3_miles
+0 the_clement_hotel traffic_info heavy_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 midtown_shopping_center distance 6_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 palo_alto_garage_r distance 5_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+1 pull up directions to 5672_barringer_street	here are directions to 5672_barringer_street	['5672_barringer_street']
+2 pick a route with no_traffic and let s go there thank you	the only route has heavy_traffic is that alright	['heavy_traffic']
+3 yes patience i need to get there anyway thank you car send the info on my screen please	directing to 5672_barringer_street now	['5672_barringer_street']
+4 thanks	you re welcome and have a great day	[]
+
+#conv#
+0 round_table distance 1_miles
+0 round_table traffic_info moderate_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 panda_express distance 1_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 dish_parking distance 1_miles
+0 dish_parking traffic_info no_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 webster_garage distance 4_miles
+0 webster_garage traffic_info no_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 p_._f_._changs distance 4_miles
+0 p_._f_._changs traffic_info no_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 trader_joes distance 1_miles
+0 trader_joes traffic_info no_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 home distance 3_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+1 car i need to go back home it s in the area please pick a route with no_traffic	taking you home	['home']
+2 what is my address	your address is 5671_barringer_street we re 3_miles away from home now	['5671_barringer_street', '3_miles', 'home']
+3 set gps for a route home with zero to no_traffic	your gps has been set for home	['home']
+4 thank you	you re welcome happy to help	[]
+
+#conv#
+0 the_westin distance 5_miles
+0 the_westin traffic_info moderate_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 round_table distance 4_miles
+0 round_table traffic_info no_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 mandarin_roots distance 5_miles
+0 mandarin_roots traffic_info no_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 palo_alto_cafe distance 4_miles
+0 palo_alto_cafe traffic_info moderate_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 dominos distance 6_miles
+0 dominos traffic_info heavy_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 hotel_keen distance 2_miles
+0 hotel_keen traffic_info heavy_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+1 where can i get tea	palo_alto_cafe is 4_miles away and serves coffee and tea do you want the address	['palo_alto_cafe', '4_miles']
+2 yes	palo alto is located at 436_alger_dr	['436_alger_dr']
+3 sounds great thank you	you re welcome	[]
+
+#conv#
+0 toms_house distance 3_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 panda_express distance 5_miles
+0 panda_express traffic_info heavy_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 teavana distance 5_miles
+0 teavana traffic_info moderate_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 midtown_shopping_center distance 3_miles
+0 midtown_shopping_center traffic_info car_collision_nearby
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 5677_southwest_4th_street distance 2_miles
+0 5677_southwest_4th_street traffic_info road_block_nearby
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 stanford_express_care distance 2_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 home distance 4_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 the_clement_hotel distance 4_miles
+0 the_clement_hotel traffic_info heavy_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+1 i need shopping_center	there is a shopping_center 3_miles from you the address is 338_alester_ave would you like directions	['shopping_center', '3_miles', '338_alester_ave']
+2 yes please	setting navigation to the midtown_shopping_center there is a car_collision_nearby so drive carefully	['midtown_shopping_center', 'car_collision_nearby']
+3 thank you car pick the shortest distance for me please	i sent the info on your screen drive carefully	[]
+
+#conv#
+0 palo_alto_garage_r distance 1_miles
+0 palo_alto_garage_r traffic_info heavy_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 stanford_express_care distance 2_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 home distance 1_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 tai_pan distance 1_miles
+0 tai_pan traffic_info heavy_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 5677_southwest_4th_street distance 2_miles
+0 5677_southwest_4th_street traffic_info heavy_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 palo_alto_medical_foundation distance 6_miles
+0 palo_alto_medical_foundation traffic_info moderate_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 p_._f_._changs distance 4_miles
+0 p_._f_._changs traffic_info no_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+1 is there a parking_garage within 2_miles	yes i have one listed that is 1_miles away	['1_miles']
+2 that s great please pick the quickest route and send me the address on screen thank you	then let s go at palo_alto_garage_r i sent the info on your screen	['palo_alto_garage_r']
+3 fantastic thanks car	you are welcome	[]
+
+#conv#
+0 dominos distance 2_miles
+0 dominos traffic_info road_block_nearby
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 home distance 2_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 starbucks distance 3_miles
+0 starbucks traffic_info road_block_nearby
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 sigona_farmers_market distance 1_miles
+0 sigona_farmers_market traffic_info no_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 dish_parking distance 4_miles
+0 dish_parking traffic_info car_collision_nearby
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 stanford_childrens_health distance 4_miles
+0 stanford_childrens_health traffic_info heavy_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 jills_house distance 5_miles
+0 jills_house traffic_info no_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 tai_pan distance 3_miles
+0 tai_pan traffic_info car_collision_nearby
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+1 find starbucks	the nearest starbucks is 3_miles away there is a road block on its way so i already sent on your screen another route to reach faster	['3_miles', 'starbucks']
+2 is is the quickest one available i really need my morning coffee	yes it is hope you can have your coffee soon	[]
+3 where is the starbucks	the starbucks is located at 792_bedoin_street setting navigation now	['792_bedoin_street', 'starbucks']
+4 thank you	you re welcome drive safely and enjoy	[]
+
+#conv#
+0 philz distance 3_miles
+0 philz traffic_info moderate_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info no_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 jing_jing distance 1_miles
+0 jing_jing traffic_info moderate_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 teavana distance 3_miles
+0 teavana traffic_info heavy_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 palo_alto_cafe distance 3_miles
+0 palo_alto_cafe traffic_info moderate_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 town_and_country distance 1_miles
+0 town_and_country traffic_info no_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 p_._f_._changs distance 4_miles
+0 p_._f_._changs traffic_info moderate_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+1 directions to the mall	navigating you to town_and_country	['town_and_country']
+2 thank you car please pick the fastest route	setting gps for fastest route with no_traffic	['no_traffic']
+3 sounds great and can you tell me the address	the address is 383_university_ave i sent it on your screen	['383_university_ave']
+4 awesome goodbye	you re welcome and we should be there soon	[]
+
+#conv#
+0 dominos distance 3_miles
+0 dominos traffic_info heavy_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 valero distance 7_miles
+0 valero traffic_info moderate_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+0 dish_parking distance 1_miles
+0 dish_parking traffic_info no_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 town_and_country distance 3_miles
+0 town_and_country traffic_info heavy_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 mandarin_roots distance 1_miles
+0 mandarin_roots traffic_info no_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 cafe_venetia distance 5_miles
+0 cafe_venetia traffic_info road_block_nearby
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 sigona_farmers_market distance 6_miles
+0 sigona_farmers_market traffic_info car_collision_nearby
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 chef_chu_s distance 1_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+1 car i need to get to a gas_station please show me the nearest one	there is valero 7_miles away with moderate_traffic on our way	['7_miles', 'moderate_traffic', 'valero']
+2 alright where is it located	valero is at 200_alester_ave	['200_alester_ave', 'valero']
+3 please pick the fastest route to get there	there is moderate_traffic on our way i sent the route on your screen	['moderate_traffic']
+4 thank you car	you re welcome	[]
+
+#conv#
+0 palo_alto_garage_r distance 1_miles
+0 palo_alto_garage_r traffic_info no_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 safeway distance 1_miles
+0 safeway traffic_info no_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 comfort_inn distance 1_miles
+0 comfort_inn traffic_info moderate_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 stanford_childrens_health distance 5_miles
+0 stanford_childrens_health traffic_info moderate_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 philz distance 6_miles
+0 philz traffic_info no_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info heavy_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 dominos distance 2_miles
+0 dominos traffic_info moderate_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+1 take me to the parking_garage closest to my destination	the nearest parking_garage is palo_alto_garage_r it s 1_miles away navigate you there	['parking_garage', '1_miles', 'palo_alto_garage_r']
+2 sure thank you just pick the quickest route and send me the address on screen	i sent the info and the quickest info on your screen you re welcome	[]
+
+#conv#
+0 webster_garage distance 4_miles
+0 webster_garage traffic_info no_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 starbucks distance 4_miles
+0 starbucks traffic_info heavy_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 panda_express distance 5_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 stanford_oval_parking distance 5_miles
+0 stanford_oval_parking traffic_info heavy_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 topanga_mall distance 3_miles
+0 topanga_mall traffic_info heavy_traffic
+0 topanga_mall poi_type shopping_center
+0 topanga_mall address 171_oak_rd
+0 toms_house distance 4_miles
+0 toms_house traffic_info moderate_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 hotel_keen distance 1_miles
+0 hotel_keen traffic_info road_block_nearby
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 jing_jing distance 1_miles
+0 jing_jing traffic_info heavy_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+1 show me the nearest shopping mall	we re 3_miles away from topanga_mall and there is heavy_traffic on its way	['heavy_traffic', '3_miles', 'topanga_mall']
+2 okay where is it located	you will find topanga_mall at 171_oak_rd	['topanga_mall', '171_oak_rd']
+3 direction please	setting navigation now	[]
+4 thank you	you re welcome drive safely	[]
+5 [ end conversation ]	bye	[]
+
+#conv#
+0 pizza_hut distance 6_miles
+0 pizza_hut traffic_info no_traffic
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 stanford_oval_parking distance 2_miles
+0 stanford_oval_parking traffic_info moderate_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 town_and_country distance 5_miles
+0 town_and_country traffic_info moderate_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 pizza_chicago distance 5_miles
+0 pizza_chicago traffic_info moderate_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+0 the_westin distance 4_miles
+0 the_westin traffic_info moderate_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 home distance 4_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info heavy_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+1 car i need a rest_stop in the area please pick something and avoid all heavy_traffic	the_westin is 4_miles away with moderate_traffic will that help	['4_miles', 'the_westin', 'moderate_traffic']
+2 sounds great send me that address	the_westin is at 329_el_camino_real do you need me to set the navigation	['329_el_camino_real', 'the_westin']
+3 sure please do	navigation set have a great day	[]
+
+#conv#
+0 pizza_hut distance 6_miles
+0 pizza_hut traffic_info car_collision_nearby
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 stanford_shopping_center distance 6_miles
+0 stanford_shopping_center traffic_info no_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 ravenswood_shopping_center distance 3_miles
+0 ravenswood_shopping_center traffic_info road_block_nearby
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 home distance 4_miles
+0 home traffic_info car_collision_nearby
+0 home poi_type home
+0 home address 5671_barringer_street
+0 chef_chu_s distance 5_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 toms_house distance 8_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 safeway distance 5_miles
+0 safeway traffic_info no_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 webster_garage distance 2_miles
+0 webster_garage traffic_info no_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+1 where does my friend live	tom lives at 580_van_ness_ave	['tom', '580_van_ness_ave']
+2 ok set the gps thanks	i did you re welcome	[]
+
+#conv#
+0 palo_alto_medical_foundation distance 4_miles
+0 palo_alto_medical_foundation traffic_info moderate_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 stanford_childrens_health distance 4_miles
+0 stanford_childrens_health traffic_info road_block_nearby
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 midtown_shopping_center distance 1_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 5677_springer_street distance 3_miles
+0 5677_springer_street traffic_info moderate_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 philz distance 3_miles
+0 philz traffic_info road_block_nearby
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 willows_market distance 1_miles
+0 willows_market traffic_info no_traffic
+0 willows_market poi_type grocery_store
+0 willows_market address 409_bollard_st
+0 trader_joes distance 1_miles
+0 trader_joes traffic_info heavy_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 chef_chu_s distance 1_miles
+0 chef_chu_s traffic_info moderate_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+1 i need the closest hospital	the palo_alto_medical_foundation is 4_miles away at 611_ames_ave would you like directions there	['611_ames_ave', '4_miles', 'palo_alto_medical_foundation']
+2 yes please give me directions via the route with no_traffic	there is moderate_traffic on our way and you should be able to reach there fast i sent all the info on your screen drive carefully	['moderate_traffic']
+3 thank you car	you re welcome	[]
+
+#conv#
+0 safeway distance 2_miles
+0 safeway traffic_info moderate_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 toms_house distance 3_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 pizza_chicago distance 2_miles
+0 pizza_chicago traffic_info moderate_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+0 jacks_house distance 2_miles
+0 jacks_house traffic_info heavy_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 palo_alto_medical_foundation distance 3_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 stanford_shopping_center distance 6_miles
+0 stanford_shopping_center traffic_info heavy_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 town_and_country distance 1_miles
+0 town_and_country traffic_info no_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+1 take me to the nearest grocery_store	there is a safeway 2_miles away would you like to get its address	['safeway', '2_miles']
+2 yes	safeway is at 452_arcadia_pl	['safeway', '452_arcadia_pl']
+3 thank you car pick a route with no_traffic and let s go there	the only route has moderate_traffic is that going to be okay	['moderate_traffic']
+4 where is the nearest grocery_store with no_traffic	safeway is the only grocery_store listed it has moderate_traffic will that be ok	['safeway', 'moderate_traffic', 'grocery_store']
+5 yes please set the gps for there	setting destination now	[]
+6 thank you	you re welcome	[]
+
+#conv#
+0 webster_garage distance 3_miles
+0 webster_garage traffic_info no_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 5677_southwest_4th_street distance 5_miles
+0 5677_southwest_4th_street traffic_info heavy_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 jacks_house distance 3_miles
+0 jacks_house traffic_info moderate_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 the_clement_hotel distance 3_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 ravenswood_shopping_center distance 6_miles
+0 ravenswood_shopping_center traffic_info no_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 pizza_my_heart distance 5_miles
+0 pizza_my_heart traffic_info moderate_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 p_._f_._changs distance 1_miles
+0 p_._f_._changs traffic_info no_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+1 where does my friend live	jack lives at 864_almanor_ln	['864_almanor_ln']
+2 thanks	you re welcome	[]
+
+#conv#
+0 teavana distance 5_miles
+0 teavana traffic_info moderate_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 5672_barringer_street distance 4_miles
+0 5672_barringer_street traffic_info car_collision_nearby
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 palo_alto_garage_r distance 1_miles
+0 palo_alto_garage_r traffic_info road_block_nearby
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 stanford_shopping_center distance 2_miles
+0 stanford_shopping_center traffic_info moderate_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 5677_southwest_4th_street distance 1_miles
+0 5677_southwest_4th_street traffic_info car_collision_nearby
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 pizza_chicago distance 1_miles
+0 pizza_chicago traffic_info heavy_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+0 pizza_my_heart distance 6_miles
+0 pizza_my_heart traffic_info heavy_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 travelers_lodge distance 5_miles
+0 travelers_lodge traffic_info moderate_traffic
+0 travelers_lodge poi_type rest_stop
+0 travelers_lodge address 333_arbol_dr
+1 get me directions to the nearest starbucks	there is no starbucks locally	['starbucks']
+2 any coffee shops locally	teavana is 5_miles away at 145_amherst_st with moderate_traffic	['145_amherst_st', '5_miles', 'teavana', 'moderate_traffic']
+3 ok please give me the directions via the fastest route	the current route is the fastest one i can find	[]
+4 great thank you	you re welcome	[]
+
+#conv#
+0 starbucks distance 5_miles
+0 starbucks traffic_info no_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 jing_jing distance 4_miles
+0 jing_jing traffic_info heavy_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info heavy_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 palo_alto_garage_r distance 4_miles
+0 palo_alto_garage_r traffic_info heavy_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 tai_pan distance 5_miles
+0 tai_pan traffic_info heavy_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 home distance 5_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 philz distance 3_miles
+0 philz traffic_info no_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+1 where can i find a parking_garage	palo_alto_garage_r is at 481_amaranta_ave	['481_amaranta_ave', 'palo_alto_garage_r']
+2 is that the quickest route	i will send on your screen the quickest route sure there is heavy_traffic now and we will have to make the route slightly longer	['heavy_traffic']
+3 ok thanks for the notification	you re welcome we should arrive shortly	[]
+
+#conv#
+0 four_seasons distance 6_miles
+0 four_seasons traffic_info no_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 the_clement_hotel distance 2_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 hotel_keen distance 3_miles
+0 hotel_keen traffic_info car_collision_nearby
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 home distance 6_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 home distance 5_miles
+0 home traffic_info road_block_nearby
+0 home poi_type home
+0 home address 5671_barringer_street
+0 chevron distance 1_miles
+0 chevron traffic_info road_block_nearby
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 whole_foods distance 1_miles
+0 whole_foods traffic_info car_collision_nearby
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 palo_alto_medical_foundation distance 2_miles
+0 palo_alto_medical_foundation traffic_info car_collision_nearby
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+1 directions to the grocery_store	whole_foods located at 819_alma_st is 1_miles away although there is a car_collision_nearby	['whole_foods', 'car_collision_nearby', '1_miles', '819_alma_st']
+2 ok please give me directions via the quickest route	the current route is the quickest	[]
+3 ok thank you	you re welcome	[]
+
+#conv#
+0 papa_johns distance 6_miles
+0 papa_johns traffic_info car_collision_nearby
+0 papa_johns poi_type pizza_restaurant
+0 papa_johns address 110_arastradero_rd
+0 home distance 4_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 home distance 6_miles
+0 home traffic_info car_collision_nearby
+0 home poi_type home
+0 home address 10_ames_street
+0 5677_southwest_4th_street distance 5_miles
+0 5677_southwest_4th_street traffic_info heavy_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 the_clement_hotel distance 8_miles
+0 the_clement_hotel traffic_info moderate_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 hacienda_market distance 6_miles
+0 hacienda_market traffic_info road_block_nearby
+0 hacienda_market poi_type grocery_store
+0 hacienda_market address 1313_chester_ave
+0 dominos distance 3_miles
+0 dominos traffic_info moderate_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 home distance 4_miles
+0 home traffic_info road_block_nearby
+0 home poi_type home
+0 home address 56_cadwell_street
+1 find me a hotel somewhere near my current location	the_clement_hotel is 8_miles away at 657_ames_ave	['657_ames_ave', '8_miles', 'the_clement_hotel']
+2 can you send me the fastest route to go there	there is currently moderate_traffic on the way to the hotel setting directions now	['moderate_traffic']
+3 thank you	you re welcome	[]
+
+#conv#
+0 panda_express distance 4_miles
+0 panda_express traffic_info heavy_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 peets_coffee distance 2_miles
+0 peets_coffee traffic_info moderate_traffic
+0 peets_coffee poi_type coffee_or_tea_place
+0 peets_coffee address 9981_archuleta_ave
+0 jing_jing distance 4_miles
+0 jing_jing traffic_info road_block_nearby
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 coupa distance 5_miles
+0 coupa traffic_info heavy_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 stanford_childrens_health distance 4_miles
+0 stanford_childrens_health traffic_info heavy_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 tai_pan distance 4_miles
+0 tai_pan traffic_info no_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 home distance 1_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 p_._f_._changs distance 2_miles
+0 p_._f_._changs traffic_info moderate_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+1 where is the closest tea house	peets_coffee also serves tea they are 2_miles away at 9981_archuleta_ave	['2_miles', 'peets_coffee', '9981_archuleta_ave']
+2 how s the traffic	moderate_traffic is listed to peets_coffee	['peets_coffee', 'moderate_traffic']
+3 sounds good let s get going	displaying directions now	[]
+4 thanks for the help	you re welcome drive safely and enjoy	[]
+
+#conv#
+0 four_seasons distance 2_miles
+0 four_seasons traffic_info moderate_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 stanford_oval_parking distance 3_miles
+0 stanford_oval_parking traffic_info car_collision_nearby
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 5677_springer_street distance 1_miles
+0 5677_springer_street traffic_info moderate_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 town_and_country distance 6_miles
+0 town_and_country traffic_info moderate_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 palo_alto_garage_r distance 6_miles
+0 palo_alto_garage_r traffic_info no_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 topanga_mall distance 3_miles
+0 topanga_mall traffic_info no_traffic
+0 topanga_mall poi_type shopping_center
+0 topanga_mall address 171_oak_rd
+0 shell distance 6_miles
+0 shell traffic_info no_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 the_westin distance 7_miles
+0 the_westin traffic_info no_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+1 will you find me the fastest route to a rest_stop	the_westin is located 7_miles away with no_traffic setting directions now to 329_el_camino_real	['329_el_camino_real', '7_miles', 'the_westin', 'no_traffic']
+2 pick the fastest route please thank you car	setting navigation now	[]
+3 thank you car	you re welcome	[]
+
+#conv#
+0 stanford_express_care distance 3_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 the_clement_hotel distance 5_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 comfort_inn distance 5_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 toms_house distance 1_miles
+0 toms_house traffic_info no_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 stanford_oval_parking distance 5_miles
+0 stanford_oval_parking traffic_info no_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 jacks_house distance 6_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 5672_barringer_street distance 5_miles
+0 5672_barringer_street traffic_info heavy_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+1 navigate home	home is 5_miles away at 5671 barringer street	['5_miles', 'home']
+2 is that route avoiding heavy_traffic	no the only route available has heavy_traffic i m sorry	['heavy_traffic']
+3 that is ok	sorry about it enjoy some music in the meantime	[]
+
+#conv#
+0 philz distance 6_miles
+0 philz traffic_info moderate_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 dominos distance 6_miles
+0 dominos traffic_info heavy_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 stanford_shopping_center distance 5_miles
+0 stanford_shopping_center traffic_info no_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 sigona_farmers_market distance 6_miles
+0 sigona_farmers_market traffic_info moderate_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 stanford_childrens_health distance 5_miles
+0 stanford_childrens_health traffic_info no_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 palo_alto_cafe distance 2_miles
+0 palo_alto_cafe traffic_info moderate_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 hotel_keen distance 3_miles
+0 hotel_keen traffic_info no_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+1 find the nearest hotel	the nearest hotel is hotel_keen it s 3_miles away do you want its address	['hotel_keen', '3_miles']
+2 yes sounds great	578_arbol_dr there is no_traffic and you should arrive in a couple minutes	['578_arbol_dr', 'no_traffic']
+3 set my gps for the quickest route possible please	i picked the best route for you drive carefully	[]
+4 thank you car	you re welcome	[]
+
+#conv#
+0 chef_chu_s distance 6_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 starbucks distance 3_miles
+0 starbucks traffic_info heavy_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info car_collision_nearby
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 the_clement_hotel distance 6_miles
+0 the_clement_hotel traffic_info car_collision_nearby
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 5677_southwest_4th_street distance 1_miles
+0 5677_southwest_4th_street traffic_info no_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 pizza_hut distance 3_miles
+0 pizza_hut traffic_info road_block_nearby
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 jing_jing distance 5_miles
+0 jing_jing traffic_info car_collision_nearby
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 home distance 1_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 10_ames_street
+1 what is a quick route home	there is heavy_traffic in this moment but we re just 1_miles away it shouldn t take too long to reach there	['heavy_traffic', '1_miles']
+2 please direct me via the quickest possible route	i sent all the info on your screen drive carefully	[]
+3 thank you car	you are welcome	[]
+
+#conv#
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info heavy_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 hotel_keen distance 1_miles
+0 hotel_keen traffic_info moderate_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 palo_alto_medical_foundation distance 4_miles
+0 palo_alto_medical_foundation traffic_info moderate_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 toms_house distance 4_miles
+0 toms_house traffic_info heavy_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 jacks_house distance 5_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 webster_garage distance 2_miles
+0 webster_garage traffic_info moderate_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 safeway distance 1_miles
+0 safeway traffic_info moderate_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+1 where is there a parking_garage	i have located a parking_garage 2_miles away at 880_ames_ct called webster_garage	['880_ames_ct', 'parking_garage', 'webster_garage', '2_miles']
+2 what is the quickest route there	it is located 2_miles away with moderate_traffic en route	['2_miles', 'moderate_traffic']
+3 okay perfect thanks	no problem	[]
+
+#conv#
+0 town_and_country distance 3_miles
+0 town_and_country traffic_info moderate_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 midtown_shopping_center distance 5_miles
+0 midtown_shopping_center traffic_info heavy_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 ravenswood_shopping_center distance 6_miles
+0 ravenswood_shopping_center traffic_info no_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 teavana distance 4_miles
+0 teavana traffic_info no_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 cafe_venetia distance 5_miles
+0 cafe_venetia traffic_info moderate_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 dish_parking distance 1_miles
+0 dish_parking traffic_info heavy_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 palo_alto_medical_foundation distance 3_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+1 where can i get tea	there is 2 tea shops near you teavana is 4_miles away and cafe_venetia is 5_miles away which one do you want	['5_miles', 'teavana', '4_miles', 'cafe_venetia']
+2 which one is the quickest is there any traffic	teavana is the fastest journey because there is no_traffic on the way there cafe_venetia has moderate_traffic should we go to teavana	['teavana', 'cafe_venetia', 'moderate_traffic', 'no_traffic']
+3 yes teavana please	i sent on your screen its position and the fastest route to get there	[]
+4 ok can you tell me the address please	teavana is located at 145_amherst_st	['145_amherst_st', 'teavana']
+5 thanks for all the help	you re welcome glad i could be of assistance	[]
+
+#conv#
+0 mandarin_roots distance 2_miles
+0 mandarin_roots traffic_info heavy_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 safeway distance 3_miles
+0 safeway traffic_info moderate_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 ravenswood_shopping_center distance 1_miles
+0 ravenswood_shopping_center traffic_info moderate_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 round_table distance 1_miles
+0 round_table traffic_info no_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 four_seasons distance 3_miles
+0 four_seasons traffic_info no_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 coupa distance 6_miles
+0 coupa traffic_info moderate_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 whole_foods distance 4_miles
+0 whole_foods traffic_info heavy_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+1 give me directions to the local starbucks	i do not have info on the local starbucks but i do see another coffee place would you like to hear info on it	['starbucks']
+2 yes please which one is its address there is any quick route available	there is coupa located at 394_van_ness_ave there is moderate_traffic but you re just 6_miles away	['394_van_ness_ave', 'moderate_traffic', '6_miles', 'coupa']
+3 perfect	you are welcome	[]
+
+#conv#
+0 shell distance 6_miles
+0 shell traffic_info heavy_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 palo_alto_medical_foundation distance 5_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 the_westin distance 6_miles
+0 the_westin traffic_info road_block_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 stanford_shopping_center distance 5_miles
+0 stanford_shopping_center traffic_info car_collision_nearby
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 home distance 6_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 webster_garage distance 2_miles
+0 webster_garage traffic_info heavy_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 home distance 1_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 jacks_house distance 4_miles
+0 jacks_house traffic_info road_block_nearby
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+1 i need a route to the shopping_center with no_traffic	stanford_shopping_center is the only nearby shopping_center	['stanford_shopping_center', 'shopping_center']
+2 what does the traffic look like	there is a car_collision_nearby stanford_shopping_center	['car_collision_nearby', 'stanford_shopping_center']
+3 ouch patience please pick the route with least traffic and let s go there thank you	the route to 773_alger_dr set to the quickest possible	['773_alger_dr']
+4 thank you car	you re welcome	[]
+
+#conv#
+0 jing_jing distance 2_miles
+0 jing_jing traffic_info car_collision_nearby
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 hacienda_market distance 6_miles
+0 hacienda_market traffic_info car_collision_nearby
+0 hacienda_market poi_type grocery_store
+0 hacienda_market address 1313_chester_ave
+0 dominos distance 5_miles
+0 dominos traffic_info moderate_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 5672_barringer_street distance 6_miles
+0 5672_barringer_street traffic_info no_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 stanford_oval_parking distance 2_miles
+0 stanford_oval_parking traffic_info heavy_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 philz distance 6_miles
+0 philz traffic_info no_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 stanford_shopping_center distance 2_miles
+0 stanford_shopping_center traffic_info moderate_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 round_table distance 2_miles
+0 round_table traffic_info moderate_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+1 find a coffee place	philz serves coffee and is 6_miles away at 583_alester_ave	['583_alester_ave', 'philz', '6_miles']
+2 sounds great let s go there	there is no_traffic on the 6_miles route to philz enjoy	['philz', '6_miles', 'no_traffic']
+3 thank you	you re welcome	[]
+
+#conv#
+0 pizza_my_heart distance 6_miles
+0 pizza_my_heart traffic_info no_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 town_and_country distance 1_miles
+0 town_and_country traffic_info road_block_nearby
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 5677_southwest_4th_street distance 2_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 chevron distance 4_miles
+0 chevron traffic_info no_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 shell distance 4_miles
+0 shell traffic_info heavy_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 sigona_farmers_market distance 1_miles
+0 sigona_farmers_market traffic_info road_block_nearby
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 mandarin_roots distance 5_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 pizza_hut distance 8_miles
+0 pizza_hut traffic_info car_collision_nearby
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+1 i need the quickest route to a pizza_restaurant near me	there isn t any traffic to pizza_my_heart at 528_anton_ct it will be a 6_miles drive	['528_anton_ct', '6_miles', 'pizza_my_heart']
+2 pick the quickest route and let s go there please	quickest route with no_traffic set for pizza_my_heart have a great day	['pizza_my_heart', 'no_traffic']
+
+#conv#
+0 sigona_farmers_market distance 4_miles
+0 sigona_farmers_market traffic_info no_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 home distance 1_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 tai_pan distance 5_miles
+0 tai_pan traffic_info heavy_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 midtown_shopping_center distance 1_miles
+0 midtown_shopping_center traffic_info no_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 chef_chu_s distance 6_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 home distance 2_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 5677_southwest_4th_street distance 5_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+1 where are there chinese_restaurant around	there is a chef_chu_s and a tai_pan	['tai_pan', 'chef_chu_s']
+2 whichever is the fastest to get to	that would be chef_chu_s	['chef_chu_s']
+3 what is the address	chef_chu_s is at 593_arrowhead_way	['593_arrowhead_way', 'chef_chu_s']
+4 thank you	you re welcome	[]
+
+#conv#
+0 76 distance 2_miles
+0 76 traffic_info no_traffic
+0 76 poi_type gas_station
+0 76 address 91_el_camino_real
+0 dominos distance 2_miles
+0 dominos traffic_info road_block_nearby
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 whole_foods distance 2_miles
+0 whole_foods traffic_info road_block_nearby
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info no_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 toms_house distance 1_miles
+0 toms_house traffic_info car_collision_nearby
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 hotel_keen distance 3_miles
+0 hotel_keen traffic_info car_collision_nearby
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 the_clement_hotel distance 5_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 pizza_chicago distance 3_miles
+0 pizza_chicago traffic_info road_block_nearby
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+1 what is the rest_stop with the quickest route nearby	hotel_keen is a rest_stop located 3_miles away there is a car_collision_nearby but should delay you to long	['car_collision_nearby', 'hotel_keen', '3_miles', 'rest_stop']
+2 what is the address	the address for hotel_keen is 578_arbol_dr 3_miles away with a car_collision_nearby	['578_arbol_dr', 'hotel_keen', '3_miles', 'car_collision_nearby']
+3 is there a quick route to reach	i sent the quickest route on your screen	[]
+4 thank you car	you re welcome drive safely	[]
+5 have a good day	if you drive carefully it will be for sure	[]
+
+#conv#
+0 home distance 4_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 home distance 5_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 four_seasons distance 6_miles
+0 four_seasons traffic_info no_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 papa_johns distance 3_miles
+0 papa_johns traffic_info car_collision_nearby
+0 papa_johns poi_type pizza_restaurant
+0 papa_johns address 110_arastradero_rd
+0 cafe_venetia distance 6_miles
+0 cafe_venetia traffic_info moderate_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 palo_alto_garage_r distance 6_miles
+0 palo_alto_garage_r traffic_info car_collision_nearby
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 round_table distance 3_miles
+0 round_table traffic_info no_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 5677_southwest_4th_street distance 2_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+1 please give me the address and directions via a route with no_traffic to the nearest pizza_restaurant	the nearest pizza_restaurant with no_traffic is 3_miles away at 113_anton_ct do you want to go to the round_table	['3_miles', '113_anton_ct', 'round_table', 'pizza_restaurant', 'no_traffic']
+2 yes let s go thank you	you re welcome	[]
+
+#conv#
+0 teavana distance 6_miles
+0 teavana traffic_info moderate_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 pizza_my_heart distance 5_miles
+0 pizza_my_heart traffic_info no_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 safeway distance 6_miles
+0 safeway traffic_info heavy_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 jills_house distance 2_miles
+0 jills_house traffic_info moderate_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 home distance 2_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 dominos distance 2_miles
+0 dominos traffic_info moderate_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 jacks_house distance 3_miles
+0 jacks_house traffic_info moderate_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+1 find location and address to home that is nearest me	your home is at 56_cadwell_street	['56_cadwell_street', 'home']
+2 thanks set the gps for there	no problem	[]
+
+#conv#
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info car_collision_nearby
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 coupa distance 1_miles
+0 coupa traffic_info moderate_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 jacks_house distance 5_miles
+0 jacks_house traffic_info moderate_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 toms_house distance 1_miles
+0 toms_house traffic_info moderate_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 palo_alto_medical_foundation distance 4_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 p_._f_._changs distance 3_miles
+0 p_._f_._changs traffic_info car_collision_nearby
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 stanford_express_care distance 1_miles
+0 stanford_express_care traffic_info car_collision_nearby
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 town_and_country distance 5_miles
+0 town_and_country traffic_info moderate_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+1 please give me the address and directions via a route that avoids all heavy_traffic to a hospital around me	palo_alto_medical_foundation at 611_ames_ave is 4_miles away but there is no_traffic on the way setting navigation now	['611_ames_ave', 'no_traffic', '4_miles', 'palo_alto_medical_foundation']
+2 thank you very much car	you are welcome	[]
+
+#conv#
+0 chef_chu_s distance 3_miles
+0 chef_chu_s traffic_info no_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 p_._f_._changs distance 1_miles
+0 p_._f_._changs traffic_info no_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 valero distance 5_miles
+0 valero traffic_info road_block_nearby
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+0 pizza_my_heart distance 3_miles
+0 pizza_my_heart traffic_info no_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 comfort_inn distance 4_miles
+0 comfort_inn traffic_info heavy_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 panda_express distance 5_miles
+0 panda_express traffic_info heavy_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 pizza_hut distance 2_miles
+0 pizza_hut traffic_info heavy_traffic
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 jacks_house distance 6_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+1 find me the nearest gas_station	the nearest gas_station is located 5_miles away need more info	['5_miles', 'gas_station']
+2 please pick the quickest route to get there thank you	setting gps for quickest route to valero gas_station now	['gas_station', 'valero']
+3 display address on screen please	valero is located at 200_alester_ave	['200_alester_ave', 'valero']
+4 thanks for the information	you re welcome glad i could help	[]
+
+#conv#
+0 peets_coffee distance 1_miles
+0 peets_coffee traffic_info heavy_traffic
+0 peets_coffee poi_type coffee_or_tea_place
+0 peets_coffee address 9981_archuleta_ave
+0 home distance 4_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 round_table distance 4_miles
+0 round_table traffic_info no_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 palo_alto_cafe distance 3_miles
+0 palo_alto_cafe traffic_info car_collision_nearby
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 pizza_my_heart distance 3_miles
+0 pizza_my_heart traffic_info road_block_nearby
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 the_westin distance 2_miles
+0 the_westin traffic_info road_block_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 stanford_oval_parking distance 1_miles
+0 stanford_oval_parking traffic_info road_block_nearby
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 panda_express distance 4_miles
+0 panda_express traffic_info moderate_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+1 need the quickest route to home	your home is 4_miles away but there is heavy_traffic on our way i sent the best available route on your screen	['heavy_traffic', 'home', '4_miles']
+2 could you confirm the address for me please	sure it s 56_cadwell_street you can see it on your screen	['56_cadwell_street']
+3 thank you	you re welcome drive safely	[]
+
+#conv#
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info no_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 jing_jing distance 6_miles
+0 jing_jing traffic_info moderate_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 round_table distance 5_miles
+0 round_table traffic_info moderate_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 palo_alto_cafe distance 3_miles
+0 palo_alto_cafe traffic_info heavy_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 the_clement_hotel distance 4_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 stanford_shopping_center distance 4_miles
+0 stanford_shopping_center traffic_info no_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 jacks_house distance 5_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+1 where is the nearby shopping_center	stanford_shopping_center is 4_miles away	['stanford_shopping_center', '4_miles']
+2 please pick the quickest route to go there and send me the info on screen thanks	ok you will headed toward stanford_shopping_center at 773_alger_dr located 4_miles away	['stanford_shopping_center', '4_miles', '773_alger_dr']
+3 thanks	you are welcome	[]
+
+#conv#
+0 teavana distance 1_miles
+0 teavana traffic_info heavy_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 philz distance 5_miles
+0 philz traffic_info no_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 comfort_inn distance 5_miles
+0 comfort_inn traffic_info car_collision_nearby
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 the_westin distance 1_miles
+0 the_westin traffic_info road_block_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 5677_springer_street distance 3_miles
+0 5677_springer_street traffic_info no_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 travelers_lodge distance 1_miles
+0 travelers_lodge traffic_info no_traffic
+0 travelers_lodge poi_type rest_stop
+0 travelers_lodge address 333_arbol_dr
+0 stanford_childrens_health distance 3_miles
+0 stanford_childrens_health traffic_info moderate_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 home distance 1_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+1 i need a rest_stop within a 2_miles radius	there is a travelers_lodge one miles away	['travelers_lodge']
+2 what is the address	travelers_lodge 333_arbol_dr	['travelers_lodge', '333_arbol_dr']
+3 set gps for shortest route	gps set for shortest route	[]
+4 thanks	have a good day	[]
+
+#conv#
+0 ravenswood_shopping_center distance 4_miles
+0 ravenswood_shopping_center traffic_info heavy_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 stanford_express_care distance 3_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 jing_jing distance 5_miles
+0 jing_jing traffic_info heavy_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 sigona_farmers_market distance 4_miles
+0 sigona_farmers_market traffic_info no_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 the_westin distance 4_miles
+0 the_westin traffic_info no_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 cafe_venetia distance 4_miles
+0 cafe_venetia traffic_info no_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+1 give me the location for the nearest starbucks	there is no starbucks listed locally but i have another coffee shop listed would you like the address to it	['starbucks']
+2 yes please	then let s go at cafe_venetia 269_alger_dr	['cafe_venetia', '269_alger_dr']
+3 okay thank you	the destination is 4_miles away in no_traffic	['4_miles', 'no_traffic']
+4 please set the gps to avoid all heavy_traffic and let s go there thank you	you are welcome	[]
+
+#conv#
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info no_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 pizza_my_heart distance 6_miles
+0 pizza_my_heart traffic_info moderate_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 dish_parking distance 3_miles
+0 dish_parking traffic_info heavy_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 stanford_shopping_center distance 3_miles
+0 stanford_shopping_center traffic_info heavy_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 coupa distance 6_miles
+0 coupa traffic_info moderate_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 dominos distance 1_miles
+0 dominos traffic_info heavy_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 cafe_venetia distance 3_miles
+0 cafe_venetia traffic_info heavy_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+1 find directions to the nearest starbucks	there is no starbucks close but there is two others one is coupa that is 6_miles away and the other is cafe_venetia which is 3_miles away which one do you want	['3_miles', '6_miles', 'starbucks', 'coupa', 'cafe_venetia']
+2 let s go at cafe_venetia please send the address on my screen and pich the quickest route	cafe_venetia is located at 269_alger_drive with heavy_traffic is that going to be okay	['heavy_traffic', 'cafe_venetia']
+3 yes set gps for the quickest route now	i sent the info on your screen drive carefully	[]
+4 thanks	you re welcome	[]
+
+#conv#
+0 midtown_shopping_center distance 6_miles
+0 midtown_shopping_center traffic_info road_block_nearby
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 papa_johns distance 4_miles
+0 papa_johns traffic_info road_block_nearby
+0 papa_johns poi_type pizza_restaurant
+0 papa_johns address 110_arastradero_rd
+0 travelers_lodge distance 6_miles
+0 travelers_lodge traffic_info moderate_traffic
+0 travelers_lodge poi_type rest_stop
+0 travelers_lodge address 333_arbol_dr
+0 chevron distance 2_miles
+0 chevron traffic_info car_collision_nearby
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 ravenswood_shopping_center distance 1_miles
+0 ravenswood_shopping_center traffic_info heavy_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 dish_parking distance 5_miles
+0 dish_parking traffic_info road_block_nearby
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 the_westin distance 7_miles
+0 the_westin traffic_info road_block_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 teavana distance 1_miles
+0 teavana traffic_info road_block_nearby
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+1 give me directions to a place to sleep	the travelers_lodge is closest to you at 6_miles away in moderate_traffic would you like directions there	['travelers_lodge', '6_miles', 'moderate_traffic']
+2 yes please pick a quick route	i m setting the gps for 333_arbol_dr	['333_arbol_dr']
+3 thanks	you are welcome	[]
+
+#conv#
+0 comfort_inn distance 3_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 palo_alto_medical_foundation distance 4_miles
+0 palo_alto_medical_foundation traffic_info heavy_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 dish_parking distance 6_miles
+0 dish_parking traffic_info moderate_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 safeway distance 3_miles
+0 safeway traffic_info heavy_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 p_._f_._changs distance 5_miles
+0 p_._f_._changs traffic_info heavy_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 jills_house distance 6_miles
+0 jills_house traffic_info no_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+1 i m desiring to eat at some chinese_restaurant is there anything in this local area	we re 5_miles away from p_.f_._changs do you want to go there	['5_miles']
+2 yes please and pick a route to avoid all heavy_traffic	taking you to p_.f_._changs	[]
+3 what is the address	the addres of p_.f_._changs is 669_el_camino_real	['669_el_camino_real']
+4 sounds good set the navigation there please	navigation set we should arrive shortly	[]
+
+#conv#
+0 sigona_farmers_market distance 2_miles
+0 sigona_farmers_market traffic_info moderate_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 ravenswood_shopping_center distance 3_miles
+0 ravenswood_shopping_center traffic_info no_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 5672_barringer_street distance 2_miles
+0 5672_barringer_street traffic_info no_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info heavy_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 stanford_childrens_health distance 4_miles
+0 stanford_childrens_health traffic_info moderate_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 toms_house distance 3_miles
+0 toms_house traffic_info heavy_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 chevron distance 6_miles
+0 chevron traffic_info no_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+1 find me a gas_station	chevron is 6_miles away	['chevron', '6_miles']
+2 are there any other locations that will take less time to reach	i m sorry chevron is the only gas_station i am able to locate	['chevron', 'gas_station']
+3 ok send me the address please	its address is 783_arcadia_pl i sent it on your screen	['783_arcadia_pl']
+4 thank you	you re welcome drive safely	[]
+5 great	no problem	[]
+
+#conv#
+0 stanford_childrens_health distance 5_miles
+0 stanford_childrens_health traffic_info moderate_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 toms_house distance 2_miles
+0 toms_house traffic_info heavy_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 the_clement_hotel distance 1_miles
+0 the_clement_hotel traffic_info no_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 stanford_express_care distance 3_miles
+0 stanford_express_care traffic_info moderate_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 5677_springer_street distance 1_miles
+0 5677_springer_street traffic_info heavy_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 chef_chu_s distance 3_miles
+0 chef_chu_s traffic_info moderate_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 mandarin_roots distance 6_miles
+0 mandarin_roots traffic_info no_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+1 are there any chinese_restaurant nearby	we re 3_miles away from chef_chu_s and 6_miles away from mandarin_roots	['mandarin_roots', '3_miles', '6_miles', 'chef_chu_s']
+2 which one has the fastest route	chef_chu_s is closer	['chef_chu_s']
+3 what is the address	chef_chu_s is located at 593_arrowhead_way	['593_arrowhead_way', 'chef_chu_s']
+4 how long will it take to get there	chef_chu_s is 3_miles away through moderate_traffic	['3_miles', 'moderate_traffic', 'chef_chu_s']
+5 thank you	you re welcome	[]
+
+#conv#
+0 stanford_express_care distance 7_miles
+0 stanford_express_care traffic_info car_collision_nearby
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 jing_jing distance 5_miles
+0 jing_jing traffic_info no_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 civic_center_garage distance 2_miles
+0 civic_center_garage traffic_info road_block_nearby
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+0 valero distance 4_miles
+0 valero traffic_info moderate_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+0 whole_foods distance 3_miles
+0 whole_foods traffic_info road_block_nearby
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 shell distance 6_miles
+0 shell traffic_info moderate_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 jacks_house distance 2_miles
+0 jacks_house traffic_info no_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 papa_johns distance 1_miles
+0 papa_johns traffic_info heavy_traffic
+0 papa_johns poi_type pizza_restaurant
+0 papa_johns address 110_arastradero_rd
+1 where is the nearest hospital that we can get to quick	stanford_express_care is 7_miles away though there is a car_collision_nearby would you like directions there	['stanford_express_care', '7_miles', 'car_collision_nearby']
+2 yes sounds great	okay heading to 214_el_camino_real	['214_el_camino_real']
+
+#conv#
+0 town_and_country distance 4_miles
+0 town_and_country traffic_info heavy_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 trader_joes distance 2_miles
+0 trader_joes traffic_info moderate_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 chevron distance 6_miles
+0 chevron traffic_info moderate_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 dish_parking distance 4_miles
+0 dish_parking traffic_info heavy_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 cafe_venetia distance 4_miles
+0 cafe_venetia traffic_info heavy_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 ravenswood_shopping_center distance 5_miles
+0 ravenswood_shopping_center traffic_info no_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 the_westin distance 4_miles
+0 the_westin traffic_info no_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+1 give me the location for the nearest starbucks	there are no starbucks around here but we re 4_miles away from cafe_venetia is it okay to go there	['cafe_venetia', '4_miles', 'starbucks']
+2 sure just pick the fastest route for me thanks	i sent the address with the fastest route on screen drive carefully	[]
+
+#conv#
+0 toms_house distance 5_miles
+0 toms_house traffic_info moderate_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 four_seasons distance 6_miles
+0 four_seasons traffic_info car_collision_nearby
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 travelers_lodge distance 4_miles
+0 travelers_lodge traffic_info car_collision_nearby
+0 travelers_lodge poi_type rest_stop
+0 travelers_lodge address 333_arbol_dr
+0 palo_alto_medical_foundation distance 4_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 coupa distance 6_miles
+0 coupa traffic_info moderate_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 willows_market distance 2_miles
+0 willows_market traffic_info car_collision_nearby
+0 willows_market poi_type grocery_store
+0 willows_market address 409_bollard_st
+0 76 distance 2_miles
+0 76 traffic_info road_block_nearby
+0 76 poi_type gas_station
+0 76 address 91_el_camino_real
+0 home distance 6_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+1 where is a nearby rest_stop	the travelers_lodge is located 4_miles away at 333_arbol_dr would you like directions there	['travelers_lodge', '333_arbol_dr', '4_miles']
+2 yes please give me directions via the fastest route	ok i am setting gps for 333_arbol_dr	['333_arbol_dr']
+3 thank you	you re welcome have a great day	[]
+
+#conv#
+0 palo_alto_garage_r distance 3_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 sigona_farmers_market distance 3_miles
+0 sigona_farmers_market traffic_info heavy_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 cafe_venetia distance 4_miles
+0 cafe_venetia traffic_info no_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 chevron distance 6_miles
+0 chevron traffic_info no_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+0 palo_alto_medical_foundation distance 3_miles
+0 palo_alto_medical_foundation traffic_info heavy_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 coupa distance 4_miles
+0 coupa traffic_info no_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 jacks_house distance 4_miles
+0 jacks_house traffic_info moderate_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+1 what is the address of my friend s house	jacks_house is at 864_almanor_ln	['jacks_house', '864_almanor_ln']
+2 get me the address to my friends_house nearest my current location	taking you to jack s house	[]
+3 set the gps for the quickest route possible	i sent all the info on your screen drive carefully	[]
+4 thanks	anytime	[]
+
+#conv#
+0 the_clement_hotel distance 6_miles
+0 the_clement_hotel traffic_info moderate_traffic
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 ravenswood_shopping_center distance 3_miles
+0 ravenswood_shopping_center traffic_info moderate_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 jing_jing distance 5_miles
+0 jing_jing traffic_info moderate_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 midtown_shopping_center distance 3_miles
+0 midtown_shopping_center traffic_info heavy_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 stanford_shopping_center distance 3_miles
+0 stanford_shopping_center traffic_info heavy_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 webster_garage distance 2_miles
+0 webster_garage traffic_info no_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 5677_southwest_4th_street distance 4_miles
+0 5677_southwest_4th_street traffic_info heavy_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+1 get me directions to the mall	there are the ravenswood_shopping_center and the stanford_shopping_center both 3_miles away do you want me to flip a coin between them or will you pick where to go	['ravenswood_shopping_center', 'stanford_shopping_center', '3_miles']
+2 let s go at ravenswood_shopping_center and pick a route with no_traffic please	navigating you to ravenswood_shopping_center	['ravenswood_shopping_center']
+3 what s the address	the address to ravenswood_shopping_center is 434_arastradero_rd	['434_arastradero_rd', 'ravenswood_shopping_center']
+4 thanks so much for all your help	good day	[]
+
+#conv#
+0 5677_springer_street distance 5_miles
+0 5677_springer_street traffic_info moderate_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 trader_joes distance 2_miles
+0 trader_joes traffic_info heavy_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 topanga_mall distance 3_miles
+0 topanga_mall traffic_info road_block_nearby
+0 topanga_mall poi_type shopping_center
+0 topanga_mall address 171_oak_rd
+0 teavana distance 5_miles
+0 teavana traffic_info road_block_nearby
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 palo_alto_cafe distance 4_miles
+0 palo_alto_cafe traffic_info no_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 sigona_farmers_market distance 6_miles
+0 sigona_farmers_market traffic_info road_block_nearby
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 midtown_shopping_center distance 6_miles
+0 midtown_shopping_center traffic_info car_collision_nearby
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 home distance 6_miles
+0 home traffic_info car_collision_nearby
+0 home poi_type home
+0 home address 56_cadwell_street
+1 is there a grocery_store within 3_miles of me	trader_joes is 2_miles away at 408_university_ave there is currently heavy_traffic on the route	['heavy_traffic', '2_miles', 'trader_joes', '408_university_ave']
+2 ok please give me directions via the route with least traffic	setting navigation now there is heavy_traffic on the way so drive carefully	['heavy_traffic']
+3 thank you	you re welcome drive safely	[]
+
+#conv#
+0 comfort_inn distance 2_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 stanford_express_care distance 4_miles
+0 stanford_express_care traffic_info heavy_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 tai_pan distance 5_miles
+0 tai_pan traffic_info heavy_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 starbucks distance 4_miles
+0 starbucks traffic_info heavy_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info no_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 panda_express distance 3_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 trader_joes distance 3_miles
+0 trader_joes traffic_info moderate_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+1 show me the nearby hospital	stanford_express_care is nearby	['stanford_express_care']
+2 does stanford_express_care have heavy_traffic nearby	does stanford_express_care have heavy_traffic nearby	['heavy_traffic', 'stanford_express_care']
+3 does stanford_express_care have heavy_traffic nearby	the route to stanford_express_care does have heavy_traffic	['heavy_traffic', 'stanford_express_care']
+4 any other local hospital s with no heavy_traffic	yes stanford_childrens_health is 1_miles away with no_traffic do you want the address	['1_miles', 'stanford_childrens_health', 'no_traffic']
+5 quickly reboot your system car and then send me the address thank you	i m sorry i did and i sent the address on your screen drive carefully	[]
+
+#conv#
+0 safeway distance 6_miles
+0 safeway traffic_info car_collision_nearby
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 starbucks distance 2_miles
+0 starbucks traffic_info moderate_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 valero distance 2_miles
+0 valero traffic_info road_block_nearby
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+0 cafe_venetia distance 2_miles
+0 cafe_venetia traffic_info road_block_nearby
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 four_seasons distance 3_miles
+0 four_seasons traffic_info no_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 sigona_farmers_market distance 4_miles
+0 sigona_farmers_market traffic_info heavy_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 the_westin distance 1_miles
+0 the_westin traffic_info road_block_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+1 i need a coffee shop within 4_miles	cafe_venetia is 2_miles away at 269_alger_dr	['cafe_venetia', '269_alger_dr', '2_miles']
+2 is there a quickest route to reach it	setting navigation now for the quickest route there is a road_block_nearby so drive carefully	['road_block_nearby']
+3 thanks	anytime	[]
+
+#conv#
+0 the_westin distance 6_miles
+0 the_westin traffic_info moderate_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 stanford_express_care distance 3_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 whole_foods distance 1_miles
+0 whole_foods traffic_info no_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 pizza_my_heart distance 5_miles
+0 pizza_my_heart traffic_info heavy_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 5677_springer_street distance 2_miles
+0 5677_springer_street traffic_info heavy_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 p_._f_._changs distance 1_miles
+0 p_._f_._changs traffic_info moderate_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 chevron distance 5_miles
+0 chevron traffic_info moderate_traffic
+0 chevron poi_type gas_station
+0 chevron address 783_arcadia_pl
+1 find me a hotel that is near my location	the_westin is 6_miles away	['the_westin', '6_miles']
+2 please pick a quick route to go there	navigating to the_westin	['the_westin']
+3 thanks what is the address	the address is 329_el_camino_real	['329_el_camino_real']
+4 ok set the gps please thanks for the help	you re welcome happy to be of assistance	[]
+
+#conv#
+0 home distance 1_miles
+0 home traffic_info car_collision_nearby
+0 home poi_type home
+0 home address 10_ames_street
+0 stanford_shopping_center distance 2_miles
+0 stanford_shopping_center traffic_info moderate_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 topanga_mall distance 1_miles
+0 topanga_mall traffic_info no_traffic
+0 topanga_mall poi_type shopping_center
+0 topanga_mall address 171_oak_rd
+0 safeway distance 4_miles
+0 safeway traffic_info road_block_nearby
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 round_table distance 6_miles
+0 round_table traffic_info car_collision_nearby
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 midtown_shopping_center distance 2_miles
+0 midtown_shopping_center traffic_info heavy_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 the_westin distance 5_miles
+0 the_westin traffic_info road_block_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 5677_springer_street distance 3_miles
+0 5677_springer_street traffic_info heavy_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+1 where can i buy groceries	there is a safeway 4_miles away	['safeway', '4_miles']
+2 what is the address	safeway is located at 452_arcadia_pl with a road_block_nearby	['road_block_nearby', 'safeway', '452_arcadia_pl']
+3 ouch this sounds awful but patience please set the gps to go there	i sent the fastest route on your gps drive carefully	[]
+4 thank you car	you re welcome	[]
+
+#conv#
+0 coupa distance 1_miles
+0 coupa traffic_info heavy_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 the_westin distance 3_miles
+0 the_westin traffic_info heavy_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 midtown_shopping_center distance 5_miles
+0 midtown_shopping_center traffic_info heavy_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 panda_express distance 1_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 trader_joes distance 1_miles
+0 trader_joes traffic_info heavy_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+0 sigona_farmers_market distance 4_miles
+0 sigona_farmers_market traffic_info heavy_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 stanford_express_care distance 3_miles
+0 stanford_express_care traffic_info heavy_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+1 get me directions to the nearest starbucks	i am unable to locate starbucks there is a coffee_or_tea_place called coupa miles away	['coupa', 'coffee_or_tea_place', 'starbucks']
+2 then let s go there car please send me its address on screen and pick the fastest route for me	coupa is 1_miles away with heavy_traffic it shouldn t take us long it s located at 394_van_ness_ave	['heavy_traffic', '394_van_ness_ave', '1_miles', 'coupa']
+3 thanks so much for the information	you re welcome	[]
+
+#conv#
+0 5672_barringer_street distance 1_miles
+0 5672_barringer_street traffic_info no_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 teavana distance 1_miles
+0 teavana traffic_info heavy_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 palo_alto_garage_r distance 4_miles
+0 palo_alto_garage_r traffic_info heavy_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 midtown_shopping_center distance 2_miles
+0 midtown_shopping_center traffic_info heavy_traffic
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 hotel_keen distance 4_miles
+0 hotel_keen traffic_info no_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 home distance 1_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 home distance 5_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+1 take me to the mall to buy some clothes	midtown_shopping_center is the closest shopping_center to you would you like the address	['midtown_shopping_center', 'shopping_center']
+2 yes	we re going to 338_alester_ave there is heavy_traffic but it s just 2_miles away	['heavy_traffic', '2_miles', '338_alester_ave']
+3 i wish to find a route with no_traffic but it s okay please send the info on the gps thanks	sending the address for the midtown_shopping_center at 338_alester_ave to your gps	['midtown_shopping_center', '338_alester_ave']
+4 thank you car	you re welcome	[]
+
+#conv#
+0 5677_springer_street distance 3_miles
+0 5677_springer_street traffic_info no_traffic
+0 5677_springer_street poi_type certain_address
+0 5677_springer_street address 5677_springer_street
+0 home distance 3_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 comfort_inn distance 1_miles
+0 comfort_inn traffic_info road_block_nearby
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 the_westin distance 5_miles
+0 the_westin traffic_info heavy_traffic
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 jing_jing distance 6_miles
+0 jing_jing traffic_info car_collision_nearby
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 palo_alto_medical_foundation distance 4_miles
+0 palo_alto_medical_foundation traffic_info no_traffic
+0 palo_alto_medical_foundation poi_type hospital
+0 palo_alto_medical_foundation address 611_ames_ave
+0 whole_foods distance 2_miles
+0 whole_foods traffic_info road_block_nearby
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 jills_house distance 8_miles
+0 jills_house traffic_info car_collision_nearby
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+1 i need the address to my friend s house please	jills_house is located at 347_alta_mesa_ave	['347_alta_mesa_ave', 'jills_house']
+2 could you please send on my screen the fastest route to get there	certainly setting navigation details now there s a car_collision_nearby so take care on the roads	['car_collision_nearby']
+3 will do thank you	you re welcome	[]
+
+#conv#
+0 stanford_express_care distance 3_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 home distance 4_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 whole_foods distance 2_miles
+0 whole_foods traffic_info heavy_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 p_._f_._changs distance 6_miles
+0 p_._f_._changs traffic_info moderate_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 jing_jing distance 5_miles
+0 jing_jing traffic_info heavy_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 pizza_my_heart distance 6_miles
+0 pizza_my_heart traffic_info moderate_traffic
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 cafe_venetia distance 4_miles
+0 cafe_venetia traffic_info no_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+1 find me a tea house	there is cafe_venetia that s 4_miles away at 269_alger_dr	['cafe_venetia', '4_miles', '269_alger_dr']
+2 is there an alternate route and is this the quickest way there	there is no_traffic on our route i ve set the navigation there	['no_traffic']
+3 thank you	you re welcome	[]
+
+#conv#
+0 stanford_express_care distance 4_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 whole_foods distance 5_miles
+0 whole_foods traffic_info moderate_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 safeway distance 5_miles
+0 safeway traffic_info road_block_nearby
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 the_westin distance 4_miles
+0 the_westin traffic_info car_collision_nearby
+0 the_westin poi_type rest_stop
+0 the_westin address 329_el_camino_real
+0 coupa distance 1_miles
+0 coupa traffic_info car_collision_nearby
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 mandarin_roots distance 2_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 pizza_my_heart distance 1_miles
+0 pizza_my_heart traffic_info road_block_nearby
+0 pizza_my_heart poi_type pizza_restaurant
+0 pizza_my_heart address 528_anton_ct
+0 home distance 3_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+1 where do i live	home is listed as 56 caldwell street	['home']
+2 it should be nearby please pick a quick route to get there	setting quickest route home now	['home']
+3 thanks	anytime	[]
+
+#conv#
+0 chef_chu_s distance 5_miles
+0 chef_chu_s traffic_info heavy_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 pizza_chicago distance 2_miles
+0 pizza_chicago traffic_info moderate_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+0 four_seasons distance 6_miles
+0 four_seasons traffic_info no_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 dish_parking distance 3_miles
+0 dish_parking traffic_info road_block_nearby
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 ravenswood_shopping_center distance 2_miles
+0 ravenswood_shopping_center traffic_info car_collision_nearby
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 comfort_inn distance 4_miles
+0 comfort_inn traffic_info road_block_nearby
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 webster_garage distance 4_miles
+0 webster_garage traffic_info car_collision_nearby
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 home distance 2_miles
+0 home traffic_info car_collision_nearby
+0 home poi_type home
+0 home address 56_cadwell_street
+1 car please give me the address of a good pizza_restaurant in the shortest possible distance	pizza_chicago is 2_miles away	['pizza_chicago', '2_miles']
+2 nice what s the address there	the address is 915_arbol_dr would you like directions there	['915_arbol_dr']
+3 set gps for shortest route now	okay heading to pizza_chicago	['pizza_chicago']
+
+#conv#
+0 midtown_shopping_center distance 4_miles
+0 midtown_shopping_center traffic_info road_block_nearby
+0 midtown_shopping_center poi_type shopping_center
+0 midtown_shopping_center address 338_alester_ave
+0 sigona_farmers_market distance 6_miles
+0 sigona_farmers_market traffic_info moderate_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 palo_alto_garage_r distance 3_miles
+0 palo_alto_garage_r traffic_info no_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 webster_garage distance 4_miles
+0 webster_garage traffic_info car_collision_nearby
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 chef_chu_s distance 6_miles
+0 chef_chu_s traffic_info moderate_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 ravenswood_shopping_center distance 6_miles
+0 ravenswood_shopping_center traffic_info no_traffic
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 5672_barringer_street distance 2_miles
+0 5672_barringer_street traffic_info no_traffic
+0 5672_barringer_street poi_type certain_address
+0 5672_barringer_street address 5672_barringer_street
+0 civic_center_garage distance 3_miles
+0 civic_center_garage traffic_info moderate_traffic
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+1 find the nearest shopping mall on the map	the nearest one is midtown_shopping_center but there is a road_block_nearby there is also ravenswood_shopping_center 2_miles farther but with no_traffic on its direction	['midtown_shopping_center', '2_miles', 'ravenswood_shopping_center', 'road_block_nearby', 'no_traffic']
+2 let s go to ravenswood then	setting directions to 434_arastradero_rd	['434_arastradero_rd']
+3 okay thanks	you re welcome always happy to help	[]
+
+#conv#
+0 stanford_oval_parking distance 4_miles
+0 stanford_oval_parking traffic_info moderate_traffic
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 comfort_inn distance 6_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 whole_foods distance 4_miles
+0 whole_foods traffic_info no_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 coupa distance 3_miles
+0 coupa traffic_info heavy_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 5677_southwest_4th_street distance 2_miles
+0 5677_southwest_4th_street traffic_info heavy_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 chef_chu_s distance 4_miles
+0 chef_chu_s traffic_info moderate_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 toms_house distance 1_miles
+0 toms_house traffic_info heavy_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+1 where can i get groceries	whole_foods is 4_miles away	['whole_foods', '4_miles']
+2 okay tell me the quickest route there	the quickest route to whole_foods at 819_alma_street does not have any traffic	['whole_foods']
+3 sounds great set the navigation for there	gps set and have a great day	[]
+
+#conv#
+0 hotel_keen distance 5_miles
+0 hotel_keen traffic_info road_block_nearby
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info road_block_nearby
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 safeway distance 1_miles
+0 safeway traffic_info no_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 home distance 2_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 5677_southwest_4th_street distance 6_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 dominos distance 4_miles
+0 dominos traffic_info no_traffic
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 topanga_mall distance 4_miles
+0 topanga_mall traffic_info car_collision_nearby
+0 topanga_mall poi_type shopping_center
+0 topanga_mall address 171_oak_rd
+0 starbucks distance 5_miles
+0 starbucks traffic_info road_block_nearby
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+1 i want tea	we re 5_miles away from starbucks do you like their tea	['5_miles', 'starbucks']
+2 yes what is the address	you will find starbucks at 792_bedoin_street	['792_bedoin_street', 'starbucks']
+3 thanks	you re welcome	[]
+
+#conv#
+0 hotel_keen distance 4_miles
+0 hotel_keen traffic_info heavy_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 stanford_childrens_health distance 1_miles
+0 stanford_childrens_health traffic_info moderate_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 safeway distance 2_miles
+0 safeway traffic_info no_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 palo_alto_cafe distance 1_miles
+0 palo_alto_cafe traffic_info moderate_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 whole_foods distance 1_miles
+0 whole_foods traffic_info heavy_traffic
+0 whole_foods poi_type grocery_store
+0 whole_foods address 819_alma_st
+0 coupa distance 6_miles
+0 coupa traffic_info moderate_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 teavana distance 6_miles
+0 teavana traffic_info heavy_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+1 take me to a place where i can get some hot tea	coupa is nearby and serves tea	['coupa']
+2 how s the traffic	moderate_traffic to coupa	['moderate_traffic', 'coupa']
+3 give me the address	coupa s address is 394_van_ness_ave	['394_van_ness_ave', 'coupa']
+4 is there an alternate route with no_traffic	no but palo_alto_cafe is just 1_miles away and has moderate_traffic so we should be able to get there quicker how does that sound	['palo_alto_cafe', '1_miles', 'moderate_traffic']
+5 it sounds great thank you car let s navigate there please	ok initiating navigation	[]
+
+#conv#
+0 hacienda_market distance 6_miles
+0 hacienda_market traffic_info moderate_traffic
+0 hacienda_market poi_type grocery_store
+0 hacienda_market address 1313_chester_ave
+0 webster_garage distance 6_miles
+0 webster_garage traffic_info road_block_nearby
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 teavana distance 3_miles
+0 teavana traffic_info car_collision_nearby
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 cafe_venetia distance 2_miles
+0 cafe_venetia traffic_info car_collision_nearby
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 palo_alto_garage_r distance 6_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 four_seasons distance 5_miles
+0 four_seasons traffic_info no_traffic
+0 four_seasons poi_type rest_stop
+0 four_seasons address 465_arcadia_pl
+0 home distance 6_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 5677_southwest_4th_street distance 4_miles
+0 5677_southwest_4th_street traffic_info car_collision_nearby
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+1 directions to nearest barista	the nearer cafe is cafe_venetia it s 2_miles away and there is a car_collision_nearby	['car_collision_nearby', 'cafe_venetia', '2_miles']
+2 is there another coffee shop that situated on a route with no_traffic	i m afraid that cafe_venetia is the best option in this moment i sent on your screen the directions to reach there through another route	['cafe_venetia']
+3 ok thank you	you re welcome drive safely	[]
+
+#conv#
+0 shell distance 6_miles
+0 shell traffic_info heavy_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 cafe_venetia distance 3_miles
+0 cafe_venetia traffic_info no_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 round_table distance 2_miles
+0 round_table traffic_info car_collision_nearby
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 jacks_house distance 6_miles
+0 jacks_house traffic_info car_collision_nearby
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 starbucks distance 3_miles
+0 starbucks traffic_info no_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 home distance 2_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 dominos distance 3_miles
+0 dominos traffic_info car_collision_nearby
+0 dominos poi_type pizza_restaurant
+0 dominos address 776_arastradero_rd
+0 coupa distance 1_miles
+0 coupa traffic_info heavy_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+1 closest coffee	the closest coffee place is coupa but there is heavy_traffic would you like a different location	['heavy_traffic', 'coupa']
+2 is there any available	starbucks at 792_bedoin_street is 3_miles away with no_traffic	['no_traffic', '792_bedoin_street', '3_miles', 'starbucks']
+3 please direct me there via the shortest distance	sending you direction now	[]
+4 thank you car	you re welcome	[]
+
+#conv#
+0 toms_house distance 5_miles
+0 toms_house traffic_info moderate_traffic
+0 toms_house poi_type friends_house
+0 toms_house address 580_van_ness_ave
+0 stanford_express_care distance 5_miles
+0 stanford_express_care traffic_info road_block_nearby
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 round_table distance 6_miles
+0 round_table traffic_info road_block_nearby
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 stanford_oval_parking distance 6_miles
+0 stanford_oval_parking traffic_info road_block_nearby
+0 stanford_oval_parking poi_type parking_garage
+0 stanford_oval_parking address 610_amarillo_ave
+0 panda_express distance 6_miles
+0 panda_express traffic_info car_collision_nearby
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 coupa distance 3_miles
+0 coupa traffic_info heavy_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 civic_center_garage distance 4_miles
+0 civic_center_garage traffic_info car_collision_nearby
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+0 town_and_country distance 3_miles
+0 town_and_country traffic_info moderate_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+1 please give the directions to a nearby hospital	the only nearby hospital is stanford_express_care which is 5_miles away	['hospital', 'stanford_express_care', '5_miles']
+2 and how is the traffic	there is currently a road_block_nearby on the 5_miles route to stanford_express_care	['road_block_nearby', '5_miles', 'stanford_express_care']
+3 could you give me the address and directions via a quick route	the only route to stanford is reporting a road block but i am finding you the quickest route to 214_el_camino_real	['214_el_camino_real']
+4 okay thank you	you re welcome drive safely and take care	[]
+
+#conv#
+0 town_and_country distance 3_miles
+0 town_and_country traffic_info no_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 dish_parking distance 4_miles
+0 dish_parking traffic_info moderate_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 comfort_inn distance 3_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 5677_southwest_4th_street distance 3_miles
+0 5677_southwest_4th_street traffic_info no_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 stanford_express_care distance 4_miles
+0 stanford_express_care traffic_info heavy_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 tai_pan distance 4_miles
+0 tai_pan traffic_info no_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 home distance 5_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 10_ames_street
+1 give me directions to the closest shopping mall	we are 3_miles away from town and county shopping_center does it sound good to you	['shopping_center', '3_miles']
+2 is the route to town and county shopping_center the fastest	yes it is	[]
+3 give me the address	town_and_country is located at 383_university_ave	['town_and_country', '383_university_ave']
+4 thanks	have a good day	[]
+
+#conv#
+0 5677_southwest_4th_street distance 6_miles
+0 5677_southwest_4th_street traffic_info no_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 coupa distance 5_miles
+0 coupa traffic_info no_traffic
+0 coupa poi_type coffee_or_tea_place
+0 coupa address 394_van_ness_ave
+0 civic_center_garage distance 4_miles
+0 civic_center_garage traffic_info moderate_traffic
+0 civic_center_garage poi_type parking_garage
+0 civic_center_garage address 270_altaire_walk
+0 valero distance 2_miles
+0 valero traffic_info moderate_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+0 philz distance 1_miles
+0 philz traffic_info moderate_traffic
+0 philz poi_type coffee_or_tea_place
+0 philz address 583_alester_ave
+0 webster_garage distance 1_miles
+0 webster_garage traffic_info heavy_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 stanford_shopping_center distance 1_miles
+0 stanford_shopping_center traffic_info no_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+1 where can i get coffee	coupa is 5_miles away	['5_miles', 'coupa']
+2 is that the shortest route available	i will pick the shortest route available for you don t worry do you want to get the info on your screen	[]
+3 yes please thanks	i sent the route on your screen you re welcome	[]
+
+#conv#
+0 dish_parking distance 6_miles
+0 dish_parking traffic_info heavy_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 safeway distance 4_miles
+0 safeway traffic_info heavy_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 round_table distance 3_miles
+0 round_table traffic_info heavy_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 home distance 4_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 10_ames_street
+0 panda_express distance 4_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 p_._f_._changs distance 3_miles
+0 p_._f_._changs traffic_info heavy_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 tai_pan distance 3_miles
+0 tai_pan traffic_info heavy_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+1 what is a good chinese_restaurant	i have a few chinese_restaurant listed which one would you like to know about	['chinese_restaurant']
+2 the nearby one please	p_.f_._changs is 3_miles away but there is currently heavy_traffic on the route panda_express is farther at 4_miles away but there isn t any traffic	['heavy_traffic', 'panda_express', '3_miles', '4_miles']
+3 is that the fastest option	yes panda_express seems to be the fastest	['panda_express']
+4 okay great please set the navigation to take me there	all right navigating to panda_express at 842_arrowhead_way	['panda_express', '842_arrowhead_way']
+5 thank you car	you re welcome	[]
+
+#conv#
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info heavy_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 shell distance 6_miles
+0 shell traffic_info no_traffic
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 jills_house distance 4_miles
+0 jills_house traffic_info moderate_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 panda_express distance 6_miles
+0 panda_express traffic_info no_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 hacienda_market distance 2_miles
+0 hacienda_market traffic_info heavy_traffic
+0 hacienda_market poi_type grocery_store
+0 hacienda_market address 1313_chester_ave
+0 sigona_farmers_market distance 6_miles
+0 sigona_farmers_market traffic_info moderate_traffic
+0 sigona_farmers_market poi_type grocery_store
+0 sigona_farmers_market address 638_amherst_st
+0 p_._f_._changs distance 4_miles
+0 p_._f_._changs traffic_info car_collision_nearby
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 home distance 7_miles
+0 home traffic_info heavy_traffic
+0 home poi_type home
+0 home address 10_ames_street
+1 please give me the address and directions to home within 5_miles of here avoiding all heavy_traffic	i m sorry the only route home has heavy_traffic it will be a 7_miles drive to 10_ames_street	['heavy_traffic', 'home', '10_ames_street', '7_miles']
+2 ok that will do thank you	you re very welcome	[]
+
+#conv#
+0 starbucks distance 5_miles
+0 starbucks traffic_info heavy_traffic
+0 starbucks poi_type coffee_or_tea_place
+0 starbucks address 792_bedoin_street
+0 stanford_shopping_center distance 7_miles
+0 stanford_shopping_center traffic_info no_traffic
+0 stanford_shopping_center poi_type shopping_center
+0 stanford_shopping_center address 773_alger_dr
+0 jing_jing distance 2_miles
+0 jing_jing traffic_info no_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 travelers_lodge distance 6_miles
+0 travelers_lodge traffic_info car_collision_nearby
+0 travelers_lodge poi_type rest_stop
+0 travelers_lodge address 333_arbol_dr
+0 stanford_express_care distance 6_miles
+0 stanford_express_care traffic_info no_traffic
+0 stanford_express_care poi_type hospital
+0 stanford_express_care address 214_el_camino_real
+0 dish_parking distance 1_miles
+0 dish_parking traffic_info heavy_traffic
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 ravenswood_shopping_center distance 1_miles
+0 ravenswood_shopping_center traffic_info road_block_nearby
+0 ravenswood_shopping_center poi_type shopping_center
+0 ravenswood_shopping_center address 434_arastradero_rd
+0 p_._f_._changs distance 4_miles
+0 p_._f_._changs traffic_info road_block_nearby
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+1 take me to the mall to buy some clothes	would you prefer stanford_shopping_center which is 7_miles away with no_traffic or ravenswood_shopping_center which is 1_miles away with a road_block_nearby	['stanford_shopping_center', 'ravenswood_shopping_center', 'road_block_nearby', '7_miles', '1_miles', 'no_traffic']
+2 i am guessing ravenswood would be faster let s go there	setting directions to 434_arastradero_rd now	['434_arastradero_rd']
+3 thank you very much car	you are welcome	[]
+
+#conv#
+0 home distance 4_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 5677_southwest_4th_street distance 6_miles
+0 5677_southwest_4th_street traffic_info heavy_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 papa_johns distance 1_miles
+0 papa_johns traffic_info car_collision_nearby
+0 papa_johns poi_type pizza_restaurant
+0 papa_johns address 110_arastradero_rd
+0 teavana distance 5_miles
+0 teavana traffic_info no_traffic
+0 teavana poi_type coffee_or_tea_place
+0 teavana address 145_amherst_st
+0 panda_express distance 1_miles
+0 panda_express traffic_info heavy_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 the_clement_hotel distance 5_miles
+0 the_clement_hotel traffic_info car_collision_nearby
+0 the_clement_hotel poi_type rest_stop
+0 the_clement_hotel address 657_ames_ave
+0 dish_parking distance 3_miles
+0 dish_parking traffic_info car_collision_nearby
+0 dish_parking poi_type parking_garage
+0 dish_parking address 550_alester_ave
+0 round_table distance 1_miles
+0 round_table traffic_info moderate_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+1 navigate home	there is moderate_traffic on the 4_miles route home to 56_cadwell_street	['home', '56_cadwell_street', '4_miles', 'moderate_traffic']
+2 okay thank you	you re welcome drive carefully	[]
+3 [ end conversation ]	anytime	[]
+
+#conv#
+0 pizza_hut distance 3_miles
+0 pizza_hut traffic_info heavy_traffic
+0 pizza_hut poi_type pizza_restaurant
+0 pizza_hut address 704_el_camino_real
+0 hotel_keen distance 5_miles
+0 hotel_keen traffic_info no_traffic
+0 hotel_keen poi_type rest_stop
+0 hotel_keen address 578_arbol_dr
+0 home distance 6_miles
+0 home traffic_info no_traffic
+0 home poi_type home
+0 home address 56_cadwell_street
+0 comfort_inn distance 6_miles
+0 comfort_inn traffic_info no_traffic
+0 comfort_inn poi_type rest_stop
+0 comfort_inn address 753_university_ave
+0 cafe_venetia distance 2_miles
+0 cafe_venetia traffic_info heavy_traffic
+0 cafe_venetia poi_type coffee_or_tea_place
+0 cafe_venetia address 269_alger_dr
+0 p_._f_._changs distance 6_miles
+0 p_._f_._changs traffic_info no_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 trader_joes distance 1_miles
+0 trader_joes traffic_info moderate_traffic
+0 trader_joes poi_type grocery_store
+0 trader_joes address 408_university_ave
+1 i m in the mood for some tea can you show me directions to the nearest cafe	here are directions to cafe_venetia	['cafe_venetia']
+2 hope it doesn t have any traffic	unfortunately there is heavy_traffic but it s just 2_miles away you should be able to reach it quickly anyway	['heavy_traffic', '2_miles']
+3 what is the address	269_alger_dr is the location of cafe_venetia	['cafe_venetia', '269_alger_dr']
+4 thank you very much car	you re welcome	[]
+
+#conv#
+0 shell distance 6_miles
+0 shell traffic_info road_block_nearby
+0 shell poi_type gas_station
+0 shell address 53_university_av
+0 palo_alto_cafe distance 2_miles
+0 palo_alto_cafe traffic_info moderate_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+0 p_._f_._changs distance 3_miles
+0 p_._f_._changs traffic_info moderate_traffic
+0 p_._f_._changs poi_type chinese_restaurant
+0 p_._f_._changs address 669_el_camino_real
+0 willows_market distance 2_miles
+0 willows_market traffic_info road_block_nearby
+0 willows_market poi_type grocery_store
+0 willows_market address 409_bollard_st
+0 panda_express distance 2_miles
+0 panda_express traffic_info moderate_traffic
+0 panda_express poi_type chinese_restaurant
+0 panda_express address 842_arrowhead_way
+0 jacks_house distance 5_miles
+0 jacks_house traffic_info moderate_traffic
+0 jacks_house poi_type friends_house
+0 jacks_house address 864_almanor_ln
+0 5677_southwest_4th_street distance 6_miles
+0 5677_southwest_4th_street traffic_info moderate_traffic
+0 5677_southwest_4th_street poi_type certain_address
+0 5677_southwest_4th_street address 5677_southwest_4th_street
+0 pizza_chicago distance 5_miles
+0 pizza_chicago traffic_info heavy_traffic
+0 pizza_chicago poi_type pizza_restaurant
+0 pizza_chicago address 915_arbol_dr
+1 please give me the address and directions via the shortest distance to the nearest pizza place	the closest is pizza_chicago 5_miles away at 915_arbol_dr would you like directions there	['5_miles', 'pizza_chicago', '915_arbol_dr']
+2 yes please show me the route with the shortest distance thank you	here is the shortest route to pizza_chicago	['pizza_chicago']
+3 thank you car	you re welcome	[]
+
+#conv#
+0 webster_garage distance 3_miles
+0 webster_garage traffic_info heavy_traffic
+0 webster_garage poi_type parking_garage
+0 webster_garage address 880_ames_ct
+0 tai_pan distance 3_miles
+0 tai_pan traffic_info heavy_traffic
+0 tai_pan poi_type chinese_restaurant
+0 tai_pan address 830_almanor_ln
+0 chef_chu_s distance 5_miles
+0 chef_chu_s traffic_info heavy_traffic
+0 chef_chu_s poi_type chinese_restaurant
+0 chef_chu_s address 593_arrowhead_way
+0 jing_jing distance 5_miles
+0 jing_jing traffic_info heavy_traffic
+0 jing_jing poi_type chinese_restaurant
+0 jing_jing address 113_arbol_dr
+0 palo_alto_garage_r distance 2_miles
+0 palo_alto_garage_r traffic_info moderate_traffic
+0 palo_alto_garage_r poi_type parking_garage
+0 palo_alto_garage_r address 481_amaranta_ave
+0 mandarin_roots distance 4_miles
+0 mandarin_roots traffic_info moderate_traffic
+0 mandarin_roots poi_type chinese_restaurant
+0 mandarin_roots address 271_springer_street
+0 palo_alto_cafe distance 5_miles
+0 palo_alto_cafe traffic_info no_traffic
+0 palo_alto_cafe poi_type coffee_or_tea_place
+0 palo_alto_cafe address 436_alger_dr
+1 give me a location to a local parking lot	there s a parking_garage 2_miles away would you like the name and address of it	['parking_garage', '2_miles']
+2 yes and please provide a quick route to get there	navigating to palo_alto_garage_r	['palo_alto_garage_r']
+3 please pick the quickest route thank you	i did and i sent the info on your screen drive carefully	[]
+
+#conv#
+0 town_and_country distance 4_miles
+0 town_and_country traffic_info moderate_traffic
+0 town_and_country poi_type shopping_center
+0 town_and_country address 383_university_ave
+0 safeway distance 6_miles
+0 safeway traffic_info moderate_traffic
+0 safeway poi_type grocery_store
+0 safeway address 452_arcadia_pl
+0 stanford_childrens_health distance 3_miles
+0 stanford_childrens_health traffic_info no_traffic
+0 stanford_childrens_health poi_type hospital
+0 stanford_childrens_health address 899_ames_ct
+0 home distance 3_miles
+0 home traffic_info moderate_traffic
+0 home poi_type home
+0 home address 5671_barringer_street
+0 round_table distance 4_miles
+0 round_table traffic_info no_traffic
+0 round_table poi_type pizza_restaurant
+0 round_table address 113_anton_ct
+0 jills_house distance 5_miles
+0 jills_house traffic_info no_traffic
+0 jills_house poi_type friends_house
+0 jills_house address 347_alta_mesa_ave
+0 valero distance 1_miles
+0 valero traffic_info heavy_traffic
+0 valero poi_type gas_station
+0 valero address 200_alester_ave
+1 show me directions to the nearest grocery_store	the nearest grocery_store is located 6_miles away at 452_arcadia_pl	['6_miles', '452_arcadia_pl', 'grocery_store']
+2 pick the fastest route and with least traffic then send the address on my screen please	safeway is located at 452_arcadia_pl and navigation is set	['safeway', '452_arcadia_pl']
+3 hope you picked the fastest route or no more gasoline for you car just kidding thank you	i did i did you re welcome	[]
+

@@ -1,0 +1,10 @@
+{
+    "q1": "find me a gas_station that i can get to the quickest without any traffic",
+    "a1": "the nearest gas_station is located at 91_el_camino_real but there is a roadblock nearby",
+    "q2": "anything else around",
+    "a2": "i m sorry but this is the only option in a 6_miles range",
+    "q3": "ok please give me directions via the fastest route",
+    "a3": "there is a road_block_nearby i sent on your screen a slightly longer road that will allow you to reach faster",
+    "q4": "thank you",
+    "a4": "you re welcome"
+}

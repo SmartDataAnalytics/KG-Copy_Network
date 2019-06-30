@@ -1,0 +1,9 @@
+torch==0.4.1
+tqdm
+spacy
+unidecode
+numpy
+sklearn
+pandas
+fuzzywuzzy
+beautifulsoup4

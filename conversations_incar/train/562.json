@@ -1,0 +1,12 @@
+{
+    "q1": "how many hotels are around here",
+    "a1": "there are two hotels around here one is 2_miles away the other is 3_miles away neither route has any traffic",
+    "q2": "pick the one 2_miles away and let s go through the fastest route",
+    "a2": "here are directions to comfort_inn",
+    "q3": "what is the address to the comfort_inn",
+    "a3": "753_university_ave you can see it on your map now",
+    "q4": "set the gps and thank you for the information",
+    "a4": "setting gps to comfort_inn at 753_university_ave",
+    "q5": "thank you car",
+    "a5": "you re welcome enjoy your trip"
+}

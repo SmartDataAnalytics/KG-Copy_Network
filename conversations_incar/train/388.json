@@ -1,0 +1,12 @@
+{
+    "q1": "directions to coffee and tea house",
+    "a1": "here are directions to teavana",
+    "q2": "give me the address",
+    "a2": "the address to teavana is 145_amherst_st",
+    "q3": "is teavana the closest coffee place to my current location",
+    "a3": "yes teavana is only 1_miles away",
+    "q4": "is there any traffic",
+    "a4": "there is no_traffic on the route to teavana",
+    "q5": "sounds great set the gps please and thank you",
+    "a5": "gps set you re welcome"
+}

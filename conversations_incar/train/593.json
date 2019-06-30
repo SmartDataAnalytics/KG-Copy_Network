@@ -1,0 +1,8 @@
+{
+    "q1": "can you give me directions to the grocery_store",
+    "a1": "would you like to go at whole_foods or at sigona_farmers_market",
+    "q2": "the place with the least traffic please",
+    "a2": "there is no_traffic to sigona_farmers_market i will give you the directions",
+    "q3": "thank you",
+    "a3": "you are welcome"
+}

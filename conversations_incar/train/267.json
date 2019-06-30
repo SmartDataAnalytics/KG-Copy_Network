@@ -1,0 +1,12 @@
+{
+    "q1": "where is the closest hospital",
+    "a1": "stanford_childrens_health is 5_miles away",
+    "q2": "what is the address",
+    "a2": "899_ames_ct we re 5_miles away i sent the info on your screen anything else ?!",
+    "q3": "let s go there through the fastest way and with least traffic too please",
+    "a3": "displaying the route now there is moderate_traffic on the way there",
+    "q4": "thank you",
+    "a4": "you are welcome",
+    "q5": "thanks once again",
+    "a5": "have a great day"
+}

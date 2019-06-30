@@ -1,0 +1,130 @@
+Atletico Madrid	ground	Wanda Metropolitano
+Wanda Metropolitano	capacity	67,703
+Atletico Madrid	chairman	Enrique Cerezo
+Atletico Madrid	coach	Diego Simeone
+Atletico Madrid	has player	Diego Godin
+Diego Godin	position	defender
+Diego Godin	goals	17
+Diego Godin	caps	277
+Diego Godin	date of birth	1986-02-16
+Diego Godin	jersey	2
+Diego Godin	height	1.87 m
+Atletico Madrid	has player	Filipe Luis
+Filipe Luis	position	defender
+Filipe Luis	goals	7
+Filipe Luis	caps	113
+Filipe Luis	date of birth	1985-08-09
+Filipe Luis	jersey	3
+Filipe Luis	height	1.82 m
+Atletico Madrid	has player	Santiago Arias
+Santiago Arias	position	defender
+Santiago Arias	goals	1
+Santiago Arias	caps	25
+Santiago Arias	date of birth	1992-01-13
+Santiago Arias	jersey	4
+Santiago Arias	height	1.78 m
+Atletico Madrid	has player	Thomas Partey
+Thomas Partey	position	midfielder
+Thomas Partey	goals	9
+Thomas Partey	caps	94
+Thomas Partey	date of birth	1993-06-13
+Thomas Partey	jersey	5
+Thomas Partey	height	1.85 m
+Atletico Madrid	has player	Koke
+Koke	position	midfielder
+Koke	goals	31
+Koke	caps	285
+Koke	date of birth	1992-01-08
+Koke	jersey	6
+Koke	height	1.76 m
+Atletico Madrid	has player	Antoine Griezmann
+Antoine Griezmann	position	forward
+Antoine Griezmann	goals	94
+Antoine Griezmann	caps	180
+Antoine Griezmann	date of birth	1991-03-21
+Antoine Griezmann	jersey	7
+Antoine Griezmann	height	1.74 m
+Atletico Madrid	has player	Saul
+Saul	position	midfielder
+Saul	goals	18
+Saul	caps	159
+Saul	date of birth	1994-11-21
+Saul	jersey	8
+Saul	height	1.84 m
+Atletico Madrid	has player	Nikola Kalinic
+Nikola Kalinic	position	forward
+Nikola Kalinic	goals	2
+Nikola Kalinic	caps	17
+Nikola Kalinic	date of birth	1988-01-05
+Nikola Kalinic	jersey	9
+Nikola Kalinic	height	1.87 m
+Atletico Madrid	has player	Angel Correa
+Angel Correa	position	forward
+Angel Correa	goals	20
+Angel Correa	caps	130
+Angel Correa	date of birth	1995-03-09
+Angel Correa	jersey	10
+Angel Correa	height	1.71 m
+Atletico Madrid	has player	Thomas Lemar
+Thomas Lemar	position	midfielder
+Thomas Lemar	goals	3
+Thomas Lemar	caps	31
+Thomas Lemar	date of birth	1995-11-12
+Thomas Lemar	jersey	11
+Thomas Lemar	height	1.72 m
+Atletico Madrid	has player	Jan Oblak
+Jan Oblak	position	goalkeeper
+Jan Oblak	goals	0
+Jan Oblak	caps	153
+Jan Oblak	date of birth	1993-01-07
+Jan Oblak	jersey	13
+Jan Oblak	height	1.88 m
+Atletico Madrid	has player	Stefan Savic
+Stefan Savic	position	defender
+Stefan Savic	goals	1
+Stefan Savic	caps	89
+Stefan Savic	date of birth	1991-01-08
+Stefan Savic	jersey	15
+Stefan Savic	height	1.87 m
+Atletico Madrid	has player	Diego Costa
+Diego Costa	position	forward
+Diego Costa	goals	5
+Diego Costa	caps	31
+Diego Costa	date of birth	1988-10-07
+Diego Costa	jersey	19
+Diego Costa	height	1.85 m
+Atletico Madrid	has player	Juanfran
+Juanfran	position	defender
+Juanfran	goals	3
+Juanfran	caps	243
+Juanfran	date of birth	1985-01-09
+Juanfran	jersey	20
+Juanfran	height	1.81 m
+Atletico Madrid	has player	Lucas Hernandez
+Lucas Hernandez	position	defender
+Lucas Hernandez	goals	1
+Lucas Hernandez	caps	67
+Lucas Hernandez	date of birth	1996-02-14
+Lucas Hernandez	jersey	21
+Lucas Hernandez	height	1.82 m
+Atletico Madrid	has player	Alvaro Morata
+Alvaro Morata	position	forward
+Alvaro Morata	goals	6
+Alvaro Morata	caps	15
+Alvaro Morata	date of birth	1992-10-23
+Alvaro Morata	jersey	22
+Alvaro Morata	height	1.89 m
+Atletico Madrid	has player	Vitolo
+Vitolo	position	midfielder
+Vitolo	goals	1
+Vitolo	caps	34
+Vitolo	date of birth	1989-11-02
+Vitolo	jersey	23
+Vitolo	height	1.85 m
+Atletico Madrid	has player	Jose Gimenez
+Jose Gimenez	position	defender
+Jose Gimenez	goals	3
+Jose Gimenez	caps	109
+Jose Gimenez	date of birth	1995-01-20
+Jose Gimenez	jersey	24
+Jose Gimenez	height	1.85 m

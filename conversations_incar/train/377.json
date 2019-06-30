@@ -1,0 +1,14 @@
+{
+    "q1": "quickest route home",
+    "a1": "there is moderate_traffic on the route",
+    "q2": "please pick the quickest route for me and let s go there thanks",
+    "a2": "setting navigation to quickest route home",
+    "q3": "how far away am i right now and what is the address",
+    "a3": "there is moderate_traffic on the 4_miles route home",
+    "q4": "and what is the address",
+    "a4": "home is located at 10_ames_street setting navigation now",
+    "q5": "thank you car",
+    "a5": "you are welcome driver",
+    "q6": "great",
+    "a6": "you are welcome"
+}

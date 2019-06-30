@@ -1,0 +1,10 @@
+{
+    "q1": "car i need to fill your gas please show me a gas_station near me in the direction we re actually driving",
+    "a1": "there is a valero 6_miles away",
+    "q2": "what is the address",
+    "a2": "valero is at 200_alester_ave",
+    "q3": "how is the traffic there i need to have no_traffic",
+    "a3": "there is no_traffic on the route to valero",
+    "q4": "great thanks",
+    "a4": "you re welcome always happy to help"
+}

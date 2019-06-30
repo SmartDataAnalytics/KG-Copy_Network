@@ -1,0 +1,10 @@
+{
+    "q1": "what are the directions to the nearest hospital",
+    "a1": "the nearest hospital is stanford_childrens_health which is 5_miles away and it has heavy_traffic",
+    "q2": "is there another option with less traffic",
+    "a2": "i m sorry stanford childrens hospital is the best choice at the moment",
+    "q3": "okay thank you",
+    "a3": "would you like to go there",
+    "q4": "yes please thanks",
+    "a4": "you re welcome we should get there shortly"
+}

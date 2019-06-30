@@ -1,0 +1,12 @@
+{
+    "q1": "directions to the grocery_store",
+    "a1": "there is one nearby grocery_store which is whole_foods on 819_alma_st is that acceptable",
+    "q2": "is it within 3_miles from my current location",
+    "a2": "yes it is only 2_miles away",
+    "q3": "and is there any traffic",
+    "a3": "there is currently heavy_traffic to 819_alma_st",
+    "q4": "i guess i will have to deal with it set the gps to there",
+    "a4": "navigating to whole_foods",
+    "q5": "thank you",
+    "a5": "you re welcome"
+}

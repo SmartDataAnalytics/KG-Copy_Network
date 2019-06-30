@@ -1,0 +1,8 @@
+{
+    "q1": "find the nearest shopping mall on the map",
+    "a1": "the nearest one is midtown_shopping_center but there is a road_block_nearby there is also ravenswood_shopping_center 2_miles farther but with no_traffic on its direction",
+    "q2": "let s go to ravenswood then",
+    "a2": "setting directions to 434_arastradero_rd",
+    "q3": "okay thanks",
+    "a3": "you re welcome always happy to help"
+}

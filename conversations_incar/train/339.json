@@ -1,0 +1,12 @@
+{
+    "q1": "i m not feeling well show me the fastest route to the nearest hospital",
+    "a1": "we are 3_miles away from stanford_childrens_health set the gps to go there",
+    "q2": "yes and pick the fastes route please",
+    "a2": "yes and pick the fastes route please",
+    "q3": "navigating to stanford_childrens_health",
+    "a3": "this route to stanford_childrens_health has no_traffic and is the quickest route do you care for the address",
+    "q4": "i m not feeling well just show me the fastest route please",
+    "a4": "stanford_childrens_health is located at 899_ames_ct and i set the gps",
+    "q5": "thank you car let s go there",
+    "a5": "you re welcome"
+}

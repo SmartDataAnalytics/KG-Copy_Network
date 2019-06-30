@@ -1,0 +1,10 @@
+{
+    "q1": "navigate me to the nearest hotel",
+    "a1": "we re 8_miles away from the_westin and there is also a car_collision_nearby it s not going to be fast",
+    "q2": "any other options",
+    "a2": "the_westin at 329_el_camino_real is the only option i have available",
+    "q3": "ok please give me directions via the shortest distance",
+    "a3": "setting navigation to the_westin now",
+    "q4": "thank you car assistant",
+    "a4": "you re welcome"
+}

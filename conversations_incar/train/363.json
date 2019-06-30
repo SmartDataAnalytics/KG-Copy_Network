@@ -1,0 +1,8 @@
+{
+    "q1": "give me a quick route to a grocery_store",
+    "a1": "willows_market is 5_miles away at 409_bollard_st but a road block is nearby",
+    "q2": "is there another grocery_store nearby on a quick route if not please give me directions to willow market",
+    "a2": "i m afraid that s the only grocery_store in the area setting navigation now",
+    "q3": "thank you",
+    "a3": "you re welcome"
+}

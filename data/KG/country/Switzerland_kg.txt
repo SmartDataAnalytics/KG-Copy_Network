@@ -1,0 +1,150 @@
+Switzerland	coach	Vladimir Petković
+Switzerland	captain	Stephan Lichtsteiner
+Switzerland	world cup appearance	11 (first in 1934)
+Switzerland	world cup Quarter-finals	1934
+Switzerland	world cup Quarter-finals	 1938
+Switzerland	world cup Quarter-finals	 1954
+Switzerland	goalkeeper	Yann Sommer
+Switzerland	has player	Yann Sommer
+Yann Sommer	position	goalkeeper
+Yann Sommer	goals	0
+Yann Sommer	caps	47
+Yann Sommer	age	30
+Yann Sommer	jersey	1
+Switzerland	defender	Ricardo Rodriguez
+Switzerland	has player	Ricardo Rodriguez
+Ricardo Rodriguez	position	defender
+Ricardo Rodriguez	goals	7
+Ricardo Rodriguez	caps	65
+Ricardo Rodriguez	age	26
+Ricardo Rodriguez	jersey	13
+Switzerland	defender	Fabian Schar
+Switzerland	has player	Fabian Schar
+Fabian Schar	position	defender
+Fabian Schar	goals	7
+Fabian Schar	caps	50
+Fabian Schar	age	27
+Fabian Schar	jersey	22
+Switzerland	defender	Michael Lang
+Switzerland	has player	Michael Lang
+Michael Lang	position	defender
+Michael Lang	goals	3
+Michael Lang	caps	30
+Michael Lang	age	28
+Michael Lang	jersey	6
+Switzerland	defender	Francois Moubandje
+Switzerland	has player	Francois Moubandje
+Francois Moubandje	position	defender
+Francois Moubandje	goals	0
+Francois Moubandje	caps	21
+Francois Moubandje	age	29
+Francois Moubandje	jersey	3
+Switzerland	defender	Manuel Akanji
+Switzerland	has player	Manuel Akanji
+Manuel Akanji	position	defender
+Manuel Akanji	goals	0
+Manuel Akanji	caps	17
+Manuel Akanji	age	23
+Manuel Akanji	jersey	5
+Switzerland	defender	Nico Elvedi
+Switzerland	has player	Nico Elvedi
+Nico Elvedi	position	defender
+Nico Elvedi	goals	1
+Nico Elvedi	caps	11
+Nico Elvedi	age	22
+Nico Elvedi	jersey	4
+Switzerland	defender	Kevin Mbabu
+Switzerland	has player	Kevin Mbabu
+Kevin Mbabu	position	defender
+Kevin Mbabu	goals	0
+Kevin Mbabu	caps	6
+Kevin Mbabu	age	24
+Kevin Mbabu	jersey	2
+Switzerland	midfielder	Xherdan Shaqiri
+Switzerland	has player	Xherdan Shaqiri
+Xherdan Shaqiri	position	midfielder
+Xherdan Shaqiri	goals	22
+Xherdan Shaqiri	caps	82
+Xherdan Shaqiri	age	27
+Xherdan Shaqiri	jersey	23
+Switzerland	midfielder	Granit Xhaka 
+Switzerland	has player	Granit Xhaka 
+Granit Xhaka 	position	midfielder
+Granit Xhaka 	goals	11
+Granit Xhaka 	caps	76
+Granit Xhaka 	age	26
+Granit Xhaka 	jersey	10
+Switzerland	midfielder	Steven Zuber
+Switzerland	has player	Steven Zuber
+Steven Zuber	position	midfielder
+Steven Zuber	goals	6
+Steven Zuber	caps	25
+Steven Zuber	age	27
+Steven Zuber	jersey	14
+Switzerland	midfielder	Denis Zakaria
+Switzerland	has player	Denis Zakaria
+Denis Zakaria	position	midfielder
+Denis Zakaria	goals	2
+Denis Zakaria	caps	22
+Denis Zakaria	age	22
+Denis Zakaria	jersey	17
+Switzerland	midfielder	Remo Freuler
+Switzerland	has player	Remo Freuler
+Remo Freuler	position	midfielder
+Remo Freuler	goals	1
+Remo Freuler	caps	18
+Remo Freuler	age	27
+Remo Freuler	jersey	8
+Switzerland	midfielder	Edimilson Fernandes
+Switzerland	has player	Edimilson Fernandes
+Edimilson Fernandes	position	midfielder
+Edimilson Fernandes	goals	0
+Edimilson Fernandes	caps	10
+Edimilson Fernandes	age	23
+Edimilson Fernandes	jersey	20
+Switzerland	midfielder	Renato Steffen
+Switzerland	has player	Renato Steffen
+Renato Steffen	position	midfielder
+Renato Steffen	goals	0
+Renato Steffen	caps	7
+Renato Steffen	age	27
+Renato Steffen	jersey	11
+Switzerland	forward	Haris Seferovic
+Switzerland	has player	Haris Seferovic
+Haris Seferovic	position	forward
+Haris Seferovic	goals	17
+Haris Seferovic	caps	61
+Haris Seferovic	age	27
+Haris Seferovic	jersey	9
+Switzerland	forward	Josip Drmic
+Switzerland	has player	Josip Drmic
+Josip Drmic	position	forward
+Josip Drmic	goals	10
+Josip Drmic	caps	34
+Josip Drmic	age	26
+Josip Drmic	jersey	19
+Switzerland	forward	Albian Ajeti
+Switzerland	has player	Albian Ajeti
+Albian Ajeti	position	forward
+Albian Ajeti	goals	1
+Albian Ajeti	caps	7
+Albian Ajeti	age	22
+Albian Ajeti	jersey	16
+Switzerland	defender	Stephan Lichtsteiner
+Switzerland	has player	Stephan Lichtsteiner
+Stephan Lichtsteiner	position	defender
+Stephan Lichtsteiner	goals	8
+Stephan Lichtsteiner	caps	105
+Stephan Lichtsteiner	age	35
+Switzerland	defender	Johan Djourou
+Switzerland	has player	Johan Djourou
+Johan Djourou	position	defender
+Johan Djourou	goals	2
+Johan Djourou	caps	76
+Johan Djourou	age	32
+Switzerland	forward	Admir Mehmedi
+Switzerland	has player	Admir Mehmedi
+Admir Mehmedi	position	forward
+Admir Mehmedi	goals	8
+Admir Mehmedi	caps	61
+Admir Mehmedi	age	28

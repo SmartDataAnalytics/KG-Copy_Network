@@ -1,0 +1,10 @@
+{
+    "q1": "fastest route to the grocery_store",
+    "a1": "we re 4_miles away from hacienda_market and there is moderate_traffic on our way",
+    "q2": "alright where is hacienda located",
+    "a2": "its address is 1313_chester_ave do you want me to set the gps on this destination",
+    "q3": "yes please pick the fastest route and send it on my map",
+    "a3": "hacienda_market is at 1313_chester_ave and the gps is set",
+    "q4": "thanks for the help",
+    "a4": "you re welcome"
+}

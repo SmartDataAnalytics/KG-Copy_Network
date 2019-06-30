@@ -1,0 +1,165 @@
+Manchester United	ground	Old Trafford
+Old Trafford	capacity	74,879
+Manchester United	chairman	
+Manchester United	coach	Ole Gunnar Solskjær
+Manchester United	has player	David de Gea
+David de Gea	position	goalkeeper
+David de Gea	goals	0
+David de Gea	caps	275
+David de Gea	date of birth	1990-11-07
+David de Gea	jersey	1
+David de Gea	height	1.92 m
+Manchester United	has player	Victor Lindelof
+Victor Lindelof	position	defender
+Victor Lindelof	goals	1
+Victor Lindelof	caps	47
+Victor Lindelof	date of birth	1994-07-17
+Victor Lindelof	jersey	2
+Victor Lindelof	height	1.87 m
+Manchester United	has player	Eric Bailly
+Eric Bailly	position	defender
+Eric Bailly	goals	1
+Eric Bailly	caps	50
+Eric Bailly	date of birth	1994-04-12
+Eric Bailly	jersey	3
+Eric Bailly	height	1.87 m
+Manchester United	has player	Phil Jones
+Phil Jones	position	defender
+Phil Jones	goals	2
+Phil Jones	caps	163
+Phil Jones	date of birth	1992-02-21
+Phil Jones	jersey	4
+Phil Jones	height	1.80 m
+Manchester United	has player	Paul Pogba
+Paul Pogba	position	midfielder
+Paul Pogba	goals	24
+Paul Pogba	caps	92
+Paul Pogba	date of birth	1993-03-15
+Paul Pogba	jersey	6
+Paul Pogba	height	1.91 m
+Manchester United	has player	Alexis Sanchez
+Alexis Sanchez	position	forward
+Alexis Sanchez	goals	3
+Alexis Sanchez	caps	32
+Alexis Sanchez	date of birth	1988-12-19
+Alexis Sanchez	jersey	7
+Alexis Sanchez	height	1.69 m
+Manchester United	has player	Juan Mata
+Juan Mata	position	midfielder
+Juan Mata	goals	33
+Juan Mata	caps	161
+Juan Mata	date of birth	1988-04-28
+Juan Mata	jersey	8
+Juan Mata	height	1.70 m
+Manchester United	has player	Romelu Lukaku
+Romelu Lukaku	position	forward
+Romelu Lukaku	goals	28
+Romelu Lukaku	caps	66
+Romelu Lukaku	date of birth	1993-05-13
+Romelu Lukaku	jersey	9
+Romelu Lukaku	height	1.90 m
+Manchester United	has player	Marcus Rashford
+Marcus Rashford	position	forward
+Marcus Rashford	goals	27
+Marcus Rashford	caps	111
+Marcus Rashford	date of birth	1997-10-31
+Marcus Rashford	jersey	10
+Marcus Rashford	height	1.80 m
+Manchester United	has player	Anthony Martial
+Anthony Martial	position	forward
+Anthony Martial	goals	34
+Anthony Martial	caps	113
+Anthony Martial	date of birth	1995-12-05
+Anthony Martial	jersey	11
+Anthony Martial	height	1.81 m
+Manchester United	has player	Chris Smalling
+Chris Smalling	position	defender
+Chris Smalling	goals	12
+Chris Smalling	caps	206
+Chris Smalling	date of birth	1989-11-22
+Chris Smalling	jersey	12
+Chris Smalling	height	1.94 m
+Manchester United	has player	Jesse Lingard
+Jesse Lingard	position	midfielder
+Jesse Lingard	goals	17
+Jesse Lingard	caps	111
+Jesse Lingard	date of birth	1992-12-15
+Jesse Lingard	jersey	14
+Jesse Lingard	height	1.75 m
+Manchester United	has player	Andreas Pereira
+Andreas Pereira	position	midfielder
+Andreas Pereira	goals	1
+Andreas Pereira	caps	20
+Andreas Pereira	date of birth	1996-01-01
+Andreas Pereira	jersey	15
+Andreas Pereira	height	1.77 m
+Manchester United	has player	Marcos Rojo
+Marcos Rojo	position	defender
+Marcos Rojo	goals	1
+Marcos Rojo	caps	73
+Marcos Rojo	date of birth	1990-03-20
+Marcos Rojo	jersey	16
+Marcos Rojo	height	1.89 m
+Manchester United	has player	Fred
+Fred	position	midfielder
+Fred	goals	1
+Fred	caps	17
+Fred	date of birth	1993-03-05
+Fred	jersey	17
+Fred	height	1.69 m
+Manchester United	has player	Ashley Young
+Ashley Young	position	defender
+Ashley Young	goals	15
+Ashley Young	caps	180
+Ashley Young	date of birth	1985-07-09
+Ashley Young	jersey	18
+Ashley Young	height	1.75 m
+Manchester United	has player	Diogo Dalot
+Diogo Dalot	position	defender
+Diogo Dalot	goals	0
+Diogo Dalot	caps	16
+Diogo Dalot	date of birth	1999-03-18
+Diogo Dalot	jersey	20
+Diogo Dalot	height	1.84 m
+Manchester United	has player	Sergio Romero
+Sergio Romero	position	goalkeeper
+Sergio Romero	goals	0
+Sergio Romero	caps	7
+Sergio Romero	date of birth	1987-02-22
+Sergio Romero	jersey	22
+Sergio Romero	height	1.92 m
+Manchester United	has player	Luke Shaw
+Luke Shaw	position	defender
+Luke Shaw	goals	1
+Luke Shaw	caps	72
+Luke Shaw	date of birth	1995-07-12
+Luke Shaw	jersey	23
+Luke Shaw	height	1.85 m
+Manchester United	has player	Timothy Fosu-Mensah
+Timothy Fosu-Mensah	position	defender
+Timothy Fosu-Mensah	goals	0
+Timothy Fosu-Mensah	caps	12
+Timothy Fosu-Mensah	date of birth	1998-01-02
+Timothy Fosu-Mensah	jersey	24
+Timothy Fosu-Mensah	height	1.90 m
+Manchester United	has player	Nemanja Matic
+Nemanja Matic	position	midfielder
+Nemanja Matic	goals	2
+Nemanja Matic	caps	64
+Nemanja Matic	date of birth	1988-08-01
+Nemanja Matic	jersey	31
+Nemanja Matic	height	1.94 m
+Manchester United	has player	Matteo Darmian
+Matteo Darmian	position	defender
+Matteo Darmian	goals	1
+Matteo Darmian	caps	60
+Matteo Darmian	date of birth	1989-12-02
+Matteo Darmian	jersey	36
+Matteo Darmian	height	1.82 m
+Manchester United	has player	Scott McTominay
+Scott McTominay	position	midfielder
+Scott McTominay	goals	2
+Scott McTominay	caps	31
+Scott McTominay	date of birth	1996-12-08
+Scott McTominay	jersey	39
+Scott McTominay	height	1.93 m

@@ -1,0 +1,10 @@
+{
+    "q1": "what grocery_stores are near",
+    "a1": "we re 1_miles away from safeway and there is no_traffic on our way set the gps to go there",
+    "q2": "what is the address",
+    "a2": "safeway is at 452_arcadia_pl",
+    "q3": "let s go there through the route with the shortest distance please",
+    "a3": "taking you there on the shortest distance",
+    "q4": "thanks",
+    "a4": "you re welcome glad i could help"
+}

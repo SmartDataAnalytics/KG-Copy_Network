@@ -1,0 +1,12 @@
+{
+    "q1": "locate a place that serves pizza",
+    "a1": "there is a pizza_chicago and round_table",
+    "q2": "which is closer",
+    "a2": "pizza_chicago is just 2_miles away but there is heavy_traffic on our way",
+    "q3": "how s the traffic for round_table",
+    "a3": "round_table has moderate_traffic noted",
+    "q4": "ok let s go to pizza_chicago then since it s closest",
+    "a4": "i sent the info on your gps please drive carefully",
+    "q5": "thanks for the help",
+    "a5": "you re welcome"
+}

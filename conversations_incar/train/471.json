@@ -1,0 +1,10 @@
+{
+    "q1": "find the nearest parking_garage",
+    "a1": "the nearest parking_garage is stanford_oval_parking",
+    "q2": "please send me its address on screen and pick a route with no_traffic thank you",
+    "a2": "stanford_oval_parking is at 610_amarillo_ave",
+    "q3": "please set gps for route with no_traffic",
+    "a3": "stanford_oval_parking has moderate_traffic can you still go there",
+    "q4": "yes it will work fine anyway thank you",
+    "a4": "you re very welcome"
+}

@@ -1,0 +1,129 @@
+Spain	coach	Robert Moreno
+Spain	captain	Sergio Ramos
+Spain	world cup appearance	15 (first in 1934)
+Spain	world cup Champions	2010
+Spain	goalkeeper	David de Gea
+Spain	has player	David de Gea
+David de Gea	position	goalkeeper
+David de Gea	goals	0
+David de Gea	caps	39
+David de Gea	age	28
+David de Gea	jersey	1
+Spain	goalkeeper	Kepa Arrizabalaga
+Spain	has player	Kepa Arrizabalaga
+Kepa Arrizabalaga	position	goalkeeper
+Kepa Arrizabalaga	goals	0
+Kepa Arrizabalaga	caps	6
+Kepa Arrizabalaga	age	24
+Kepa Arrizabalaga	jersey	13
+Spain	defender	Dani Carvajal
+Spain	has player	Dani Carvajal
+Dani Carvajal	position	defender
+Dani Carvajal	goals	0
+Dani Carvajal	caps	21
+Dani Carvajal	age	27
+Dani Carvajal	jersey	2
+Spain	defender	Inigo Martinez
+Spain	has player	Inigo Martinez
+Inigo Martinez	position	defender
+Inigo Martinez	goals	0
+Inigo Martinez	caps	8
+Inigo Martinez	age	28
+Inigo Martinez	jersey	4
+Spain	defender	Jose Luis Gaya
+Spain	has player	Jose Luis Gaya
+Jose Luis Gaya	position	defender
+Jose Luis Gaya	goals	1
+Jose Luis Gaya	caps	5
+Jose Luis Gaya	age	24
+Jose Luis Gaya	jersey	14
+Spain	defender	Sergio Ramos 
+Spain	has player	Sergio Ramos 
+Sergio Ramos 	position	defender
+Sergio Ramos 	goals	20
+Sergio Ramos 	caps	165
+Sergio Ramos 	age	33
+Sergio Ramos 	jersey	15
+Spain	defender	Jordi Alba
+Spain	has player	Jordi Alba
+Jordi Alba	position	defender
+Jordi Alba	goals	8
+Jordi Alba	caps	69
+Jordi Alba	age	30
+Jordi Alba	jersey	18
+Spain	defender	Jesus Navas
+Spain	has player	Jesus Navas
+Jesus Navas	position	defender
+Jesus Navas	goals	4
+Jesus Navas	caps	38
+Jesus Navas	age	33
+Jesus Navas	jersey	22
+Spain	midfielder	Sergio Busquets
+Spain	has player	Sergio Busquets
+Sergio Busquets	position	midfielder
+Sergio Busquets	goals	2
+Sergio Busquets	caps	113
+Sergio Busquets	age	30
+Sergio Busquets	jersey	5
+Spain	midfielder	Sergi Roberto
+Spain	has player	Sergi Roberto
+Sergi Roberto	position	midfielder
+Sergi Roberto	goals	1
+Sergi Roberto	caps	7
+Sergi Roberto	age	27
+Sergi Roberto	jersey	8
+Spain	midfielder	Isco
+Spain	has player	Isco
+Isco	position	midfielder
+Isco	goals	12
+Isco	caps	38
+Isco	age	27
+Isco	jersey	10
+Spain	midfielder	Rodri
+Spain	has player	Rodri
+Rodri	position	midfielder
+Rodri	goals	0
+Rodri	caps	7
+Rodri	age	23
+Rodri	jersey	16
+Spain	midfielder	Santi Cazorla
+Spain	has player	Santi Cazorla
+Santi Cazorla	position	midfielder
+Santi Cazorla	goals	14
+Santi Cazorla	caps	78
+Santi Cazorla	age	34
+Santi Cazorla	jersey	20
+Spain	forward	Alvaro Morata
+Spain	has player	Alvaro Morata
+Alvaro Morata	position	forward
+Alvaro Morata	goals	16
+Alvaro Morata	caps	31
+Alvaro Morata	age	26
+Alvaro Morata	jersey	7
+Spain	forward	Rodrigo
+Spain	has player	Rodrigo
+Rodrigo	position	forward
+Rodrigo	goals	5
+Rodrigo	caps	18
+Rodrigo	age	28
+Rodrigo	jersey	9
+Spain	forward	Marco Asensio
+Spain	has player	Marco Asensio
+Marco Asensio	position	forward
+Marco Asensio	goals	1
+Marco Asensio	caps	24
+Marco Asensio	age	23
+Marco Asensio	jersey	11
+Spain	forward	Iago Aspas
+Spain	has player	Iago Aspas
+Iago Aspas	position	forward
+Iago Aspas	goals	6
+Iago Aspas	caps	18
+Iago Aspas	age	31
+Iago Aspas	jersey	17
+Spain	defender	Raul Albiol
+Spain	has player	Raul Albiol
+Raul Albiol	position	defender
+Raul Albiol	goals	0
+Raul Albiol	caps	52
+Raul Albiol	age	33

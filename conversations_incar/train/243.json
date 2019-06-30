@@ -1,0 +1,10 @@
+{
+    "q1": "please give me the address and directions via the quickest route to the nearest gas_station",
+    "a1": "the valero and shell are both 3_miles away but there is a road_block_nearby do you prefer one one",
+    "q2": "let s try to go to shell",
+    "a2": "okay there is moderate_traffic on the route to shell you will find it at 53_university_av",
+    "q3": "ok car assitant plot the quickest route to shell",
+    "a3": "setting navigation to shell now",
+    "q4": "thank you car assistant",
+    "a4": "you are welcome driver"
+}

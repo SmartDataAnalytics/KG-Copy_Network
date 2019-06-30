@@ -1,0 +1,10 @@
+{
+    "q1": "where is a rest_stop within 5_miles",
+    "a1": "four_seasons is 2_miles away want the address",
+    "q2": "yes",
+    "a2": "the four_seasons is 2_miles away at 465_arcadia_pl",
+    "q3": "set gps for a route with no_traffic if possible",
+    "a3": "there is no_traffic on our way and you should arrive in few minutes",
+    "q4": "perfect thanks",
+    "a4": "anytime"
+}

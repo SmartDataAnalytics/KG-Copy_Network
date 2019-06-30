@@ -1,0 +1,10 @@
+{
+    "q1": "find me a hotel room for tonight",
+    "a1": "you have three possible rest_stops one 3_miles away one 4_miles away and one 5_miles away",
+    "q2": "which is the quickest",
+    "a2": "the_westin appears to be the fastest at 4_miles away and no_traffic do you need the address",
+    "q3": "yes please and set the navigation there too",
+    "a3": "the_westin is located at 329_el_camino_real setting navigation now",
+    "q4": "thank you",
+    "a4": "you are very welcome"
+}

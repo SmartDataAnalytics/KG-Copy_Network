@@ -1,0 +1,162 @@
+Belgium	coach	Roberto Martínez
+Belgium	captain	Eden Hazard
+Belgium	world cup appearance	13 (first in 1930)
+Belgium	world cup Third place	2018
+Belgium	goalkeeper	Thibaut Courtois
+Belgium	has player	Thibaut Courtois
+Thibaut Courtois	position	goalkeeper
+Thibaut Courtois	goals	0
+Thibaut Courtois	caps	74
+Thibaut Courtois	age	27
+Thibaut Courtois	jersey	1
+Belgium	goalkeeper	Simon Mignolet
+Belgium	has player	Simon Mignolet
+Simon Mignolet	position	goalkeeper
+Simon Mignolet	goals	0
+Simon Mignolet	caps	22
+Simon Mignolet	age	31
+Simon Mignolet	jersey	12
+Belgium	defender	Toby Alderweireld
+Belgium	has player	Toby Alderweireld
+Toby Alderweireld	position	defender
+Toby Alderweireld	goals	3
+Toby Alderweireld	caps	92
+Toby Alderweireld	age	30
+Toby Alderweireld	jersey	2
+Belgium	defender	Thomas Vermaelen
+Belgium	has player	Thomas Vermaelen
+Thomas Vermaelen	position	defender
+Thomas Vermaelen	goals	1
+Thomas Vermaelen	caps	74
+Thomas Vermaelen	age	33
+Thomas Vermaelen	jersey	3
+Belgium	defender	Vincent Kompany
+Belgium	has player	Vincent Kompany
+Vincent Kompany	position	defender
+Vincent Kompany	goals	4
+Vincent Kompany	caps	89
+Vincent Kompany	age	33
+Vincent Kompany	jersey	4
+Belgium	defender	Jan Vertonghen
+Belgium	has player	Jan Vertonghen
+Jan Vertonghen	position	defender
+Jan Vertonghen	goals	9
+Jan Vertonghen	caps	114
+Jan Vertonghen	age	32
+Jan Vertonghen	jersey	5
+Belgium	defender	Thomas Meunier
+Belgium	has player	Thomas Meunier
+Thomas Meunier	position	defender
+Thomas Meunier	goals	6
+Thomas Meunier	caps	37
+Thomas Meunier	age	27
+Thomas Meunier	jersey	15
+Belgium	defender	Timothy Castagne
+Belgium	has player	Timothy Castagne
+Timothy Castagne	position	defender
+Timothy Castagne	goals	1
+Timothy Castagne	caps	5
+Timothy Castagne	age	23
+Timothy Castagne	jersey	21
+Belgium	midfielder	Axel Witsel
+Belgium	has player	Axel Witsel
+Axel Witsel	position	midfielder
+Axel Witsel	goals	9
+Axel Witsel	caps	103
+Axel Witsel	age	30
+Axel Witsel	jersey	6
+Belgium	midfielder	Kevin De Bruyne
+Belgium	has player	Kevin De Bruyne
+Kevin De Bruyne	position	midfielder
+Kevin De Bruyne	goals	16
+Kevin De Bruyne	caps	70
+Kevin De Bruyne	age	28
+Kevin De Bruyne	jersey	7
+Belgium	midfielder	Youri Tielemans
+Belgium	has player	Youri Tielemans
+Youri Tielemans	position	midfielder
+Youri Tielemans	goals	1
+Youri Tielemans	caps	23
+Youri Tielemans	age	22
+Youri Tielemans	jersey	8
+Belgium	midfielder	Yannick Carrasco
+Belgium	has player	Yannick Carrasco
+Yannick Carrasco	position	midfielder
+Yannick Carrasco	goals	5
+Yannick Carrasco	caps	36
+Yannick Carrasco	age	25
+Yannick Carrasco	jersey	11
+Belgium	midfielder	Leander Dendoncker
+Belgium	has player	Leander Dendoncker
+Leander Dendoncker	position	midfielder
+Leander Dendoncker	goals	0
+Leander Dendoncker	caps	8
+Leander Dendoncker	age	24
+Leander Dendoncker	jersey	18
+Belgium	midfielder	Adnan Januzaj
+Belgium	has player	Adnan Januzaj
+Adnan Januzaj	position	midfielder
+Adnan Januzaj	goals	1
+Adnan Januzaj	caps	11
+Adnan Januzaj	age	24
+Belgium	midfielder	Nacer Chadli
+Belgium	has player	Nacer Chadli
+Nacer Chadli	position	midfielder
+Nacer Chadli	goals	6
+Nacer Chadli	caps	56
+Nacer Chadli	age	29
+Belgium	forward	Romelu Lukaku
+Belgium	has player	Romelu Lukaku
+Romelu Lukaku	position	forward
+Romelu Lukaku	goals	48
+Romelu Lukaku	caps	81
+Romelu Lukaku	age	26
+Romelu Lukaku	jersey	9
+Belgium	forward	Eden Hazard 
+Belgium	has player	Eden Hazard 
+Eden Hazard 	position	forward
+Eden Hazard 	goals	30
+Eden Hazard 	caps	102
+Eden Hazard 	age	28
+Eden Hazard 	jersey	10
+Belgium	forward	Dries Mertens
+Belgium	has player	Dries Mertens
+Dries Mertens	position	forward
+Dries Mertens	goals	17
+Dries Mertens	caps	85
+Dries Mertens	age	32
+Dries Mertens	jersey	14
+Belgium	forward	Thorgan Hazard
+Belgium	has player	Thorgan Hazard
+Thorgan Hazard	position	forward
+Thorgan Hazard	goals	3
+Thorgan Hazard	caps	23
+Thorgan Hazard	age	26
+Thorgan Hazard	jersey	16
+Belgium	forward	Divock Origi
+Belgium	has player	Divock Origi
+Divock Origi	position	forward
+Divock Origi	goals	3
+Divock Origi	caps	26
+Divock Origi	age	24
+Divock Origi	jersey	17
+Belgium	forward	Christian Benteke
+Belgium	has player	Christian Benteke
+Christian Benteke	position	forward
+Christian Benteke	goals	12
+Christian Benteke	caps	34
+Christian Benteke	age	28
+Christian Benteke	jersey	20
+Belgium	forward	Michy Batshuayi
+Belgium	has player	Michy Batshuayi
+Michy Batshuayi	position	forward
+Michy Batshuayi	goals	13
+Michy Batshuayi	caps	26
+Michy Batshuayi	age	25
+Michy Batshuayi	jersey	23
+Belgium	midfielder	Mousa Dembele
+Belgium	has player	Mousa Dembele
+Mousa Dembele	position	midfielder
+Mousa Dembele	goals	5
+Mousa Dembele	caps	82
+Mousa Dembele	age	31

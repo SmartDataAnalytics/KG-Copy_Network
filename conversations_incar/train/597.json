@@ -1,0 +1,8 @@
+{
+    "q1": "can you find me a nearby shopping_center",
+    "a1": "there is stanford_shopping_center 7_miles away with moderate_traffic on its way",
+    "q2": "set the address in the navigation",
+    "a2": "i sent its position and the route with moderate_traffic on your screen drive carefully",
+    "q3": "thanks can you tell me the address please",
+    "a3": "navigation is set to 773_alger_drive have a great day"
+}

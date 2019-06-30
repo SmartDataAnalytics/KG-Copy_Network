@@ -1,0 +1,8 @@
+{
+    "q1": "is there any traffic on the route home",
+    "a1": "there is currently no_traffic on the way to home 1_miles away",
+    "q2": "please confirm the address and give me directions via a quick route",
+    "a2": "the address is 10_ames_street and since there is no_traffic on our way you should be there in less than a couple minutes",
+    "q3": "alrigth thank you",
+    "a3": "you re welcome"
+}

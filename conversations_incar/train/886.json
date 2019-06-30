@@ -1,0 +1,8 @@
+{
+    "q1": "where is the closest rest_stop with no_traffic",
+    "a1": "only one hotel is nearby hotel_keen and a road block is being reported on the route do you want the address",
+    "q2": "yes please send me its position on the screen and pick the quickest route to reach there thank you",
+    "a2": "alright you can find hotel_keen at 578_arbol_dr which is 2_miles away",
+    "q3": "thanks for the help",
+    "a3": "you re welcome drive carefully and sleep well"
+}

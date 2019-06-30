@@ -1,0 +1,12 @@
+{
+    "q1": "can you find me the closest hospital to me",
+    "a1": "the closest hospital stanford_express_care is 8_miles from your location",
+    "q2": "how s the traffic",
+    "a2": "there is a car_collision_nearby",
+    "q3": "can we avoid the collision",
+    "a3": "yes i can help you avoid the collision",
+    "q4": "great please give me the address and details via the quickest route",
+    "a4": "the address is 214_el_camino_real i highlighted it on your map together with the quickest route",
+    "q5": "thank you car you rock",
+    "a5": "you re welcome have a great day"
+}

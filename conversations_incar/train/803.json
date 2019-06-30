@@ -1,0 +1,8 @@
+{
+    "q1": "how many hotels are around here",
+    "a1": "i see 2 nearby hotels including four_seasons and the_clement_hotel",
+    "q2": "give me the info for the one that has the quickest route",
+    "a2": "the quickest route is for the four_seasons hotel which is 3_miles away with heavy_traffic the address is 465_arcadia_pl",
+    "q3": "thank you",
+    "a3": "you re welcome"
+}

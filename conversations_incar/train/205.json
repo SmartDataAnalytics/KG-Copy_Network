@@ -1,0 +1,8 @@
+{
+    "q1": "i need to find the shortest route to the hospital",
+    "a1": "sorry it appears the nearest hospital is 8_miles away palo_alto_medical_foundation is located at 611_ames_ave with heavy_traffic noted",
+    "q2": "can you send me the directions",
+    "a2": "palo_alto_medical_foundation is located at 611_ames_ave",
+    "q3": "thank you car please pick the route with the shortest distance to reach there",
+    "a3": "i sent the route on your map you re welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "send me to the nearest gas_station",
+    "a1": "valero is the nearest gas_station at 200_alester_ave",
+    "q2": "does it have the least traffic of all choices",
+    "a2": "valero is the only choice and has moderate_traffic",
+    "q3": "pick a quick route to get there and send the address on my map please",
+    "a3": "sending the address and route to valero at 200_alester_ave to your map",
+    "q4": "thank you",
+    "a4": "you re welcome"
+}

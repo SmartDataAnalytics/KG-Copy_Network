@@ -1,0 +1,10 @@
+{
+    "q1": "find me somewhere to park",
+    "a1": "you can park at palo_alto_garage_r located at 481_amaranta_ave",
+    "q2": "is that the quickest route",
+    "a2": "there is a road_block_nearby on the 8_miles route to the garage but it s your closest option shall i set directions there",
+    "q3": "yes please set directions via a quick route",
+    "a3": "the route available is the quickest one",
+    "q4": "thank you",
+    "a4": "you re welcome drive carefully"
+}

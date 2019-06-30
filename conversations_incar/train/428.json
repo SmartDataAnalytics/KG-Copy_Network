@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to the nearest shopping mall",
+    "a1": "we are 5_miles away from town_and_country does it sound good to you",
+    "q2": "yes what is the address",
+    "a2": "383_university_ave it s 5_miles away but there is heavy_traffic on our way",
+    "q3": "is there another shopping mall with no heavy_traffic",
+    "a3": "currently town_and_country is the only one i have listed should i set gps anyway",
+    "q4": "i guess that will have to do go ahead and set gps",
+    "a4": "i sent the info on your screen drive carefully"
+}

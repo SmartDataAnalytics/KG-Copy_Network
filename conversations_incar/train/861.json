@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to the nearest grocery_store",
+    "a1": "the nearest grocery_store is trader_joes would you like directions",
+    "q2": "yes and i need the quickest route please",
+    "a2": "trader joe s is 5_miles away at 408_university_ave",
+    "q3": "thanks so much for your help",
+    "a3": "you re very welcome"
+}

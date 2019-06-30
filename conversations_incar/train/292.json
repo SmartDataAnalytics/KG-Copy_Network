@@ -1,0 +1,8 @@
+{
+    "q1": "locate my friends address for me",
+    "a1": "jill or tom",
+    "q2": "the closest one it should be jill if i m not wrong",
+    "a2": "both jill and tom s homes are 6_miles away but tom s home located at 580_van_ness_ave has a route with out any traffic while the route to jill s home has heavy_traffic",
+    "q3": "let s go to tom s please",
+    "a3": "setting navigation to tom s we should be there shortly"
+}

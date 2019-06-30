@@ -1,0 +1,10 @@
+{
+    "q1": "take me to the nearest shopping_center",
+    "a1": "there is a shopping_center 1_miles away it is called topanga_mall",
+    "q2": "give me the quickest route",
+    "a2": "unfortunately there is heavy_traffic for the 1_miles drive to topanga_mall at 171_oak_rd",
+    "q3": "find me a different route please",
+    "a3": "i m sorry this is the only route i am showing to the shopping_center",
+    "q4": "ok thank you then",
+    "a4": "you re welcome"
+}

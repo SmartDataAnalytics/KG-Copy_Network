@@ -1,0 +1,12 @@
+{
+    "q1": "find me a gas_station",
+    "a1": "chevron is 6_miles away",
+    "q2": "are there any other locations that will take less time to reach",
+    "a2": "i m sorry chevron is the only gas_station i am able to locate",
+    "q3": "ok send me the address please",
+    "a3": "its address is 783_arcadia_pl i sent it on your screen",
+    "q4": "thank you",
+    "a4": "you re welcome drive safely",
+    "q5": "great",
+    "a5": "no problem"
+}

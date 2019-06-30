@@ -1,0 +1,8 @@
+{
+    "q1": "please give me the address and directions via a route that avoids all heavy_traffic to a hospital around here",
+    "a1": "stanford_childrens_health is the only hospital that i can find it is located at 899_ames_ct 8_miles away",
+    "q2": "okay send me a route there that avoids all heavy_traffic",
+    "a2": "the current route does not have any traffic",
+    "q3": "great thank you",
+    "a3": "your welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "look for parking",
+    "a1": "the nearest parking is palo alto garage about 5_miles from you the address is 481_amaranta_ave would you like directions",
+    "q2": "yes please send on my screen a route with no_traffic to reach there",
+    "a2": "there is a car collision on route",
+    "q3": "is there a quickest route to reach",
+    "a3": "i sent on your map the best route drive carefully",
+    "q4": "thanks",
+    "a4": "you re welcome drive carefully"
+}

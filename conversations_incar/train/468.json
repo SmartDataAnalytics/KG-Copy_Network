@@ -1,0 +1,10 @@
+{
+    "q1": "what s the route to my friends_house within 4_miles",
+    "a1": "toms_house is 3_miles away but has a road_block_nearby on the route do you want the address",
+    "q2": "yes please",
+    "a2": "580_van_ness_ave there is a road_block_nearby but you should be able to reach it fast anyway with the route i sent to your screen",
+    "q3": "then pick the route with the shortest distance and let s go there",
+    "a3": "setting navigation now to toms_house",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

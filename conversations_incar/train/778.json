@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to 5677 southwest 4th street",
+    "a1": "i m sorry but i don t have this address in my memory can you give me further details",
+    "q2": "it should be in the area",
+    "a2": "i am not seeing anything listed in the area but i set the navigation to that address is that ok",
+    "q3": "yes thank you send me the address on screen and pick the fastest route please",
+    "a3": "i sent the info on your screen drive carefully"
+}

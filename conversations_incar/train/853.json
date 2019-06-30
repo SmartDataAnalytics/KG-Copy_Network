@@ -1,0 +1,8 @@
+{
+    "q1": "i need to find a hospital quickly without any heavy_traffic",
+    "a1": "stanford_express_care is 5_miles away with no_traffic would you like directions there",
+    "q2": "yes where is it",
+    "a2": "its address is 214_el_camino_real i sent its position on your screen",
+    "q3": "thank you",
+    "a3": "you re welcome"
+}

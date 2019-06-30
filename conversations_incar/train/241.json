@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to the local coffee shop",
+    "a1": "i see one nearby coffee shop which is cafe_venetia located at 269_alger_dr it is 4_miles away and there is no_traffic",
+    "q2": "would you give me route details please",
+    "a2": "providing directions to 269_alger_dr now",
+    "q3": "okay thanks please pick a route with no_traffic and let s go there",
+    "a3": "sure just follow the directions on your screen there shouldn t be any traffic"
+}

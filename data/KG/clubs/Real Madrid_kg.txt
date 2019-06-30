@@ -1,0 +1,32 @@
+Real Madrid	ground	Estadio Santiago Bernabéu
+Estadio Santiago Bernabéu	capacity	81,044
+Real Madrid	chairman	Florentino Pérez
+Real Madrid	coach	Zinedine Zidane
+Real Madrid	has player	Raphael Varane
+Raphael Varane	position	defender
+Raphael Varane	goals	4
+Raphael Varane	caps	173
+Raphael Varane	date of birth	1993-04-25
+Raphael Varane	jersey	5
+Raphael Varane	height	1.91 m
+Real Madrid	has player	Karim Benzema
+Karim Benzema	position	forward
+Karim Benzema	goals	148
+Karim Benzema	caps	312
+Karim Benzema	date of birth	1987-12-19
+Karim Benzema	jersey	9
+Karim Benzema	height	1.85 m
+Real Madrid	has player	Gareth Bale
+Gareth Bale	position	forward
+Gareth Bale	goals	78
+Gareth Bale	caps	155
+Gareth Bale	date of birth	1989-07-16
+Gareth Bale	jersey	11
+Gareth Bale	height	1.85 m
+Real Madrid	has player	Marcelo
+Marcelo	position	defender
+Marcelo	goals	25
+Marcelo	caps	343
+Marcelo	date of birth	1988-05-12
+Marcelo	jersey	12
+Marcelo	height	1.74 m

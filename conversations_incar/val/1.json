@@ -1,0 +1,10 @@
+{
+    "q1": "get me directions to the nearest starbucks",
+    "a1": "there is no starbucks listed locally would you like directions to a different coffee shop",
+    "q2": "yes please",
+    "a2": "there is a coupa 6_miles away would you like directions",
+    "q3": "yes please",
+    "a3": "the address for coupa is 394_van_ness_ave",
+    "q4": "thank you car please set the gps to get there on the fastest route",
+    "a4": "you re welcome setting gps to quickest route we will be there soon"
+}

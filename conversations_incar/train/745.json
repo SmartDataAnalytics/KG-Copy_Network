@@ -1,0 +1,12 @@
+{
+    "q1": "where can i get gas",
+    "a1": "i have a couple gas_stations listed which one would you like to know about",
+    "q2": "pick the quickest one to reach the one in the shortest distance",
+    "a2": "chevron is the closest gas_station",
+    "q3": "where is chevron",
+    "a3": "chevron is located 7_miles away from here at 783 arcadia pi would you like to set the gps to go there",
+    "q4": "yes set the gps to that with route details and the quickest route and shortest time",
+    "a4": "there is a car_collision_nearby but i found another route and i sent the info on your screen drive carefully",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

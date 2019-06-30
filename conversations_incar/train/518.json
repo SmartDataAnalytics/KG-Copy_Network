@@ -1,0 +1,10 @@
+{
+    "q1": "bring me to the nearest starbucks",
+    "a1": "there are no starbucks nearby but we could go to palo_alto_cafe it s 2_miles away",
+    "q2": "sure pick the quickest route and bring me there please",
+    "a2": "palo_alto_cafe has heavy_traffic would you like the address anyway",
+    "q3": "yes give me the address please",
+    "a3": "palo_alto_cafe is located at 436_alger_drive with heavy_traffic is that going to be a problem",
+    "q4": "no set the gps for palo_alto_cafe please",
+    "a4": "ok palo_alto_cafe it is"
+}

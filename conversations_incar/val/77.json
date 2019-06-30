@@ -1,0 +1,10 @@
+{
+    "q1": "i need to locate a shopping_center",
+    "a1": "stanford_shopping_center and town_and_country are both near",
+    "q2": "which is within 3_miles",
+    "a2": "stanford_shopping_center is only 2_miles away and town_and_country is 1_miles away",
+    "q3": "i repeat please tell me about town_and_country which one is it the quickest way to go there",
+    "a3": "its address is 383_university_ave i sent the position on your screen",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

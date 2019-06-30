@@ -1,0 +1,8 @@
+{
+    "q1": "car find me a grocery_store within 2_miles from my location with the shortest distance",
+    "a1": "the closest grocery_store is safeway 6_miles away at 452_arcadia_pl would you like directions there",
+    "q2": "yes please direct me via the shortest distance",
+    "a2": "setting navigation to safeway now there is no_traffic",
+    "q3": "thanks",
+    "a3": "no problem i m here to assist you"
+}

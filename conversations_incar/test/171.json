@@ -1,0 +1,10 @@
+{
+    "q1": "get me directions to the mall",
+    "a1": "there are the ravenswood_shopping_center and the stanford_shopping_center both 3_miles away do you want me to flip a coin between them or will you pick where to go",
+    "q2": "let s go at ravenswood_shopping_center and pick a route with no_traffic please",
+    "a2": "navigating you to ravenswood_shopping_center",
+    "q3": "what s the address",
+    "a3": "the address to ravenswood_shopping_center is 434_arastradero_rd",
+    "q4": "thanks so much for all your help",
+    "a4": "good day"
+}

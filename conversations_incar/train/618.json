@@ -1,0 +1,10 @@
+{
+    "q1": "directions to the grocery_store",
+    "a1": "navigating you to safeway",
+    "q2": "make sure to give me the fastest route please",
+    "a2": "there is no_traffic on our way and you should be able to reach in just few minutes",
+    "q3": "ok what is the address and how close is it",
+    "a3": "safeway is 4_miles away at 452_arcadia_pl do you need me to set gps",
+    "q4": "yes please and thank you",
+    "a4": "i set the gps for you drive carefully"
+}

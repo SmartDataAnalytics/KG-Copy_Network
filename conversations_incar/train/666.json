@@ -1,0 +1,10 @@
+{
+    "q1": "where can i get groceries",
+    "a1": "whole_foods and sigona_farmers_market are close",
+    "q2": "are they within 3_miles",
+    "a2": "whole_foods is 2_miles away",
+    "q3": "is there any traffic on the way to whole_foods",
+    "a3": "whole_foods has heavy_traffic noted on the way would you like somewhere else",
+    "q4": "it s okay let s go there just pick the best available route thank you",
+    "a4": "i sent the info on your gps you re welcome"
+}

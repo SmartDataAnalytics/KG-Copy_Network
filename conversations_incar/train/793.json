@@ -1,0 +1,8 @@
+{
+    "q1": "get me directions to the grocery_store",
+    "a1": "819_alma_st is the address for whole_foods which is 2_miles away",
+    "q2": "give me the route with no_traffic please",
+    "a2": "there is a road_block_nearby but this is the only route i can find to the whole_foods",
+    "q3": "ok that s fine so long as its via the quickest available route",
+    "a3": "setting gps we will be there shortly"
+}

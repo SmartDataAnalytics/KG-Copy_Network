@@ -1,0 +1,10 @@
+{
+    "q1": "find me the best parking spot",
+    "a1": "there are two nearby parking_garages dish_parking and webster_garage",
+    "q2": "what is traffic like on the route to those locations and can you send me directions to the one without any traffic",
+    "a2": "webster_garage is located 2_miles away though there is a car_collision_nearby would you like directions there",
+    "q3": "yes please give me directions via the fastest possible route",
+    "a3": "setting navigation to 880_ames_ct now",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

@@ -1,0 +1,165 @@
+Juventus	ground	Allianz Stadium
+Allianz Stadium	capacity	41,507
+Juventus	chairman	Andrea Agnelli
+Juventus	coach	Maurizio Sarri
+Juventus	has player	Wojciech Szczesny
+Wojciech Szczesny	position	goalkeeper
+Wojciech Szczesny	goals	0
+Wojciech Szczesny	caps	45
+Wojciech Szczesny	date of birth	1990-04-18
+Wojciech Szczesny	jersey	1
+Wojciech Szczesny	height	1.95 m
+Juventus	has player	Mattia De Sciglio
+Mattia De Sciglio	position	defender
+Mattia De Sciglio	goals	1
+Mattia De Sciglio	caps	34
+Mattia De Sciglio	date of birth	1992-10-20
+Mattia De Sciglio	jersey	2
+Mattia De Sciglio	height	1.82 m
+Juventus	has player	Giorgio Chiellini
+Giorgio Chiellini	position	defender
+Giorgio Chiellini	goals	26
+Giorgio Chiellini	caps	383
+Giorgio Chiellini	date of birth	1984-08-14
+Giorgio Chiellini	jersey	3
+Giorgio Chiellini	height	1.87 m
+Juventus	has player	Martin Caceres
+Martin Caceres	position	defender
+Martin Caceres	goals	0
+Martin Caceres	caps	9
+Martin Caceres	date of birth	1987-04-07
+Martin Caceres	jersey	4
+Martin Caceres	height	1.78 m
+Juventus	has player	Miralem Pjanic
+Miralem Pjanic	position	midfielder
+Miralem Pjanic	goals	12
+Miralem Pjanic	caps	92
+Miralem Pjanic	date of birth	1990-04-02
+Miralem Pjanic	jersey	5
+Miralem Pjanic	height	1.80 m
+Juventus	has player	Sami Khedira
+Sami Khedira	position	midfielder
+Sami Khedira	goals	21
+Sami Khedira	caps	87
+Sami Khedira	date of birth	1987-04-04
+Sami Khedira	jersey	6
+Sami Khedira	height	1.89 m
+Juventus	has player	Cristiano Ronaldo
+Cristiano Ronaldo	position	forward
+Cristiano Ronaldo	goals	21
+Cristiano Ronaldo	caps	31
+Cristiano Ronaldo	date of birth	1985-02-05
+Cristiano Ronaldo	jersey	7
+Cristiano Ronaldo	height	1.86 m
+Juventus	has player	Paulo Dybala
+Paulo Dybala	position	forward
+Paulo Dybala	goals	57
+Paulo Dybala	caps	128
+Paulo Dybala	date of birth	1993-11-15
+Paulo Dybala	jersey	10
+Paulo Dybala	height	1.77 m
+Juventus	has player	Douglas Costa
+Douglas Costa	position	forward
+Douglas Costa	goals	1
+Douglas Costa	caps	17
+Douglas Costa	date of birth	1990-09-14
+Douglas Costa	jersey	11
+Douglas Costa	height	1.72 m
+Juventus	has player	Alex Sandro
+Alex Sandro	position	defender
+Alex Sandro	goals	10
+Alex Sandro	caps	106
+Alex Sandro	date of birth	1991-01-26
+Alex Sandro	jersey	12
+Alex Sandro	height	1.77 m
+Juventus	has player	Blaise Matuidi
+Blaise Matuidi	position	midfielder
+Blaise Matuidi	goals	6
+Blaise Matuidi	caps	63
+Blaise Matuidi	date of birth	1987-04-09
+Blaise Matuidi	jersey	14
+Blaise Matuidi	height	1.80 m
+Juventus	has player	Andrea Barzagli
+Andrea Barzagli	position	defender
+Andrea Barzagli	goals	2
+Andrea Barzagli	caps	206
+Andrea Barzagli	date of birth	1981-05-08
+Andrea Barzagli	jersey	15
+Andrea Barzagli	height	1.87 m
+Juventus	has player	Juan Cuadrado
+Juan Cuadrado	position	midfielder
+Juan Cuadrado	goals	5
+Juan Cuadrado	caps	39
+Juan Cuadrado	date of birth	1988-05-26
+Juan Cuadrado	jersey	16
+Juan Cuadrado	height	1.76 m
+Juventus	has player	Mario Mandzukic
+Mario Mandzukic	position	forward
+Mario Mandzukic	goals	30
+Mario Mandzukic	caps	117
+Mario Mandzukic	date of birth	1986-05-21
+Mario Mandzukic	jersey	17
+Mario Mandzukic	height	1.90 m
+Juventus	has player	Moise Kean
+Moise Kean	position	forward
+Moise Kean	goals	7
+Moise Kean	caps	16
+Moise Kean	date of birth	2000-02-28
+Moise Kean	jersey	18
+Moise Kean	height	1.82 m
+Juventus	has player	Leonardo Bonucci
+Leonardo Bonucci	position	defender
+Leonardo Bonucci	goals	3
+Leonardo Bonucci	caps	29
+Leonardo Bonucci	date of birth	1987-05-01
+Leonardo Bonucci	jersey	19
+Leonardo Bonucci	height	1.90 m
+Juventus	has player	Joao Cancelo
+Joao Cancelo	position	defender
+Joao Cancelo	goals	1
+Joao Cancelo	caps	25
+Joao Cancelo	date of birth	1994-05-27
+Joao Cancelo	jersey	20
+Joao Cancelo	height	1.80 m
+Juventus	has player	Mattia Perin
+Mattia Perin	position	goalkeeper
+Mattia Perin	goals	0
+Mattia Perin	caps	9
+Mattia Perin	date of birth	1992-11-10
+Mattia Perin	jersey	22
+Mattia Perin	height	1.88 m
+Juventus	has player	Emre Can
+Emre Can	position	midfielder
+Emre Can	goals	4
+Emre Can	caps	29
+Emre Can	date of birth	1994-01-12
+Emre Can	jersey	23
+Emre Can	height	1.84 m
+Juventus	has player	Daniele Rugani
+Daniele Rugani	position	defender
+Daniele Rugani	goals	6
+Daniele Rugani	caps	69
+Daniele Rugani	date of birth	1994-07-29
+Daniele Rugani	jersey	24
+Daniele Rugani	height	1.90 m
+Juventus	has player	Rodrigo Bentancur
+Rodrigo Bentancur	position	midfielder
+Rodrigo Bentancur	goals	2
+Rodrigo Bentancur	caps	51
+Rodrigo Bentancur	date of birth	1997-06-25
+Rodrigo Bentancur	jersey	30
+Rodrigo Bentancur	height	1.87 m
+Juventus	has player	Federico Bernardeschi
+Federico Bernardeschi	position	forward
+Federico Bernardeschi	goals	6
+Federico Bernardeschi	caps	50
+Federico Bernardeschi	date of birth	1994-02-16
+Federico Bernardeschi	jersey	33
+Federico Bernardeschi	height	1.85 m
+Juventus	has player	Leonardo Spinazzola
+Leonardo Spinazzola	position	defender
+Leonardo Spinazzola	goals	0
+Leonardo Spinazzola	caps	10
+Leonardo Spinazzola	date of birth	1993-03-25
+Leonardo Spinazzola	jersey	37
+Leonardo Spinazzola	height	1.86 m

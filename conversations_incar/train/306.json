@@ -1,0 +1,10 @@
+{
+    "q1": "where are the rest_stops near me",
+    "a1": "we re 3_miles away from comfort_inn do you want to go there",
+    "q2": "is that the quickest route to one",
+    "a2": "that is only 3_miles away with moderate_traffic",
+    "q3": "thanks can you show me the address please",
+    "a3": "the address is 753_university_ave i sent it on your map may i do anything else for you",
+    "q4": "no that s it thanks for the help",
+    "a4": "you re welcome drive safely"
+}

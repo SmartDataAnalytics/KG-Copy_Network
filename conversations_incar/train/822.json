@@ -1,0 +1,12 @@
+{
+    "q1": "where s the nearest place to get lunch",
+    "a1": "there is a panda_express 3_miles away on 842_arrowhead_way",
+    "q2": "could you please show me a quick route to get there",
+    "a2": "i have sent the route to your screen",
+    "q3": "okay will there be any traffic",
+    "a3": "yes there is currently heavy_traffic on the route to panda_express",
+    "q4": "is there a way around the traffic",
+    "a4": "i m afraid not but i can set navigation for the quickest route available",
+    "q5": "ok thank you",
+    "a5": "you re welcome drive safely and enjoy"
+}

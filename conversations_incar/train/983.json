@@ -1,0 +1,10 @@
+{
+    "q1": "direct me to the nearest starbucks",
+    "a1": "there is no starbucks nearby but palo_alto_cafe is 2_miles away would you like directions there",
+    "q2": "yes please",
+    "a2": "the address is 436_alger_drive i am sending directions now",
+    "q3": "thank you car",
+    "a3": "you re welcome drive carefully and enjoy",
+    "q4": "[ end conversation ]",
+    "a4": "no problem"
+}

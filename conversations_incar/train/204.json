@@ -1,0 +1,8 @@
+{
+    "q1": "where are the nearest coffee shops",
+    "a1": "the nearby coffee shops are teavana which is 6_miles away and peets_coffee which is 3_miles away",
+    "q2": "please give me an address and directions to the peets_coffee and take the fastest route available",
+    "a2": "peets_coffee is located at 9981_archuleta_ave but a car collision is nearby on the route i will try to find the quickest route possible",
+    "q3": "thanks for all the help",
+    "a3": "you re welcome"
+}

@@ -1,0 +1,10 @@
+{
+    "q1": "get me directions to a local cafe",
+    "a1": "there are 3 local cafe would you like the closest one",
+    "q2": "please give me the address and directions to the coffee shop closest to me",
+    "a2": "the closest is peets_coffee 3_miles away at 9981_archuleta_ave",
+    "q3": "please pick the route with the shortest distance and let s go there",
+    "a3": "setting navigation to peets_coffee now",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

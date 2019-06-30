@@ -1,0 +1,8 @@
+{
+    "q1": "where is the closest gas_station and what are the directions to get there the fastest",
+    "a1": "the closest gas_station with no_traffic is shell located at 53_university_ave there is also a gas_station located closer but there is a road block would you like the directions for shell",
+    "q2": "yes shell sounds great",
+    "a2": "okay heading to shell",
+    "q3": "thank you car even if you didn t want to tell me the directions thank you",
+    "a3": "you re welcome drive safely"
+}

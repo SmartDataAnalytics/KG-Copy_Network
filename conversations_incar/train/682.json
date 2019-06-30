@@ -1,0 +1,12 @@
+{
+    "q1": "can you find me the fastest route to a parking_garage",
+    "a1": "dish_parking is 7_miles away",
+    "q2": "is there nothing else in the area",
+    "a2": "no that is it",
+    "q3": "ok send me the address then please",
+    "a3": "the address is 550_alester_ave now you can see it on your map as well",
+    "q4": "thank you",
+    "a4": "you re welcome drive safely",
+    "q5": "[ end of conversation ]",
+    "a5": "you are very welcome"
+}

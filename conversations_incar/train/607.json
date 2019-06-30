@@ -1,0 +1,10 @@
+{
+    "q1": "get me the address to a hospital that is no more than 2_miles away",
+    "a1": "there are no hospitals within 2_miles",
+    "q2": "what is the hospital nearest to me now then",
+    "a2": "stanford childrens hospital is 7_miles away through moderate_traffic it is located at 899_ames_ct",
+    "q3": "please pick a route to avoid all heavy_traffic and let s go there",
+    "a3": "i sent the info on your screen drive carefully",
+    "q4": "thank you car",
+    "a4": "you re welcome happy to be of assistance"
+}

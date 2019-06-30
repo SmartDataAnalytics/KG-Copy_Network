@@ -1,0 +1,8 @@
+{
+    "q1": "show directions for the nearest grocery_store",
+    "a1": "trader_joes is located at 408_university_ave 4_miles away in heavy_traffic setting navigation now",
+    "q2": "please give me directions via the fastest route available thank you",
+    "a2": "setting navigation now there is heavy_traffic so drive carefully",
+    "q3": "thanks car assistant",
+    "a3": "you re welcome i m here for you"
+}

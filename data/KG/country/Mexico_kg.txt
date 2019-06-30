@@ -1,0 +1,173 @@
+Mexico	coach	Gerardo Martino
+Mexico	captain	Andrés Guardado
+Mexico	world cup appearance	16 (first in 1930)
+Mexico	world cup Quarter-finals	1970
+Mexico	world cup Quarter-finals	 1986
+Mexico	goalkeeper	Jonathan Orozco
+Mexico	has player	Jonathan Orozco
+Jonathan Orozco	position	goalkeeper
+Jonathan Orozco	goals	0
+Jonathan Orozco	caps	7
+Jonathan Orozco	age	33
+Jonathan Orozco	jersey	1
+Mexico	goalkeeper	Guillermo Ochoa
+Mexico	has player	Guillermo Ochoa
+Guillermo Ochoa	position	goalkeeper
+Guillermo Ochoa	goals	0
+Guillermo Ochoa	caps	104
+Guillermo Ochoa	age	33
+Guillermo Ochoa	jersey	13
+Mexico	defender	Nestor Araujo
+Mexico	has player	Nestor Araujo
+Nestor Araujo	position	defender
+Nestor Araujo	goals	3
+Nestor Araujo	caps	33
+Nestor Araujo	age	27
+Nestor Araujo	jersey	2
+Mexico	defender	Carlos Salcedo
+Mexico	has player	Carlos Salcedo
+Carlos Salcedo	position	defender
+Carlos Salcedo	goals	0
+Carlos Salcedo	caps	28
+Carlos Salcedo	age	25
+Carlos Salcedo	jersey	3
+Mexico	defender	Diego Reyes
+Mexico	has player	Diego Reyes
+Diego Reyes	position	defender
+Diego Reyes	goals	2
+Diego Reyes	caps	62
+Diego Reyes	age	26
+Diego Reyes	jersey	5
+Mexico	defender	Hector Moreno
+Mexico	has player	Hector Moreno
+Hector Moreno	position	defender
+Hector Moreno	goals	4
+Hector Moreno	caps	98
+Hector Moreno	age	31
+Hector Moreno	jersey	15
+Mexico	defender	Cesar Montes
+Mexico	has player	Cesar Montes
+Cesar Montes	position	defender
+Cesar Montes	goals	0
+Cesar Montes	caps	8
+Cesar Montes	age	22
+Cesar Montes	jersey	17
+Mexico	defender	Luis Rodriguez
+Mexico	has player	Luis Rodriguez
+Luis Rodriguez	position	defender
+Luis Rodriguez	goals	1
+Luis Rodriguez	caps	14
+Luis Rodriguez	age	28
+Luis Rodriguez	jersey	21
+Mexico	defender	Jesus Gallardo
+Mexico	has player	Jesus Gallardo
+Jesus Gallardo	position	defender
+Jesus Gallardo	goals	0
+Jesus Gallardo	caps	37
+Jesus Gallardo	age	24
+Jesus Gallardo	jersey	23
+Mexico	midfielder	Edson Alvarez
+Mexico	has player	Edson Alvarez
+Edson Alvarez	position	midfielder
+Edson Alvarez	goals	1
+Edson Alvarez	caps	24
+Edson Alvarez	age	21
+Edson Alvarez	jersey	4
+Mexico	midfielder	Jonathan dos Santos
+Mexico	has player	Jonathan dos Santos
+Jonathan dos Santos	position	midfielder
+Jonathan dos Santos	goals	2
+Jonathan dos Santos	caps	42
+Jonathan dos Santos	age	29
+Jonathan dos Santos	jersey	6
+Mexico	midfielder	Orbelin Pineda
+Mexico	has player	Orbelin Pineda
+Orbelin Pineda	position	midfielder
+Orbelin Pineda	goals	1
+Orbelin Pineda	caps	18
+Orbelin Pineda	age	23
+Orbelin Pineda	jersey	7
+Mexico	midfielder	Luis Montes
+Mexico	has player	Luis Montes
+Luis Montes	position	midfielder
+Luis Montes	goals	5
+Luis Montes	caps	23
+Luis Montes	age	33
+Luis Montes	jersey	10
+Mexico	midfielder	Roberto Alvarado
+Mexico	has player	Roberto Alvarado
+Roberto Alvarado	position	midfielder
+Roberto Alvarado	goals	2
+Roberto Alvarado	caps	10
+Roberto Alvarado	age	20
+Roberto Alvarado	jersey	11
+Mexico	midfielder	Erick Gutierrez
+Mexico	has player	Erick Gutierrez
+Erick Gutierrez	position	midfielder
+Erick Gutierrez	goals	0
+Erick Gutierrez	caps	17
+Erick Gutierrez	age	24
+Erick Gutierrez	jersey	16
+Mexico	midfielder	Andres Guardado 
+Mexico	has player	Andres Guardado 
+Andres Guardado 	position	midfielder
+Andres Guardado 	goals	28
+Andres Guardado 	caps	157
+Andres Guardado 	age	32
+Andres Guardado 	jersey	18
+Mexico	forward	Raul Jimenez
+Mexico	has player	Raul Jimenez
+Raul Jimenez	position	forward
+Raul Jimenez	goals	19
+Raul Jimenez	caps	74
+Raul Jimenez	age	28
+Raul Jimenez	jersey	9
+Mexico	forward	Rodolfo Pizarro
+Mexico	has player	Rodolfo Pizarro
+Rodolfo Pizarro	position	forward
+Rodolfo Pizarro	goals	4
+Rodolfo Pizarro	caps	18
+Rodolfo Pizarro	age	25
+Rodolfo Pizarro	jersey	20
+Mexico	goalkeeper	Jose de Jesus Corona
+Mexico	has player	Jose de Jesus Corona
+Jose de Jesus Corona	position	goalkeeper
+Jose de Jesus Corona	goals	0
+Jose de Jesus Corona	caps	55
+Jose de Jesus Corona	age	38
+Mexico	defender	Miguel Layun
+Mexico	has player	Miguel Layun
+Miguel Layun	position	defender
+Miguel Layun	goals	6
+Miguel Layun	caps	71
+Miguel Layun	age	31
+Mexico	midfielder	Javier Aquino
+Mexico	has player	Javier Aquino
+Javier Aquino	position	midfielder
+Javier Aquino	goals	0
+Javier Aquino	caps	54
+Javier Aquino	age	29
+Mexico	midfielder	Giovani dos Santos
+Mexico	has player	Giovani dos Santos
+Giovani dos Santos	position	midfielder
+Giovani dos Santos	goals	19
+Giovani dos Santos	caps	106
+Giovani dos Santos	age	30
+Mexico	midfielder	Hector Herrera
+Mexico	has player	Hector Herrera
+Hector Herrera	position	midfielder
+Hector Herrera	goals	5
+Hector Herrera	caps	70
+Hector Herrera	age	29
+Mexico	forward	Javier Hernandez
+Mexico	has player	Javier Hernandez
+Javier Hernandez	position	forward
+Javier Hernandez	goals	51
+Javier Hernandez	caps	108
+Javier Hernandez	age	31
+Mexico	forward	Carlos Vela
+Mexico	has player	Carlos Vela
+Carlos Vela	position	forward
+Carlos Vela	goals	19
+Carlos Vela	caps	72
+Carlos Vela	age	30

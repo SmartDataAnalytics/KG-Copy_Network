@@ -1,0 +1,10 @@
+{
+    "q1": "car i need to go to a grocery_store",
+    "a1": "there is a safeway at 452_arcadia_place 5_miles away would you like directions there",
+    "q2": "yes please pick a route to avoid all heavy_traffic",
+    "a2": "i m afraid the route to safeway currently has heavy_traffic and it is the only grocery_store in the area proceed",
+    "q3": "then let s go there car thank you",
+    "a3": "ok setting navigation now",
+    "q4": "thanks again car assistant",
+    "a4": "i m here for you"
+}

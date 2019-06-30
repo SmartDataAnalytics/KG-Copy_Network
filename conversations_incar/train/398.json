@@ -1,0 +1,10 @@
+{
+    "q1": "get me directions to the grocery_store",
+    "a1": "whole_foods is 3_miles away but there is heavy_traffic on our way",
+    "q2": "are any other grocery_stores available with no heavy_traffic",
+    "a2": "no whole_foods is the only one i have listed would you like the address anyway",
+    "q3": "yes i guess that will have to do",
+    "a3": "its address is 819_alma_st i sent it on your map drive carefully",
+    "q4": "thanks so much",
+    "a4": "no problem"
+}

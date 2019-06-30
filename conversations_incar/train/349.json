@@ -1,0 +1,10 @@
+{
+    "q1": "pull up directions to 5672 barringer street",
+    "a1": "i don t see 5672 barringer street nearby can you confirm that that is the destination you want",
+    "q2": "yes it should be near me in the direction we re going now",
+    "a2": "i still do not see 5672 barringer street nearby home is nearby at 3_miles away do you wish to go there",
+    "q3": "yes please show on the map the quickest way to get there",
+    "a3": "mapping route to home 56_cadwell_street 3_miles away with a car_collision_nearby",
+    "q4": "ok thanks for the information",
+    "a4": "you re welcome happy to be of assistance"
+}

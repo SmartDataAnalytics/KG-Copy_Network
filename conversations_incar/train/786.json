@@ -1,0 +1,12 @@
+{
+    "q1": "what grocery_stores are around",
+    "a1": "i have two grocery_stores listed which would you like to know about",
+    "q2": "which has less traffic",
+    "a2": "they both have moderate_traffic",
+    "q3": "could you please tell me their name and address",
+    "a3": "whole_foods is 6_miles away and sigona_farmers_market is 2_miles away which do you prefer",
+    "q4": "let s go to sigona_farmers_market please",
+    "a4": "alright heading to sigona_farmers_market at 648 amherst st",
+    "q5": "thank you",
+    "a5": "you re welcome"
+}

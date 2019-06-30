@@ -1,0 +1,10 @@
+{
+    "q1": "take me to the mall to buy some clothes",
+    "a1": "midtown_shopping_center is the closest shopping_center to you would you like the address",
+    "q2": "yes",
+    "a2": "we re going to 338_alester_ave there is heavy_traffic but it s just 2_miles away",
+    "q3": "i wish to find a route with no_traffic but it s okay please send the info on the gps thanks",
+    "a3": "sending the address for the midtown_shopping_center at 338_alester_ave to your gps",
+    "q4": "thank you car",
+    "a4": "you re welcome"
+}

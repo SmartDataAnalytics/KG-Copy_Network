@@ -1,0 +1,12 @@
+{
+    "q1": "where can i go shopping",
+    "a1": "stanford_shopping_center is 3_miles away",
+    "q2": "is that the closest shopping_center to my location",
+    "a2": "yes stanford_shopping_center is the closest",
+    "q3": "what is the address",
+    "a3": "stanford_shopping_center is 3_miles away at 773_alger_dr please note there is a road block reported nearby",
+    "q4": "oh okay let s start the route now then please",
+    "a4": "i sent the info on your screen drive carefully",
+    "q5": "thank you car",
+    "a5": "you re welcome"
+}

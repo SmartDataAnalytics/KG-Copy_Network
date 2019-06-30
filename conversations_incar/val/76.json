@@ -1,0 +1,10 @@
+{
+    "q1": "navigate me to the nearest hotel",
+    "a1": "the nearest hotel is the four_seasons",
+    "q2": "send me the address on screen",
+    "a2": "the four_seasons hotel is located at 465_arcadia_pl",
+    "q3": "set gps for quickest available route",
+    "a3": "gps set anything else",
+    "q4": "that s it thank you car",
+    "a4": "you re welcome"
+}

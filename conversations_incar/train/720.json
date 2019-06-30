@@ -1,0 +1,8 @@
+{
+    "q1": "get directions to the nearest hotel",
+    "a1": "the nearest hotel is the_westin navigating now",
+    "q2": "what is the address of the nearest rest_stop",
+    "a2": "the nearest rest_stop is at 329_el_camino_real",
+    "q3": "then select the quickest route and let s go there thanks",
+    "a3": "i picked the quickest route and sent the info on your screen drive carefully"
+}

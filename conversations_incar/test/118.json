@@ -1,0 +1,10 @@
+{
+    "q1": "find me a chinese_restaurant with a no_traffic route",
+    "a1": "chef_chu_s is the only chinese_restaurant but here is heavy_traffic",
+    "q2": "send me the address anyway",
+    "a2": "chef_chu_s is at 593_arrowhead_way",
+    "q3": "please pick a route with no_traffic to get there thanks",
+    "a3": "there will be heavy_traffic sorry",
+    "q4": "that is ok thank you",
+    "a4": "you re welcome"
+}

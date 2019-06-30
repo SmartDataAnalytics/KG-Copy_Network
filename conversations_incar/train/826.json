@@ -1,0 +1,10 @@
+{
+    "q1": "find a coffee shop near my location",
+    "a1": "palo_alto_cafe is 4_miles away",
+    "q2": "what is the address",
+    "a2": "palo_alto_cafe is 4_miles away at 436_alger_dr but a car collision is being reported nearby do you still want to go",
+    "q3": "yes please just select the fastest route",
+    "a3": "i just sent on your screen the best available route drive carefully",
+    "q4": "thanks for all the help",
+    "a4": "you re welcome glad i could help"
+}

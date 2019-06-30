@@ -1,0 +1,8 @@
+{
+    "q1": "what are the directions for the nearest shopping_center without traffic",
+    "a1": "there is no shopping_centers close without traffic but i have one that is 4_miles away with a car collision noted on the route do you want the details",
+    "q2": "yes please give me the address and directions via a route that avoids as much heavy_traffic as possible",
+    "a2": "setting navigation to the topanga_mall at 171 oak road now",
+    "q3": "thank you car",
+    "a3": "your welcome"
+}

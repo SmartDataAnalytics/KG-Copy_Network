@@ -1,0 +1,12 @@
+{
+    "q1": "where is the closest parking_garage",
+    "a1": "civic_center_garage is 5_miles away",
+    "q2": "what is the address",
+    "a2": "civic_center_garage is located at 270_altaire_walk want me to set the gps",
+    "q3": "yes set the gps tio the fastest route with no_traffic",
+    "a3": "there is heavy_traffic in our route but you should be able to reach fast enough",
+    "q4": "ok thanks for the help",
+    "a4": "you re welcome drive carefully",
+    "q5": "[ end of conversation ]",
+    "a5": "you are welcome"
+}

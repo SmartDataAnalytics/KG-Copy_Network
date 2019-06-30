@@ -1,0 +1,10 @@
+{
+    "q1": "find me the fastest route to the nearest rest_stop around",
+    "a1": "there is comfort_inn 3_miles away but with heavy_traffic on its direction do you want me to set the navigation there",
+    "q2": "yes please thanks for the help",
+    "a2": "setting gps now",
+    "q3": "would you give me the address please",
+    "a3": "the address for comfort_inn is 753_university_ave",
+    "q4": "thank you car let s go there",
+    "a4": "you are welcome driver"
+}

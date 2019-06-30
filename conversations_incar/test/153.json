@@ -1,0 +1,12 @@
+{
+    "q1": "what is the rest_stop with the quickest route nearby",
+    "a1": "hotel_keen is a rest_stop located 3_miles away there is a car_collision_nearby but should delay you to long",
+    "q2": "what is the address",
+    "a2": "the address for hotel_keen is 578_arbol_dr 3_miles away with a car_collision_nearby",
+    "q3": "is there a quick route to reach",
+    "a3": "i sent the quickest route on your screen",
+    "q4": "thank you car",
+    "a4": "you re welcome drive safely",
+    "q5": "have a good day",
+    "a5": "if you drive carefully it will be for sure"
+}

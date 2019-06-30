@@ -1,0 +1,10 @@
+{
+    "q1": "find me a nearby coffee shop specifically starbucks",
+    "a1": "there is no starbucks nearby",
+    "q2": "how about any other tea",
+    "a2": "teavana serves tea nearby",
+    "q3": "it sounds good let s go there please pick the fastest route for me thank you",
+    "a3": "the quickest route is 145_amherst_street to teavana with no_traffic noted on that route",
+    "q4": "thank you car let s go there",
+    "a4": "you re welcome"
+}

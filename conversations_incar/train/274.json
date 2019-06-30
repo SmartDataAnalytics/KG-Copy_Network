@@ -1,0 +1,10 @@
+{
+    "q1": "take me to the nearest grocery_store",
+    "a1": "the nearest grocery_store is 6_miles away whole_foods at 819_alma_st",
+    "q2": "please give directions to that store by the fastest route thank you",
+    "a2": "setting navigation now",
+    "q3": "okay should i expect to see any traffic",
+    "a3": "there is a road_block_nearby but i already sent on your screen a route to go around it",
+    "q4": "thank you",
+    "a4": "you are welcome"
+}

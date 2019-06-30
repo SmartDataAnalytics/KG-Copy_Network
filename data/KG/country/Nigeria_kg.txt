@@ -1,0 +1,158 @@
+Nigeria	coach	Gernot Rohr
+Nigeria	captain	John Mikel Obi
+Nigeria	world cup appearance	6 (first in 1994)
+Nigeria	world cup Round of 16	1994
+Nigeria	world cup Round of 16	 1998
+Nigeria	world cup Round of 16	 2014
+Nigeria	goalkeeper	Ikechukwu Ezenwa
+Nigeria	has player	Ikechukwu Ezenwa
+Ikechukwu Ezenwa	position	goalkeeper
+Ikechukwu Ezenwa	goals	0
+Ikechukwu Ezenwa	caps	21
+Ikechukwu Ezenwa	age	30
+Ikechukwu Ezenwa	jersey	1
+Nigeria	goalkeeper	Francis Uzoho
+Nigeria	has player	Francis Uzoho
+Francis Uzoho	position	goalkeeper
+Francis Uzoho	goals	0
+Francis Uzoho	caps	13
+Francis Uzoho	age	20
+Francis Uzoho	jersey	23
+Nigeria	goalkeeper	Daniel Akpeyi
+Nigeria	has player	Daniel Akpeyi
+Daniel Akpeyi	position	goalkeeper
+Daniel Akpeyi	goals	0
+Daniel Akpeyi	caps	11
+Daniel Akpeyi	age	32
+Daniel Akpeyi	jersey	16
+Nigeria	defender	Kenneth Omeruo
+Nigeria	has player	Kenneth Omeruo
+Kenneth Omeruo	position	defender
+Kenneth Omeruo	goals	0
+Kenneth Omeruo	caps	45
+Kenneth Omeruo	age	25
+Kenneth Omeruo	jersey	22
+Nigeria	defender	Shehu Abdullahi
+Nigeria	has player	Shehu Abdullahi
+Shehu Abdullahi	position	defender
+Shehu Abdullahi	goals	0
+Shehu Abdullahi	caps	31
+Shehu Abdullahi	age	26
+Shehu Abdullahi	jersey	12
+Nigeria	defender	William Troost-Ekong
+Nigeria	has player	William Troost-Ekong
+William Troost-Ekong	position	defender
+William Troost-Ekong	goals	1
+William Troost-Ekong	caps	31
+William Troost-Ekong	age	25
+William Troost-Ekong	jersey	5
+Nigeria	defender	Leon Balogun
+Nigeria	has player	Leon Balogun
+Leon Balogun	position	defender
+Leon Balogun	goals	0
+Leon Balogun	caps	28
+Leon Balogun	age	30
+Leon Balogun	jersey	6
+Nigeria	defender	Ola Aina
+Nigeria	has player	Ola Aina
+Ola Aina	position	defender
+Ola Aina	goals	0
+Ola Aina	caps	8
+Ola Aina	age	22
+Ola Aina	jersey	2
+Nigeria	defender	Jamilu Collins
+Nigeria	has player	Jamilu Collins
+Jamilu Collins	position	defender
+Jamilu Collins	goals	0
+Jamilu Collins	caps	8
+Jamilu Collins	age	24
+Jamilu Collins	jersey	3
+Nigeria	defender	Chidozie Awaziem
+Nigeria	has player	Chidozie Awaziem
+Chidozie Awaziem	position	defender
+Chidozie Awaziem	goals	1
+Chidozie Awaziem	caps	7
+Chidozie Awaziem	age	22
+Chidozie Awaziem	jersey	20
+Nigeria	midfielder	John Obi Mikel 
+Nigeria	has player	John Obi Mikel 
+John Obi Mikel 	position	midfielder
+John Obi Mikel 	goals	6
+John Obi Mikel 	caps	88
+John Obi Mikel 	age	32
+John Obi Mikel 	jersey	10
+Nigeria	midfielder	Ahmed Musa
+Nigeria	has player	Ahmed Musa
+Ahmed Musa	position	midfielder
+Ahmed Musa	goals	17
+Ahmed Musa	caps	82
+Ahmed Musa	age	26
+Ahmed Musa	jersey	7
+Nigeria	midfielder	Alex Iwobi
+Nigeria	has player	Alex Iwobi
+Alex Iwobi	position	midfielder
+Alex Iwobi	goals	5
+Alex Iwobi	caps	29
+Alex Iwobi	age	23
+Alex Iwobi	jersey	18
+Nigeria	midfielder	Wilfred Ndidi
+Nigeria	has player	Wilfred Ndidi
+Wilfred Ndidi	position	midfielder
+Wilfred Ndidi	goals	0
+Wilfred Ndidi	caps	26
+Wilfred Ndidi	age	22
+Wilfred Ndidi	jersey	4
+Nigeria	midfielder	Peter Etebo
+Nigeria	has player	Peter Etebo
+Peter Etebo	position	midfielder
+Peter Etebo	goals	1
+Peter Etebo	caps	26
+Peter Etebo	age	23
+Peter Etebo	jersey	8
+Nigeria	midfielder	Moses Simon
+Nigeria	has player	Moses Simon
+Moses Simon	position	midfielder
+Moses Simon	goals	5
+Moses Simon	caps	24
+Moses Simon	age	23
+Moses Simon	jersey	15
+Nigeria	midfielder	John Ogu
+Nigeria	has player	John Ogu
+John Ogu	position	midfielder
+John Ogu	goals	2
+John Ogu	caps	25
+John Ogu	age	31
+John Ogu	jersey	19
+Nigeria	midfielder	Henry Onyekuru
+Nigeria	has player	Henry Onyekuru
+Henry Onyekuru	position	midfielder
+Henry Onyekuru	goals	2
+Henry Onyekuru	caps	11
+Henry Onyekuru	age	22
+Henry Onyekuru	jersey	11
+Nigeria	midfielder	Samuel Kalu
+Nigeria	has player	Samuel Kalu
+Samuel Kalu	position	midfielder
+Samuel Kalu	goals	1
+Samuel Kalu	caps	7
+Samuel Kalu	age	21
+Samuel Kalu	jersey	17
+Nigeria	forward	Odion Ighalo
+Nigeria	has player	Odion Ighalo
+Odion Ighalo	position	forward
+Odion Ighalo	goals	11
+Odion Ighalo	caps	27
+Odion Ighalo	age	30
+Odion Ighalo	jersey	9
+Nigeria	defender	Elderson Echiejile
+Nigeria	has player	Elderson Echiejile
+Elderson Echiejile	position	defender
+Elderson Echiejile	goals	3
+Elderson Echiejile	caps	62
+Elderson Echiejile	age	31
+Nigeria	midfielder	Ogenyi Onazi
+Nigeria	has player	Ogenyi Onazi
+Ogenyi Onazi	position	midfielder
+Ogenyi Onazi	goals	1
+Ogenyi Onazi	caps	52
+Ogenyi Onazi	age	26

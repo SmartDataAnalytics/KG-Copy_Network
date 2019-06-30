@@ -1,0 +1,8 @@
+{
+    "q1": "show me the nearby hospital",
+    "a1": "stanford_childrens_health is at 899_ames_ct 4_miles away would you like directions there",
+    "q2": "yes sounds good",
+    "a2": "there is heavy_traffic but i picked another route for you i sent all the info on your screen drive carefully",
+    "q3": "thank you",
+    "a3": "you are welcome"
+}

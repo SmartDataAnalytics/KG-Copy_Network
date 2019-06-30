@@ -1,0 +1,10 @@
+{
+    "q1": "directions to coffee and tea house",
+    "a1": "there are two local coffee shops one is 2_miles away and one is 6_miles away which would you prefer",
+    "q2": "pick the one near my current location and avoid all heavy_traffic please",
+    "a2": "philz is 2_miles away but there is moderate_traffic there isn t any traffic on the route to starbucks but it is 6_miles away from your location",
+    "q3": "ok give me the address to philz",
+    "a3": "philz is located at 583_alester_ave",
+    "q4": "thank you car",
+    "a4": "no problem you re welcome"
+}

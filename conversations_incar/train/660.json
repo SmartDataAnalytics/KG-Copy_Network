@@ -1,0 +1,8 @@
+{
+    "q1": "get me directions to the nearest coffee shop",
+    "a1": "the nearest coffee shop is 6_miles away at 792_bedoin_street and there is no_traffic",
+    "q2": "great please find the fastest possible route to get there",
+    "a2": "i ve already set the gps and there is no_traffic now you should reach there in few minutes",
+    "q3": "that s great thank you car",
+    "a3": "happy to help"
+}

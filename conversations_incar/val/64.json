@@ -1,0 +1,14 @@
+{
+    "q1": "find the nearest coffee shop",
+    "a1": "the nearest coffee shop is cafe_venetia on 269_alger_dr",
+    "q2": "ok please direct me there via a route that avoids all heavy_traffic",
+    "a2": "there is a car collision reported on the route to cafe_venetia",
+    "q3": "that is fine just give directions around the traffic",
+    "a3": "unfortunately there is a car_collision_nearby do you want me to set the gps anyway",
+    "q4": "how far away is it",
+    "a4": "2_miles away",
+    "q5": "yes please direct me via the route with least traffic",
+    "a5": "ok setting navigation now",
+    "q6": "thank you car assistant",
+    "a6": "you re very welcome"
+}

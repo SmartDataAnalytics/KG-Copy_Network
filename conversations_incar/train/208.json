@@ -1,0 +1,8 @@
+{
+    "q1": "give me the address of the nearest shopping_center to me with the fastest route to it",
+    "a1": "stanford_shopping_center is 2_miles away at 773_alger_dr",
+    "q2": "is there any traffic",
+    "a2": "there is moderate_traffic on the way to stanford_shopping_center",
+    "q3": "then pick the fastest route and let s go there thank you car",
+    "a3": "i sent on your screen the fastest route to the shopping_center and you re welcome"
+}

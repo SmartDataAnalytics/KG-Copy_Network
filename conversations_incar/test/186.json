@@ -1,0 +1,12 @@
+{
+    "q1": "take me to a place where i can get some hot tea",
+    "a1": "coupa is nearby and serves tea",
+    "q2": "how s the traffic",
+    "a2": "moderate_traffic to coupa",
+    "q3": "give me the address",
+    "a3": "coupa s address is 394_van_ness_ave",
+    "q4": "is there an alternate route with no_traffic",
+    "a4": "no but palo_alto_cafe is just 1_miles away and has moderate_traffic so we should be able to get there quicker how does that sound",
+    "q5": "it sounds great thank you car let s navigate there please",
+    "a5": "ok initiating navigation"
+}

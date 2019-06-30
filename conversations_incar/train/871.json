@@ -1,0 +1,10 @@
+{
+    "q1": "get me the address of a chinese_restaurant around this area",
+    "a1": "the closest chinese_restaurant i have is 4_miles away would you like more info",
+    "q2": "no need it will work fine please pick a route to avoid all heavy_traffic and let s go there",
+    "a2": "setting gps on route to avoid all heavy_traffic",
+    "q3": "thank you what is the address",
+    "a3": "jing_jing s address is 113_arbol_dr",
+    "q4": "thank you car let s go there",
+    "a4": "you re welcome"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "i need directions to my house and avoid all heavy_traffic",
+    "a1": "the only route home has heavy_traffic do you still want to go there",
+    "q2": "yes i have to go home",
+    "a2": "home is 5_miles away at 5671_barringer_street",
+    "q3": "thanks so much",
+    "a3": "you re welcome"
+}

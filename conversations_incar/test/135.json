@@ -1,0 +1,14 @@
+{
+    "q1": "take me to the nearest grocery_store",
+    "a1": "there is a safeway 2_miles away would you like to get its address",
+    "q2": "yes",
+    "a2": "safeway is at 452_arcadia_pl",
+    "q3": "thank you car pick a route with no_traffic and let s go there",
+    "a3": "the only route has moderate_traffic is that going to be okay",
+    "q4": "where is the nearest grocery_store with no_traffic",
+    "a4": "safeway is the only grocery_store listed it has moderate_traffic will that be ok",
+    "q5": "yes please set the gps for there",
+    "a5": "setting destination now",
+    "q6": "thank you",
+    "a6": "you re welcome"
+}

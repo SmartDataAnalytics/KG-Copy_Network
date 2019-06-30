@@ -1,0 +1,10 @@
+{
+    "q1": "i need a rest_stop within a 2_miles radius",
+    "a1": "there is a travelers_lodge one miles away",
+    "q2": "what is the address",
+    "a2": "travelers_lodge 333_arbol_dr",
+    "q3": "set gps for shortest route",
+    "a3": "gps set for shortest route",
+    "q4": "thanks",
+    "a4": "have a good day"
+}

@@ -1,0 +1,8 @@
+{
+    "q1": "give me directions to my friends_house",
+    "a1": "jill lives at 347_alta_mesa_ave which is 5_miles away",
+    "q2": "ok please give me route details with no_traffic",
+    "a2": "in this moment there is moderate_traffic on our way but the house is only 5_miles far you should be able to reach it fast enough",
+    "q3": "thank you very much car",
+    "a3": "you re welcome drive safely"
+}

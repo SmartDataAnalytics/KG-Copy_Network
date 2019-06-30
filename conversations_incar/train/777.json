@@ -1,0 +1,10 @@
+{
+    "q1": "what is the address of my friend s house",
+    "a1": "i have two friend listed which address would you like",
+    "q2": "pick the quickest one please and avoid all heavy_traffic on our route",
+    "a2": "jills_house is the quickest to get to since it is 1_miles away and has only moderate_traffic on route setting gps now",
+    "q3": "what s the address",
+    "a3": "347 alta mesa is the address of jill s house",
+    "q4": "okay perfect let s navigate there",
+    "a4": "setting navigation have a great day"
+}

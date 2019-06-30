@@ -1,0 +1,10 @@
+{
+    "q1": "navigate to the closest restaurant",
+    "a1": "the closest restaurant is a chinese spot that is 5_miles away would you like the name and address of it",
+    "q2": "yes please and avoid all heavy_traffic please",
+    "a2": "it appears the only chinese_restaurant in the area has heavy_traffic do you still want the info",
+    "q3": "yes please thank you",
+    "a3": "chef_chu_s is located at 593_arrowhead_way is that all you needed",
+    "q4": "yes thank you car please set the gps to reach there",
+    "a4": "you re welcome"
+}

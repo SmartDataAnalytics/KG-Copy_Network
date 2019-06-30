@@ -1,0 +1,10 @@
+{
+    "q1": "please give me directions to a nearby parking_garage parking lot",
+    "a1": "we are 2_miles away from dish_parking send you its address on screen",
+    "q2": "yes",
+    "a2": "the address is 550_alester_ave with no_traffic",
+    "q3": "set navigation for quickest route",
+    "a3": "setting navigation for quickest route which has no_traffic",
+    "q4": "thanks so much for the help",
+    "a4": "you re welcome glad i could help"
+}

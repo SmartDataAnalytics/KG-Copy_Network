@@ -1,0 +1,10 @@
+{
+    "q1": "where does my friend live",
+    "a1": "you have two friends listed jill and tom which one",
+    "q2": "the one closest to my location",
+    "a2": "jill s house is 5_miles away but there is a road_block_nearby tom s house is 8_miles away but we should pass through the same road block",
+    "q3": "well jill is closer so let s go there",
+    "a3": "sure i sent the route on your map",
+    "q4": "thank you car",
+    "a4": "anytime"
+}

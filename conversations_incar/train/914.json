@@ -1,0 +1,10 @@
+{
+    "q1": "car i need a parking_garage in the area please find something for me",
+    "a1": "the closest parking_garage is 2_miles away and the name of it is palo_alto_garage_r",
+    "q2": "send me the address now",
+    "a2": "its address is 481_amaranta_ave",
+    "q3": "plot the quickest route to palo alto garage with details",
+    "a3": "unfortunately there is a car_collision_nearby but i sent on your screen another road that should allow you to reach the garage fast enough",
+    "q4": "that s okay thank you car",
+    "a4": "you re welcome"
+}

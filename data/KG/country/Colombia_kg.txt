@@ -1,0 +1,150 @@
+Colombia	coach	Carlos Queiroz
+Colombia	captain	Radamel Falcao
+Colombia	world cup appearance	6 (first in 1962)
+Colombia	world cup Quarter-finals	2014
+Colombia	goalkeeper	David Ospina
+Colombia	has player	David Ospina
+David Ospina	position	goalkeeper
+David Ospina	goals	0
+David Ospina	caps	98
+David Ospina	age	30
+David Ospina	jersey	1
+Colombia	goalkeeper	Camilo Vargas
+Colombia	has player	Camilo Vargas
+Camilo Vargas	position	goalkeeper
+Camilo Vargas	goals	0
+Camilo Vargas	caps	6
+Camilo Vargas	age	30
+Camilo Vargas	jersey	12
+Colombia	defender	Cristian Zapata
+Colombia	has player	Cristian Zapata
+Cristian Zapata	position	defender
+Cristian Zapata	goals	2
+Cristian Zapata	caps	58
+Cristian Zapata	age	32
+Cristian Zapata	jersey	2
+Colombia	defender	Stefan Medina
+Colombia	has player	Stefan Medina
+Stefan Medina	position	defender
+Stefan Medina	goals	0
+Stefan Medina	caps	15
+Stefan Medina	age	27
+Stefan Medina	jersey	3
+Colombia	defender	Santiago Arias
+Colombia	has player	Santiago Arias
+Santiago Arias	position	defender
+Santiago Arias	goals	0
+Santiago Arias	caps	52
+Santiago Arias	age	27
+Santiago Arias	jersey	4
+Colombia	defender	William Tesillo
+Colombia	has player	William Tesillo
+William Tesillo	position	defender
+William Tesillo	goals	1
+William Tesillo	caps	8
+William Tesillo	age	29
+William Tesillo	jersey	6
+Colombia	defender	Yerry Mina
+Colombia	has player	Yerry Mina
+Yerry Mina	position	defender
+Yerry Mina	goals	6
+Yerry Mina	caps	20
+Yerry Mina	age	24
+Yerry Mina	jersey	13
+Colombia	defender	Davinson Sanchez
+Colombia	has player	Davinson Sanchez
+Davinson Sanchez	position	defender
+Davinson Sanchez	goals	0
+Davinson Sanchez	caps	22
+Davinson Sanchez	age	23
+Davinson Sanchez	jersey	23
+Colombia	midfielder	Wilmar Barrios
+Colombia	has player	Wilmar Barrios
+Wilmar Barrios	position	midfielder
+Wilmar Barrios	goals	0
+Wilmar Barrios	caps	24
+Wilmar Barrios	age	25
+Wilmar Barrios	jersey	5
+Colombia	midfielder	Edwin Cardona
+Colombia	has player	Edwin Cardona
+Edwin Cardona	position	midfielder
+Edwin Cardona	goals	5
+Edwin Cardona	caps	36
+Edwin Cardona	age	26
+Edwin Cardona	jersey	8
+Colombia	midfielder	James Rodriguez 
+Colombia	has player	James Rodriguez 
+James Rodriguez 	position	midfielder
+James Rodriguez 	goals	22
+James Rodriguez 	caps	75
+James Rodriguez 	age	27
+James Rodriguez 	jersey	10
+Colombia	midfielder	Juan Cuadrado
+Colombia	has player	Juan Cuadrado
+Juan Cuadrado	position	midfielder
+Juan Cuadrado	goals	8
+Juan Cuadrado	caps	83
+Juan Cuadrado	age	31
+Juan Cuadrado	jersey	11
+Colombia	midfielder	Mateus Uribe
+Colombia	has player	Mateus Uribe
+Mateus Uribe	position	midfielder
+Mateus Uribe	goals	2
+Mateus Uribe	caps	20
+Mateus Uribe	age	28
+Mateus Uribe	jersey	15
+Colombia	midfielder	Jefferson Lerma
+Colombia	has player	Jefferson Lerma
+Jefferson Lerma	position	midfielder
+Jefferson Lerma	goals	0
+Jefferson Lerma	caps	13
+Jefferson Lerma	age	24
+Jefferson Lerma	jersey	16
+Colombia	midfielder	Gustavo Cuellar
+Colombia	has player	Gustavo Cuellar
+Gustavo Cuellar	position	midfielder
+Gustavo Cuellar	goals	1
+Gustavo Cuellar	caps	7
+Gustavo Cuellar	age	26
+Gustavo Cuellar	jersey	18
+Colombia	forward	Duvan Zapata
+Colombia	has player	Duvan Zapata
+Duvan Zapata	position	forward
+Duvan Zapata	goals	3
+Duvan Zapata	caps	12
+Duvan Zapata	age	28
+Duvan Zapata	jersey	7
+Colombia	forward	Radamel Falcao 
+Colombia	has player	Radamel Falcao 
+Radamel Falcao 	position	forward
+Radamel Falcao 	goals	34
+Radamel Falcao 	caps	88
+Radamel Falcao 	age	33
+Radamel Falcao 	jersey	9
+Colombia	forward	Luis Diaz
+Colombia	has player	Luis Diaz
+Luis Diaz	position	forward
+Luis Diaz	goals	1
+Luis Diaz	caps	7
+Luis Diaz	age	22
+Luis Diaz	jersey	14
+Colombia	forward	Luis Muriel
+Colombia	has player	Luis Muriel
+Luis Muriel	position	forward
+Luis Muriel	goals	3
+Luis Muriel	caps	27
+Luis Muriel	age	28
+Luis Muriel	jersey	19
+Colombia	forward	Roger Martinez
+Colombia	has player	Roger Martinez
+Roger Martinez	position	forward
+Roger Martinez	goals	2
+Roger Martinez	caps	11
+Roger Martinez	age	25
+Roger Martinez	jersey	20
+Colombia	forward	Carlos Bacca
+Colombia	has player	Carlos Bacca
+Carlos Bacca	position	forward
+Carlos Bacca	goals	16
+Carlos Bacca	caps	52
+Carlos Bacca	age	32

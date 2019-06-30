@@ -1,0 +1,14 @@
+{
+    "q1": "i need a rest_stop",
+    "a1": "four_seasons hotel_keen and the_clement_hotel are all near",
+    "q2": "which one has the quickest route",
+    "a2": "they are all identical",
+    "q3": "which one has the least traffic",
+    "a3": "the traffic is all identical moderate_traffic to each location",
+    "q4": "okay send me the address to one",
+    "a4": "alright the_clement_hotel is located at 657_ames_ave which is 6_miles away",
+    "q5": "thank you car",
+    "a5": "you re welcome",
+    "q6": "[ end conversation ]",
+    "a6": "you re welcome"
+}

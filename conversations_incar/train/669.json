@@ -1,0 +1,10 @@
+{
+    "q1": "get directions to the nearest parking_garage",
+    "a1": "the nearest parking_garage is 1_miles away at civic_center_garage it s located at 270_altaire_walk",
+    "q2": "how s the traffic there",
+    "a2": "heavy_traffic is on the route to civic_center_garage but is still the best option",
+    "q3": "ok let s go there then",
+    "a3": "setting navigation now to the civic_center_garage",
+    "q4": "thank you",
+    "a4": "you re welcome"
+}

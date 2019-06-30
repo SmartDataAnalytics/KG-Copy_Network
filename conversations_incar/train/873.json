@@ -1,0 +1,8 @@
+{
+    "q1": "find me somewhere to park",
+    "a1": "i have a parking_garage 2_miles away would you like the name and address to it",
+    "q2": "yes please",
+    "a2": "it is palo_alto_garage_r at 481_amaranta_ave",
+    "q3": "thank you car please set a route without traffic to get there",
+    "a3": "i ve picked the fastest possible route follow the directions on the screen and enjoy your driving"
+}

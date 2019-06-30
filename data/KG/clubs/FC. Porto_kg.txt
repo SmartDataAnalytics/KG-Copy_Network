@@ -1,0 +1,109 @@
+FC. Porto	ground	Estádio do DragãoPorto, Portugal
+Estádio do DragãoPorto, Portugal	capacity	50,033
+FC. Porto	chairman	Jorge Nuno Pinto da Costa
+FC. Porto	coach	Sérgio Conceição
+FC. Porto	has player	Iker Casillas
+Iker Casillas	position	goalkeeper
+Iker Casillas	goals	0
+Iker Casillas	caps	116
+Iker Casillas	date of birth	1981-05-20
+Iker Casillas	jersey	1
+Iker Casillas	height	1.82 m
+FC. Porto	has player	Eder Militao
+Eder Militao	position	defender
+Eder Militao	goals	3
+Eder Militao	caps	29
+Eder Militao	date of birth	1998-01-18
+Eder Militao	jersey	3
+Eder Militao	height	1.87 m
+FC. Porto	has player	Vincent Aboubakar
+Vincent Aboubakar	position	forward
+Vincent Aboubakar	goals	36
+Vincent Aboubakar	caps	76
+Vincent Aboubakar	date of birth	1992-01-22
+Vincent Aboubakar	jersey	9
+Vincent Aboubakar	height	1.84 m
+FC. Porto	has player	Oliver Torres
+Oliver Torres	position	midfielder
+Oliver Torres	goals	3
+Oliver Torres	caps	55
+Oliver Torres	date of birth	1994-11-10
+Oliver Torres	jersey	10
+Oliver Torres	height	1.74 m
+FC. Porto	has player	Moussa Marega
+Moussa Marega	position	forward
+Moussa Marega	goals	33
+Moussa Marega	caps	66
+Moussa Marega	date of birth	1991-04-14
+Moussa Marega	jersey	11
+Moussa Marega	height	1.83 m
+FC. Porto	has player	Wilson Manafa
+Wilson Manafa	position	defender
+Wilson Manafa	goals	1
+Wilson Manafa	caps	14
+Wilson Manafa	date of birth	1994-07-23
+Wilson Manafa	jersey	12
+Wilson Manafa	height	1.73 m
+FC. Porto	has player	Alex Telles
+Alex Telles	position	defender
+Alex Telles	goals	8
+Alex Telles	caps	95
+Alex Telles	date of birth	1992-12-15
+Alex Telles	jersey	13
+Alex Telles	height	1.80 m
+FC. Porto	has player	Hector Herrera
+Hector Herrera	position	midfielder
+Hector Herrera	goals	27
+Hector Herrera	caps	164
+Hector Herrera	date of birth	1990-04-19
+Hector Herrera	jersey	16
+Hector Herrera	height	1.80 m
+FC. Porto	has player	Jesus Corona
+Jesus Corona	position	forward
+Jesus Corona	goals	17
+Jesus Corona	caps	117
+Jesus Corona	date of birth	1993-01-06
+Jesus Corona	jersey	17
+Jesus Corona	height	1.74 m
+FC. Porto	has player	Andre Pereira
+Andre Pereira	position	forward
+Andre Pereira	goals	1
+Andre Pereira	caps	10
+Andre Pereira	date of birth	1995-05-05
+Andre Pereira	jersey	21
+Andre Pereira	height	1.88 m
+FC. Porto	has player	Danilo Pereira
+Danilo Pereira	position	midfielder
+Danilo Pereira	goals	13
+Danilo Pereira	caps	106
+Danilo Pereira	date of birth	1991-09-09
+Danilo Pereira	jersey	22
+Danilo Pereira	height	1.88 m
+FC. Porto	has player	Otavio
+Otavio	position	midfielder
+Otavio	goals	5
+Otavio	caps	56
+Otavio	date of birth	1995-02-09
+Otavio	jersey	25
+Otavio	height	1.71 m
+FC. Porto	has player	Tiquinho Soares
+Tiquinho Soares	position	forward
+Tiquinho Soares	goals	35
+Tiquinho Soares	caps	67
+Tiquinho Soares	date of birth	1991-01-17
+Tiquinho Soares	jersey	29
+Tiquinho Soares	height	1.87 m
+FC. Porto	has player	Pepe
+Pepe	position	defender
+Pepe	goals	2
+Pepe	caps	12
+Pepe	date of birth	1983-02-26
+Pepe	jersey	33
+Pepe	height	1.87 m
+FC. Porto	has player	Fernando
+Fernando	position	forward
+Fernando	goals	0
+Fernando	caps	8
+Fernando	date of birth	1993-01-08
+Fernando	jersey	37
+Fernando	height	1.82 m

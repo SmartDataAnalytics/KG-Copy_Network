@@ -1,0 +1,8 @@
+{
+    "q1": "please give me the address and directions to the nearest parking_garage avoiding all heavy_traffic",
+    "a1": "palo_alto_garage_r is 1_miles away at 481_amaranta_ave with moderate_traffic noted",
+    "q2": "ok please give me directions via a route that avoids all heavy_traffic",
+    "a2": "setting fastest route to palo_alto_garage_r",
+    "q3": "thank you car assistant",
+    "a3": "you re welcome"
+}

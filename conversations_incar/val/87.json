@@ -1,0 +1,10 @@
+{
+    "q1": "give me directions to the closest chinese food restaurant",
+    "a1": "the closest chinese_restaurant seems to be p f chang s at 3_miles away with moderate_traffic do you want the address",
+    "q2": "just send it on my screen and let s go there through the quickest route please",
+    "a2": "the address of p_.f_._changs is 669_el_camino_real we should be there shortly",
+    "q3": "pick a route with no_traffic and let s go thank you",
+    "a3": "setting navigation now enjoy",
+    "q4": "thanks for the help",
+    "a4": "you re welcome"
+}

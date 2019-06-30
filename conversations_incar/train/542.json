@@ -1,0 +1,10 @@
+{
+    "q1": "show the route to my friend s house",
+    "a1": "i don t see your friend s house nearby but your house is 4_miles away would you like to go there",
+    "q2": "mmm yes i ll give them a call from home please show me the fastest route to go back thank you",
+    "a2": "the fastest route is 56 caldwell street with moderate_traffic we should be there soon",
+    "q3": "thank you car",
+    "a3": "you re welcome drive carefully",
+    "q4": "[ end conversation ]",
+    "a4": "you are welcome"
+}

@@ -1,0 +1,12 @@
+{
+    "q1": "take me to the nearest hotel",
+    "a1": "the nearest hotel is the_westin 3_miles away",
+    "q2": "give me directions",
+    "a2": "navigating you to the_westin",
+    "q3": "give me the address",
+    "a3": "the_westin is at 329_el_camino_real",
+    "q4": "thank you car just pick the fastest route and let s go there",
+    "a4": "the fastest route has moderate_traffic setting gps now",
+    "q5": "thank you car",
+    "a5": "you are welcome"
+}

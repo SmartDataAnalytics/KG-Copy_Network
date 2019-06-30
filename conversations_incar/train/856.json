@@ -1,0 +1,8 @@
+{
+    "q1": "is there a hospital within 5_miles",
+    "a1": "i have info only about the stanford_express_care hospital but it s 8_miles away",
+    "q2": "pick a route to avoid all heavy_traffic and send it to my map please",
+    "a2": "the route to stanford_express_care is reporting moderate_traffic to 214_el_camino_real gps set",
+    "q3": "thank you car you rock",
+    "a3": "you re welcome drive safely and take care"
+}
