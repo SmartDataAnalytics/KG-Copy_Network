@@ -23,13 +23,6 @@ Giorgio Chiellini	caps	383
 Giorgio Chiellini	date of birth	1984-08-14
 Giorgio Chiellini	jersey	3
 Giorgio Chiellini	height	1.87 m
-Juventus	has player	Martin Caceres
-Martin Caceres	position	defender
-Martin Caceres	goals	0
-Martin Caceres	caps	9
-Martin Caceres	date of birth	1987-04-07
-Martin Caceres	jersey	4
-Martin Caceres	height	1.78 m
 Juventus	has player	Miralem Pjanic
 Miralem Pjanic	position	midfielder
 Miralem Pjanic	goals	12
@@ -79,13 +72,6 @@ Blaise Matuidi	caps	63
 Blaise Matuidi	date of birth	1987-04-09
 Blaise Matuidi	jersey	14
 Blaise Matuidi	height	1.80 m
-Juventus	has player	Andrea Barzagli
-Andrea Barzagli	position	defender
-Andrea Barzagli	goals	2
-Andrea Barzagli	caps	206
-Andrea Barzagli	date of birth	1981-05-08
-Andrea Barzagli	jersey	15
-Andrea Barzagli	height	1.87 m
 Juventus	has player	Juan Cuadrado
 Juan Cuadrado	position	midfielder
 Juan Cuadrado	goals	5
@@ -156,10 +142,3 @@ Federico Bernardeschi	caps	50
 Federico Bernardeschi	date of birth	1994-02-16
 Federico Bernardeschi	jersey	33
 Federico Bernardeschi	height	1.85 m
-Juventus	has player	Leonardo Spinazzola
-Leonardo Spinazzola	position	defender
-Leonardo Spinazzola	goals	0
-Leonardo Spinazzola	caps	10
-Leonardo Spinazzola	date of birth	1993-03-25
-Leonardo Spinazzola	jersey	37
-Leonardo Spinazzola	height	1.86 m

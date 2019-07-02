@@ -2,20 +2,6 @@ Atletico Madrid	ground	Wanda Metropolitano
 Wanda Metropolitano	capacity	67,703
 Atletico Madrid	chairman	Enrique Cerezo
 Atletico Madrid	coach	Diego Simeone
-Atletico Madrid	has player	Diego Godin
-Diego Godin	position	defender
-Diego Godin	goals	17
-Diego Godin	caps	277
-Diego Godin	date of birth	1986-02-16
-Diego Godin	jersey	2
-Diego Godin	height	1.87 m
-Atletico Madrid	has player	Filipe Luis
-Filipe Luis	position	defender
-Filipe Luis	goals	7
-Filipe Luis	caps	113
-Filipe Luis	date of birth	1985-08-09
-Filipe Luis	jersey	3
-Filipe Luis	height	1.82 m
 Atletico Madrid	has player	Santiago Arias
 Santiago Arias	position	defender
 Santiago Arias	goals	1
@@ -93,20 +79,6 @@ Diego Costa	caps	31
 Diego Costa	date of birth	1988-10-07
 Diego Costa	jersey	19
 Diego Costa	height	1.85 m
-Atletico Madrid	has player	Juanfran
-Juanfran	position	defender
-Juanfran	goals	3
-Juanfran	caps	243
-Juanfran	date of birth	1985-01-09
-Juanfran	jersey	20
-Juanfran	height	1.81 m
-Atletico Madrid	has player	Lucas Hernandez
-Lucas Hernandez	position	defender
-Lucas Hernandez	goals	1
-Lucas Hernandez	caps	67
-Lucas Hernandez	date of birth	1996-02-14
-Lucas Hernandez	jersey	21
-Lucas Hernandez	height	1.82 m
 Atletico Madrid	has player	Alvaro Morata
 Alvaro Morata	position	forward
 Alvaro Morata	goals	6
@@ -128,3 +100,17 @@ Jose Gimenez	caps	109
 Jose Gimenez	date of birth	1995-01-20
 Jose Gimenez	jersey	24
 Jose Gimenez	height	1.85 m
+Atletico Madrid	has player	Sime Vrsaljko
+Sime Vrsaljko	position	defender
+Sime Vrsaljko	goals	0
+Sime Vrsaljko	caps	35
+Sime Vrsaljko	date of birth	1992-01-10
+Sime Vrsaljko	jersey	--
+Sime Vrsaljko	height	1.81 m
+Atletico Madrid	has player	Rodrigo
+Rodrigo	position	midfielder
+Rodrigo	goals	3
+Rodrigo	caps	34
+Rodrigo	date of birth	1996-06-23
+Rodrigo	jersey	--
+Rodrigo	height	1.91 m

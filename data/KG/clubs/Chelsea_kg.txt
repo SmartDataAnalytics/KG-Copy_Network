@@ -116,8 +116,8 @@ David Luiz	jersey	30
 David Luiz	height	1.89 m
 Chelsea	has player	Emerson Palmieri
 Emerson Palmieri	position	defender
-Emerson Palmieri	goals	1
-Emerson Palmieri	caps	34
+Emerson Palmieri	goals	0
+Emerson Palmieri	caps	15
 Emerson Palmieri	date of birth	1994-08-03
 Emerson Palmieri	jersey	33
 Emerson Palmieri	height	1.75 m

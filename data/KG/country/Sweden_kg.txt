@@ -112,7 +112,7 @@ Sweden	has player	Kristoffer Olsson
 Kristoffer Olsson	position	midfielder
 Kristoffer Olsson	goals	0
 Kristoffer Olsson	caps	9
-Kristoffer Olsson	age	23
+Kristoffer Olsson	age	24
 Kristoffer Olsson	jersey	20
 Sweden	midfielder	Jimmy Durmaz
 Sweden	has player	Jimmy Durmaz

@@ -14,21 +14,21 @@ Mexico	goalkeeper	Guillermo Ochoa
 Mexico	has player	Guillermo Ochoa
 Guillermo Ochoa	position	goalkeeper
 Guillermo Ochoa	goals	0
-Guillermo Ochoa	caps	104
+Guillermo Ochoa	caps	105
 Guillermo Ochoa	age	33
 Guillermo Ochoa	jersey	13
 Mexico	defender	Nestor Araujo
 Mexico	has player	Nestor Araujo
 Nestor Araujo	position	defender
 Nestor Araujo	goals	3
-Nestor Araujo	caps	33
+Nestor Araujo	caps	34
 Nestor Araujo	age	27
 Nestor Araujo	jersey	2
 Mexico	defender	Carlos Salcedo
 Mexico	has player	Carlos Salcedo
 Carlos Salcedo	position	defender
 Carlos Salcedo	goals	0
-Carlos Salcedo	caps	28
+Carlos Salcedo	caps	29
 Carlos Salcedo	age	25
 Carlos Salcedo	jersey	3
 Mexico	defender	Diego Reyes
@@ -42,7 +42,7 @@ Mexico	defender	Hector Moreno
 Mexico	has player	Hector Moreno
 Hector Moreno	position	defender
 Hector Moreno	goals	4
-Hector Moreno	caps	98
+Hector Moreno	caps	99
 Hector Moreno	age	31
 Hector Moreno	jersey	15
 Mexico	defender	Cesar Montes
@@ -56,28 +56,28 @@ Mexico	defender	Luis Rodriguez
 Mexico	has player	Luis Rodriguez
 Luis Rodriguez	position	defender
 Luis Rodriguez	goals	1
-Luis Rodriguez	caps	14
+Luis Rodriguez	caps	15
 Luis Rodriguez	age	28
 Luis Rodriguez	jersey	21
 Mexico	defender	Jesus Gallardo
 Mexico	has player	Jesus Gallardo
 Jesus Gallardo	position	defender
 Jesus Gallardo	goals	0
-Jesus Gallardo	caps	37
+Jesus Gallardo	caps	38
 Jesus Gallardo	age	24
 Jesus Gallardo	jersey	23
 Mexico	midfielder	Edson Alvarez
 Mexico	has player	Edson Alvarez
 Edson Alvarez	position	midfielder
 Edson Alvarez	goals	1
-Edson Alvarez	caps	24
+Edson Alvarez	caps	25
 Edson Alvarez	age	21
 Edson Alvarez	jersey	4
 Mexico	midfielder	Jonathan dos Santos
 Mexico	has player	Jonathan dos Santos
 Jonathan dos Santos	position	midfielder
 Jonathan dos Santos	goals	2
-Jonathan dos Santos	caps	42
+Jonathan dos Santos	caps	43
 Jonathan dos Santos	age	29
 Jonathan dos Santos	jersey	6
 Mexico	midfielder	Orbelin Pineda
@@ -87,6 +87,13 @@ Orbelin Pineda	goals	1
 Orbelin Pineda	caps	18
 Orbelin Pineda	age	23
 Orbelin Pineda	jersey	7
+Mexico	midfielder	Carlos Rodriguez
+Mexico	has player	Carlos Rodriguez
+Carlos Rodriguez	position	midfielder
+Carlos Rodriguez	goals	0
+Carlos Rodriguez	caps	5
+Carlos Rodriguez	age	22
+Carlos Rodriguez	jersey	8
 Mexico	midfielder	Luis Montes
 Mexico	has player	Luis Montes
 Luis Montes	position	midfielder
@@ -112,21 +119,35 @@ Mexico	midfielder	Andres Guardado
 Mexico	has player	Andres Guardado 
 Andres Guardado 	position	midfielder
 Andres Guardado 	goals	28
-Andres Guardado 	caps	157
+Andres Guardado 	caps	158
 Andres Guardado 	age	32
 Andres Guardado 	jersey	18
+Mexico	midfielder	Uriel Antuna
+Mexico	has player	Uriel Antuna
+Uriel Antuna	position	midfielder
+Uriel Antuna	goals	4
+Uriel Antuna	caps	6
+Uriel Antuna	age	21
+Uriel Antuna	jersey	22
 Mexico	forward	Raul Jimenez
 Mexico	has player	Raul Jimenez
 Raul Jimenez	position	forward
-Raul Jimenez	goals	19
-Raul Jimenez	caps	74
+Raul Jimenez	goals	21
+Raul Jimenez	caps	75
 Raul Jimenez	age	28
 Raul Jimenez	jersey	9
+Mexico	forward	Alexis Vega
+Mexico	has player	Alexis Vega
+Alexis Vega	position	forward
+Alexis Vega	goals	1
+Alexis Vega	caps	5
+Alexis Vega	age	21
+Alexis Vega	jersey	14
 Mexico	forward	Rodolfo Pizarro
 Mexico	has player	Rodolfo Pizarro
 Rodolfo Pizarro	position	forward
 Rodolfo Pizarro	goals	4
-Rodolfo Pizarro	caps	18
+Rodolfo Pizarro	caps	19
 Rodolfo Pizarro	age	25
 Rodolfo Pizarro	jersey	20
 Mexico	goalkeeper	Jose de Jesus Corona

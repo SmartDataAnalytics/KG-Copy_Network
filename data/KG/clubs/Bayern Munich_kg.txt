@@ -16,13 +16,6 @@ Niklas Sule	caps	58
 Niklas Sule	date of birth	1995-09-03
 Niklas Sule	jersey	4
 Niklas Sule	height	1.95 m
-Bayern Munich	has player	Mats Hummels
-Mats Hummels	position	defender
-Mats Hummels	goals	3
-Mats Hummels	caps	74
-Mats Hummels	date of birth	1988-12-16
-Mats Hummels	jersey	5
-Mats Hummels	height	1.92 m
 Bayern Munich	has player	Thiago
 Thiago	position	midfielder
 Thiago	goals	14
@@ -30,13 +23,6 @@ Thiago	caps	126
 Thiago	date of birth	1991-04-11
 Thiago	jersey	6
 Thiago	height	1.74 m
-Bayern Munich	has player	Franck Ribery
-Franck Ribery	position	midfielder
-Franck Ribery	goals	86
-Franck Ribery	caps	273
-Franck Ribery	date of birth	1983-04-07
-Franck Ribery	jersey	7
-Franck Ribery	height	1.70 m
 Bayern Munich	has player	Javi Martinez
 Javi Martinez	position	defender
 Javi Martinez	goals	9
@@ -51,27 +37,6 @@ Robert Lewandowski	caps	159
 Robert Lewandowski	date of birth	1988-08-21
 Robert Lewandowski	jersey	9
 Robert Lewandowski	height	1.85 m
-Bayern Munich	has player	Arjen Robben
-Arjen Robben	position	midfielder
-Arjen Robben	goals	99
-Arjen Robben	caps	201
-Arjen Robben	date of birth	1984-01-23
-Arjen Robben	jersey	10
-Arjen Robben	height	1.80 m
-Bayern Munich	has player	James Rodriguez
-James Rodriguez	position	midfielder
-James Rodriguez	goals	14
-James Rodriguez	caps	43
-James Rodriguez	date of birth	1991-07-12
-James Rodriguez	jersey	11
-James Rodriguez	height	1.80 m
-Bayern Munich	has player	Rafinha
-Rafinha	position	defender
-Rafinha	goals	5
-Rafinha	caps	179
-Rafinha	date of birth	1985-09-07
-Rafinha	jersey	13
-Rafinha	height	1.71 m
 Bayern Munich	has player	Jerome Boateng
 Jerome Boateng	position	defender
 Jerome Boateng	goals	4

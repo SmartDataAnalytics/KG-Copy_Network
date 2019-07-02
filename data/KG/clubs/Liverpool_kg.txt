@@ -2,6 +2,13 @@ Liverpool	ground	Anfield
 Anfield	capacity	54,074
 Liverpool	chairman	Tom Werner
 Liverpool	coach	Jürgen Klopp
+Liverpool	has player	Alisson
+Alisson	position	goalkeeper
+Alisson	goals	0
+Alisson	caps	38
+Alisson	date of birth	1992-10-02
+Alisson	jersey	1
+Alisson	height	1.93 m
 Liverpool	has player	Nathaniel Clyne
 Nathaniel Clyne	position	defender
 Nathaniel Clyne	goals	1
@@ -79,13 +86,6 @@ Joe Gomez	caps	44
 Joe Gomez	date of birth	1997-05-23
 Joe Gomez	jersey	12
 Joe Gomez	height	1.88 m
-Liverpool	has player	Alisson
-Alisson	position	goalkeeper
-Alisson	goals	0
-Alisson	caps	38
-Alisson	date of birth	1992-10-02
-Alisson	jersey	13
-Alisson	height	1.93 m
 Liverpool	has player	Jordan Henderson
 Jordan Henderson	position	midfielder
 Jordan Henderson	goals	22
@@ -93,27 +93,13 @@ Jordan Henderson	caps	239
 Jordan Henderson	date of birth	1990-06-17
 Jordan Henderson	jersey	14
 Jordan Henderson	height	1.82 m
-Liverpool	has player	Daniel Sturridge
-Daniel Sturridge	position	forward
-Daniel Sturridge	goals	50
-Daniel Sturridge	caps	116
-Daniel Sturridge	date of birth	1989-09-01
-Daniel Sturridge	jersey	15
-Daniel Sturridge	height	1.88 m
-Liverpool	has player	Marko Grujic
-Marko Grujic	position	midfielder
-Marko Grujic	goals	0
-Marko Grujic	caps	8
-Marko Grujic	date of birth	1996-04-13
-Marko Grujic	jersey	16
-Marko Grujic	height	1.90 m
-Liverpool	has player	Alberto Moreno
-Alberto Moreno	position	defender
-Alberto Moreno	goals	3
-Alberto Moreno	caps	90
-Alberto Moreno	date of birth	1992-07-05
-Alberto Moreno	jersey	18
-Alberto Moreno	height	1.71 m
+Liverpool	has player	Alex Oxlade-Chamberlain
+Alex Oxlade-Chamberlain	position	midfielder
+Alex Oxlade-Chamberlain	goals	3
+Alex Oxlade-Chamberlain	caps	34
+Alex Oxlade-Chamberlain	date of birth	1993-08-15
+Alex Oxlade-Chamberlain	jersey	15
+Alex Oxlade-Chamberlain	height	1.80 m
 Liverpool	has player	Adam Lallana
 Adam Lallana	position	midfielder
 Adam Lallana	goals	17
@@ -121,13 +107,6 @@ Adam Lallana	caps	113
 Adam Lallana	date of birth	1988-05-10
 Adam Lallana	jersey	20
 Adam Lallana	height	1.72 m
-Liverpool	has player	Alex Oxlade-Chamberlain
-Alex Oxlade-Chamberlain	position	midfielder
-Alex Oxlade-Chamberlain	goals	3
-Alex Oxlade-Chamberlain	caps	34
-Alex Oxlade-Chamberlain	date of birth	1993-08-15
-Alex Oxlade-Chamberlain	jersey	21
-Alex Oxlade-Chamberlain	height	1.80 m
 Liverpool	has player	Simon Mignolet
 Simon Mignolet	position	goalkeeper
 Simon Mignolet	goals	0
@@ -164,7 +143,7 @@ Joel Matip	date of birth	1991-08-08
 Joel Matip	jersey	32
 Joel Matip	height	1.95 m
 Liverpool	has player	Ben Woodburn
-Ben Woodburn	position	forward
+Ben Woodburn	position	midfielder
 Ben Woodburn	goals	0
 Ben Woodburn	caps	6
 Ben Woodburn	date of birth	1999-10-15

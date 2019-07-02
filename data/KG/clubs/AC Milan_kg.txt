@@ -9,13 +9,6 @@ Davide Calabria	caps	66
 Davide Calabria	date of birth	1996-12-06
 Davide Calabria	jersey	2
 Davide Calabria	height	1.77 m
-AC Milan	has player	Jose Mauri
-Jose Mauri	position	midfielder
-Jose Mauri	goals	0
-Jose Mauri	caps	11
-Jose Mauri	date of birth	1996-05-16
-Jose Mauri	jersey	4
-Jose Mauri	height	1.69 m
 AC Milan	has player	Giacomo Bonaventura
 Giacomo Bonaventura	position	midfielder
 Giacomo Bonaventura	goals	27
@@ -65,34 +58,6 @@ Alessio Romagnoli	caps	121
 Alessio Romagnoli	date of birth	1995-01-13
 Alessio Romagnoli	jersey	13
 Alessio Romagnoli	height	1.88 m
-AC Milan	has player	Tiemoue Bakayoko
-Tiemoue Bakayoko	position	midfielder
-Tiemoue Bakayoko	goals	1
-Tiemoue Bakayoko	caps	31
-Tiemoue Bakayoko	date of birth	1994-08-17
-Tiemoue Bakayoko	jersey	14
-Tiemoue Bakayoko	height	1.89 m
-AC Milan	has player	Andrea Bertolacci
-Andrea Bertolacci	position	midfielder
-Andrea Bertolacci	goals	2
-Andrea Bertolacci	caps	44
-Andrea Bertolacci	date of birth	1991-01-11
-Andrea Bertolacci	jersey	16
-Andrea Bertolacci	height	1.79 m
-AC Milan	has player	Cristian Zapata
-Cristian Zapata	position	defender
-Cristian Zapata	goals	3
-Cristian Zapata	caps	111
-Cristian Zapata	date of birth	1986-09-30
-Cristian Zapata	jersey	17
-Cristian Zapata	height	1.87 m
-AC Milan	has player	Riccardo Montolivo
-Riccardo Montolivo	position	midfielder
-Riccardo Montolivo	goals	8
-Riccardo Montolivo	caps	129
-Riccardo Montolivo	date of birth	1985-01-18
-Riccardo Montolivo	jersey	18
-Riccardo Montolivo	height	1.82 m
 AC Milan	has player	Krzysztof Piatek
 Krzysztof Piatek	position	forward
 Krzysztof Piatek	goals	9
@@ -100,13 +65,6 @@ Krzysztof Piatek	caps	18
 Krzysztof Piatek	date of birth	1995-07-01
 Krzysztof Piatek	jersey	19
 Krzysztof Piatek	height	1.83 m
-AC Milan	has player	Ignazio Abate
-Ignazio Abate	position	defender
-Ignazio Abate	goals	3
-Ignazio Abate	caps	243
-Ignazio Abate	date of birth	1986-11-12
-Ignazio Abate	jersey	20
-Ignazio Abate	height	1.80 m
 AC Milan	has player	Lucas Biglia
 Lucas Biglia	position	midfielder
 Lucas Biglia	goals	2
@@ -142,13 +100,6 @@ Ricardo Rodriguez	caps	69
 Ricardo Rodriguez	date of birth	1992-08-25
 Ricardo Rodriguez	jersey	68
 Ricardo Rodriguez	height	1.80 m
-AC Milan	has player	Franck Kessie
-Franck Kessie	position	midfielder
-Franck Kessie	goals	12
-Franck Kessie	caps	71
-Franck Kessie	date of birth	1996-12-19
-Franck Kessie	jersey	79
-Franck Kessie	height	1.83 m
 AC Milan	has player	Gianluigi Donnarumma
 Gianluigi Donnarumma	position	goalkeeper
 Gianluigi Donnarumma	goals	0
@@ -156,3 +107,9 @@ Gianluigi Donnarumma	caps	142
 Gianluigi Donnarumma	date of birth	1999-02-25
 Gianluigi Donnarumma	jersey	99
 Gianluigi Donnarumma	height	1.96 m
+AC Milan	has player	Andre Silva
+Andre Silva	position	forward
+Andre Silva	goals	2
+Andre Silva	caps	24
+Andre Silva	date of birth	1995-11-06
+Andre Silva	height	1.84 m

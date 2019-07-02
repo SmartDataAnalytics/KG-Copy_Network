@@ -1,9 +1,7 @@
 Nigeria	coach	Gernot Rohr
 Nigeria	captain	John Mikel Obi
 Nigeria	world cup appearance	6 (first in 1994)
-Nigeria	world cup Round of 16	1994
-Nigeria	world cup Round of 16	 1998
-Nigeria	world cup Round of 16	 2014
+Nigeria	world cup Round of 16	9th overall
 Nigeria	goalkeeper	Ikechukwu Ezenwa
 Nigeria	has player	Ikechukwu Ezenwa
 Ikechukwu Ezenwa	position	goalkeeper

@@ -128,10 +128,3 @@ Samuel Umtiti	caps	63
 Samuel Umtiti	date of birth	1993-11-14
 Samuel Umtiti	jersey	23
 Samuel Umtiti	height	1.82 m
-Barcelona	has player	Thomas Vermaelen
-Thomas Vermaelen	position	defender
-Thomas Vermaelen	goals	1
-Thomas Vermaelen	caps	34
-Thomas Vermaelen	date of birth	1985-11-14
-Thomas Vermaelen	jersey	24
-Thomas Vermaelen	height	1.83 m

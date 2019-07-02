@@ -3,11 +3,11 @@ import numpy as np
 
 def navigate_to_conv_n_kg():
     dataset_types = ["val","test","train"]
-    entity_f = open("../data/kvr_entities_incar.txt","w",encoding="utf-8")
+    entity_f = open("data/kvr_entities_incar.txt","w",encoding="utf-8")
     entity_list = set()
-    data_dir = "../data/KVR/"
-    incar_kg_dir = "../data/KG/incar/"
-    incar_conv_dir = "../conversations_incar/"
+    data_dir = "data/KVR/"
+    incar_kg_dir = "data/KG/incar/"
+    incar_conv_dir = "conversations_incar/"
     hit_team_maps = dict()
     kg_id = 0
     for dataset_type in dataset_types:
@@ -65,5 +65,6 @@ def navigate_to_conv_n_kg():
     entity_f.close()
 
 
-
+print("Building in car data")
 navigate_to_conv_n_kg()
+print("Done!")

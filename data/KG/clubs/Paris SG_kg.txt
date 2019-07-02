@@ -69,9 +69,9 @@ Paris SG	has player	Angel Di Maria
 Angel Di Maria	position	midfielder
 Angel Di Maria	goals	39
 Angel Di Maria	caps	117
-Angel Di Maria	date of birth	1988-02-14
+Angel Di Maria	date of birth	1994-02-14
 Angel Di Maria	jersey	11
-Angel Di Maria	height	1.80 m
+Angel Di Maria	height	1.90 m
 Paris SG	has player	Thomas Meunier
 Thomas Meunier	position	defender
 Thomas Meunier	goals	8
@@ -114,6 +114,13 @@ Julian Draxler	caps	75
 Julian Draxler	date of birth	1993-09-20
 Julian Draxler	jersey	23
 Julian Draxler	height	1.85 m
+Paris SG	has player	Christopher Nkunku
+Christopher Nkunku	position	midfielder
+Christopher Nkunku	goals	8
+Christopher Nkunku	caps	55
+Christopher Nkunku	date of birth	1997-11-14
+Christopher Nkunku	jersey	24
+Christopher Nkunku	height	1.75 m
 Paris SG	has player	Colin Dagba
 Colin Dagba	position	defender
 Colin Dagba	goals	0
@@ -128,3 +135,17 @@ Stanley Nsoki	caps	13
 Stanley Nsoki	date of birth	1999-04-09
 Stanley Nsoki	jersey	34
 Stanley Nsoki	height	1.78 m
+Paris SG	has player	Kevin Trapp
+Kevin Trapp	position	goalkeeper
+Kevin Trapp	goals	0
+Kevin Trapp	caps	63
+Kevin Trapp	date of birth	1990-07-08
+Kevin Trapp	jersey	--
+Kevin Trapp	height	1.89 m
+Paris SG	has player	Jese
+Jese	position	forward
+Jese	goals	1
+Jese	caps	9
+Jese	date of birth	1993-02-26
+Jese	jersey	--
+Jese	height	1.78 m

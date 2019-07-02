@@ -1,9 +1,7 @@
 Switzerland	coach	Vladimir Petković
 Switzerland	captain	Stephan Lichtsteiner
 Switzerland	world cup appearance	11 (first in 1934)
-Switzerland	world cup Quarter-finals	1934
-Switzerland	world cup Quarter-finals	 1938
-Switzerland	world cup Quarter-finals	 1954
+Switzerland	world cup Quarter-finals	7th place
 Switzerland	goalkeeper	Yann Sommer
 Switzerland	has player	Yann Sommer
 Yann Sommer	position	goalkeeper
