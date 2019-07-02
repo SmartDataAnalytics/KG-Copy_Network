@@ -39,7 +39,7 @@ IGONRE_PLAYER_STATE = ["INJ","OTH","SUS","PRE","RET"]
 def create_KG(players_info,team_name,side_bar):
     team_name= team_name[team_name.rfind("/")+1:]
     team_name = teamname_mapping[team_name]
-    file = io.open("data/KG/clubs/"+team_name + "_kg.txt", "w", encoding="utf-8")
+    file = io.open("../data/KG/clubs/"+team_name + "_kg.txt", "w", encoding="utf-8")
 
     # (club_name, "ground", name_of_ground)
     file.write(team_name + "\t" + "ground" + "\t" + side_bar[0] + "\n")

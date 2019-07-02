@@ -66,7 +66,7 @@ def create_KG(players_info,team_name):
     # Saving infos related to Team
     team_name= team_name[:team_name.find("_")]
     country = team_name
-    file = io.open("data/KG/country/"+team_name + "_kg.txt", "w", encoding="utf-8")
+    file = io.open("../data/KG/country/"+team_name + "_kg.txt", "w", encoding="utf-8")
     # (country,"coach",head_coach)
     file.write(country + "\t" + "coach" + "\t" + head_coach+"\n")
 
