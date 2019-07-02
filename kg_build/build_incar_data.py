@@ -7,7 +7,7 @@ def navigate_to_conv_n_kg():
     entity_list = set()
     data_dir = "data/KVR/"
     incar_kg_dir = "data/KG/incar/"
-    incar_conv_dir = "conversations_incar/"
+    incar_conv_dir = "incar_conversations/"
     hit_team_maps = dict()
     kg_id = 0
     for dataset_type in dataset_types:

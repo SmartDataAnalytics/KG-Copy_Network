@@ -32,7 +32,7 @@ kg_country = 'data/KG/country/'
 #output directories
 out_dir = 'preproc_files/soccer/'
 correct_pos = ['NOUN', 'PROPN', 'ADJ', 'NUM', 'VERB']
-hit2team_maps = np.load('conversations/hit_team_maps.npy',allow_pickle=True).item()
+hit2team_maps = np.load('soccer_conversations/hit_team_maps.npy',allow_pickle=True).item()
 team_kgs = {}
 kg2idx_map = defaultdict(dict)
 f=open('replaced.txt', 'w')

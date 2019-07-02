@@ -45,7 +45,7 @@ def clean_str(string):
 
 
 def read_conversations(file_n):
-    # read a conversations from the file
+    # read a soccer_conversations from the file
     queries = []
     answers = []
     with open(file_n, 'r', encoding='utf-8') as fp:
@@ -74,7 +74,7 @@ def read_kg(file_n):
 
 def create_w2i(train_path):
 
-    #Read all conversations
+    #Read all soccer_conversations
     all_sents = []
     ques, ans = read_conversations(train_path)
     for q in ques:

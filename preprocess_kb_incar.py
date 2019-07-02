@@ -31,7 +31,7 @@ kg_incar = 'data/KG/incar/'
 #output directories
 out_dir = 'preproc_files/incar/'
 correct_pos = ['NOUN', 'PROPN', 'ADJ', 'NUM', 'VERB']
-hit2team_maps = np.load('conversations_incar/hit_team_maps.npy',allow_pickle=True).item()
+hit2team_maps = np.load('incar_conversations/hit_team_maps.npy',allow_pickle=True).item()
 team_kgs = {}
 kg2idx_map = defaultdict(dict)
 f=open('replaced.txt', 'w')
@@ -339,19 +339,19 @@ def getsent2i(sent):
 def get_all_conv(dataset='train'):
     if dataset == 'val':
         print("---------------------------------------------------------------------VAL STARTED-------------------------------------------------",dataset)
-        in_f = 'conversations_incar/val/'
+        in_f = 'incar_conversations/val/'
         dialogue_f = os.listdir(in_f)
         out_dial = [read_json(in_f + d_f) for d_f in dialogue_f]
         print("---------------------------------------------------------------------VAL DONE-------------------------------------------------")
     elif dataset == 'test':
         print("---------------------------------------------------------------------TEST STARTED-------------------------------------------------",dataset)
-        in_f = 'conversations_incar/test/'
+        in_f = 'incar_conversations/test/'
         dialogue_f = os.listdir(in_f)
         out_dial = [read_json(in_f + d_f) for d_f in dialogue_f]
         print("---------------------------------------------------------------------TEST DONE-------------------------------------------------")
     elif dataset == 'train':
         print("---------------------------------------------------------------------TRAIN STARTED-------------------------------------------------",dataset)
-        in_f = 'conversations_incar/train/'
+        in_f = 'incar_conversations/train/'
         dialogue_f = os.listdir(in_f)
         out_dial = [read_json(in_f + d_f) for d_f in dialogue_f]
         print("---------------------------------------------------------------------TRAIN DONE-------------------------------------------------")
