@@ -27,7 +27,7 @@ python kg_build/build_incar_data.py
 ```
 Running the commands will generate 'glove300.npy','vocab.npy','w2i.npy' files inside 'vocab/' directory
 
-#### Generating train/test/dev data from AMT data (conversations) 
+#### Generating train/test/dev data from AMT data (soccer conversations) 
 To create and preprocess train-test-dev data, run the following command (Train, test, validation data are already pre-processed and generated inside \preproc_files  directory).
 No need to preprocess again if you just want to train/test the model.
 ```
