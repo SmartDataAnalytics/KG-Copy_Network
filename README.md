@@ -11,7 +11,7 @@
 ## Pre-processing:
 
 #### Building Knowledge Graph:
-Running the following code will download information from wikipedia and will create a Knowledge Graphs for clubs and national teams respectively (names of the selected clubs and national teams are currently hard-coded into the 'build_KG_clubs.py','build_KG_national_teams.py' files:
+Running the following code will download information from wikipedia and will create a Knowledge Graphs for clubs and national teams respectively. Names of the selected clubs and national teams are currently hard-coded into the 'build_KG_clubs.py','build_KG_national_teams.py' files:
 ```
 python kg_build/build_KG_clubs.py
 python kg_build/build_KG_national_teams.py
@@ -48,7 +48,7 @@ For Soccer Domain:
 python -u ./train_kg_copy.py --batch_size 64 --hidden_size 512 --teacher_forcing 12 --resp_len 20 --lr 0.0001 --num_layer 1 --gpu 1 --epochs 300 --data_dir preproc_files/soccer/
 ```
 
-For incar_settings:
+For incar settings:
 ```
 python -u ./train_kg_copy_incar.py --batch_size 64 --hidden_size 512 --teacher_forcing 12 --resp_len 20 --lr 0.0001 --num_layer 1 --gpu 1 --epochs 300 --data_dir preproc_files/incar/ --stoi vocab/w2i_incar.npy --vocab_glove vocab/glove300_incar.npy
 ```

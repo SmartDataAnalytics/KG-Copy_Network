@@ -7,3 +7,5 @@ sklearn
 pandas
 fuzzywuzzy
 beautifulsoup4
+seaborn
+nltk

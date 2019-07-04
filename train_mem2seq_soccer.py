@@ -1,9 +1,3 @@
-import numpy as np
-import logging 
-from tqdm import tqdm
-
-from utils.config import *
-from models.KGSentientModel import *
 from models.Mem2Seq import *
 
 BLEU = False
@@ -21,10 +15,9 @@ else:
     else: 
         print("You need to provide the --dataset information")
 
-# Configure models
+
 avg_best,cnt,acc = 0.0,0,0.0
-cnt_1 = 0   
-### LOAD DATA
+cnt_1 = 0
 train, dev, test, testOOV, lang, max_len, max_r = prepare_data_seq(args['task'],batch_size=int(args['batch']),shuffle=True)
 
 if args['decoder'] == "Mem2Seq":
