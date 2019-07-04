@@ -1,5 +1,5 @@
 # Using a KG-Copy Network for Non-Goal Oriented Dialogues
-<img src="https://github.com/SmartDataAnalytics/KG-Copy_Network/blob/master/img/kg_copy.png" height="200" width="200">
+<img src="https://github.com/SmartDataAnalytics/KG-Copy_Network/blob/master/img/kg_copy.png" height="500" width="700">
 
 ## Requirements
 - python 3.6
