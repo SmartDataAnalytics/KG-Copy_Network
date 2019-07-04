@@ -153,7 +153,7 @@ if __name__=="__main__":
         path = "soccer_conversations/"+dataset_type
         onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
         if dataset_type=="val":
-            save2file = open("data/KVR/dev.txt","w+",encoding="utf-8")
+            save2file = open("data/KVR/val.txt","w+",encoding="utf-8")
         else:
             save2file = open("data/KVR/"+dataset_type+".txt","w+",encoding="utf-8")
         count = 0
