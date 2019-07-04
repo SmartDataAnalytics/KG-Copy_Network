@@ -35,7 +35,7 @@ python -m spacy download en_core_web_sm
 python -m spacy download en
 python -m spacy download en_core_web_lg
 
-python preprocess_kb_2.py --data_dir conversations/
+python preprocess_kb_2.py --data_dir soccer_conversations/
 python utils/generate_entities_soccer.py
 ```
 
