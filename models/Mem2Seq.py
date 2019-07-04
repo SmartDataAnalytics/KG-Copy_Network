@@ -131,8 +131,8 @@ class Mem2Seq(nn.Module):
                 all_decoder_outputs_vocab[t] = decoder_vacab
                 all_decoder_outputs_ptr[t] = decoder_ptr
                 ## get the correspective word in input
-                top_ptr_i = torch.gather(input_batches[:,:,0],0,Variable(toppi.view(1, -1)))
-                next_in = [top_ptr_i.squeeze()[i].data[0] if(toppi.squeeze()[i] < input_lengths[i]-1) else topvi.squeeze()[i] for i in range(batch_size)]
+                top_ptr_i = torch.gather(input_batches[:,:,0],0,Variable(toppi.view(1, -1))).transpose(0,1)
+                next_in = [top_ptr_i[i].item() if(toppi[i].item() < input_lengths[i]-1) else topvi[i].item() for i in range(batch_size)]
                 decoder_input = Variable(torch.LongTensor(next_in)) # Chosen word is next input
                 if USE_CUDA: decoder_input = decoder_input.cuda()
                   
@@ -157,9 +157,9 @@ class Mem2Seq(nn.Module):
         # Update parameters with optimizers
         self.encoder_optimizer.step()
         self.decoder_optimizer.step()
-        self.loss += loss.data[0]
-        self.loss_ptr += loss_Ptr.data[0]
-        self.loss_vac += loss_Vocab.data[0]
+        self.loss += loss.item()
+        self.loss_ptr += loss_Ptr.item()
+        self.loss_vac += loss_Vocab.item()
         
     def evaluate_batch(self,batch_size,input_batches, input_lengths, target_batches, target_lengths, target_index,target_gate,src_plain):  
         # Set to not-training mode to disable dropout
@@ -198,8 +198,8 @@ class Mem2Seq(nn.Module):
             topv, topvi = decoder_vacab.data.topk(1)
             all_decoder_outputs_ptr[t] = decoder_ptr
             topp, toppi = decoder_ptr.data.topk(1)
-            top_ptr_i = torch.gather(input_batches[:,:,0],0,Variable(toppi.view(1, -1)))    
-            next_in = [top_ptr_i.squeeze()[i].data[0] if(toppi.squeeze()[i] < input_lengths[i]-1) else topvi.squeeze()[i] for i in range(batch_size)]
+            top_ptr_i = torch.gather(input_batches[:,:,0],0,Variable(toppi.view(1, -1))).transpose(0,1)
+            next_in = [top_ptr_i[i].item() if(toppi[i].item() < input_lengths[i]-1) else topvi[i].item() for i in range(batch_size)]
 
             decoder_input = Variable(torch.LongTensor(next_in)) # Chosen word is next input
             if USE_CUDA: decoder_input = decoder_input.cuda()
@@ -207,15 +207,19 @@ class Mem2Seq(nn.Module):
             temp = []
             from_which = []
             for i in range(batch_size):
-                if(toppi.squeeze()[i] < len(p[i])-1 ):
-                    temp.append(p[i][toppi.squeeze()[i]])
+                if(toppi[i].item() < len(p[i])-1 ):
+                    temp.append(p[i][toppi[i].item()])
                     from_which.append('p')
                 else:
-                    ind = topvi.squeeze()[i]
+                    ind = topvi[i].item()
                     if ind == EOS_token:
                         temp.append('<EOS>')
                     else:
-                        temp.append(self.lang.index2word[ind])
+                        try:
+                            temp.append(self.lang.index2word[ind])
+                        except KeyError:
+                            print(ind)
+                            exit()
                     from_which.append('v')
             decoded_words.append(temp)
             self.from_whichs.append(from_which)
@@ -259,15 +263,10 @@ class Mem2Seq(nn.Module):
         dialog_acc_dict = {}
         global_entity_list = set()
         if args['dataset'] == 'kvr':
-            with open('data/kvr_entities.txt','r',encoding="utf-8") as f:
+            with open('data/soccer_entities.txt','r',encoding="utf-8") as f:
                 for line in f:
                     global_entity_list.add(line.strip())
             global_entity_list = list(global_entity_list)
-        else:
-            if int(args["task"])!=6:
-                global_entity_list = entityList('data/dialog-bAbI-tasks/dialog-babi-kb-all.txt',int(args["task"]))
-            else:
-                global_entity_list = entityList('data/dialog-bAbI-tasks/dialog-babi-task6-dstc2-kb.txt',int(args["task"]))
 
         pbar = tqdm(enumerate(dev),total=len(dev))
         for j, data_dev in pbar: 

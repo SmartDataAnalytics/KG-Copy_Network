@@ -54,8 +54,6 @@ python train_mem2seq_soccer.py -lr=0.001 -layer=1 -hdd=128 -dr=0.2 -dec=Mem2Seq 
 ```
 
 
-
-
 For incar settings:
 ```
 python -u ./train_kg_copy_incar.py --batch_size 64 --hidden_size 512 --teacher_forcing 12 --resp_len 20 --lr 0.0001 --num_layer 1 --gpu 1 --epochs 300 --data_dir preproc_files/incar/ --stoi vocab/w2i_incar.npy --vocab_glove vocab/glove300_incar.npy
