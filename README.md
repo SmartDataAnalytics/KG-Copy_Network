@@ -52,6 +52,9 @@ python -u ./train_kg_copy.py --batch_size 64 --hidden_size 512 --teacher_forcing
 ```
 python train_mem2seq_soccer.py -lr=0.001 -layer=1 -hdd=128 -dr=0.2 -dec=Mem2Seq -bsz=8 -ds=kvr -t=
 ```
+```
+python train_vanilla_soccer.py -lr=0.01 -layer=1 -hdd=16 -dr=0.2 -dec=VanillaSeqToSeq -bsz=8 -ds=kvr -t=
+```
 
 
 For incar settings:

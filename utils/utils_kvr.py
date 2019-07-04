@@ -240,7 +240,7 @@ def get_seq(pairs, lang, batch_size, type, max_len):
 
 def prepare_data_seq(task, batch_size=100, shuffle=True):
     file_train = 'data/KVR/{}train.txt'.format(task)
-    file_dev = 'data/KVR/{}dev.txt'.format(task)
+    file_dev = 'data/KVR/{}val.txt'.format(task)
     file_test = 'data/KVR/{}test.txt'.format(task)
 
     pair_train, max_len_train, max_r_train = read_langs(file_train, max_line=None)
