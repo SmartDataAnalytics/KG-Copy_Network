@@ -16,6 +16,9 @@ Running the following code will download information from wikipedia and will cre
 ```
 python kg_build/build_KG_clubs.py
 python kg_build/build_KG_national_teams.py
+
+python kg_build/build_incar_data.py
+python kg_build/build_dataset_KVR.py
 ```
 
 #### Building vocabulary:
@@ -24,8 +27,6 @@ In order to build a vocabulary for the system, run the following command. Runnin
 wget https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec
 mv wiki.en.vec vocab/
 python create_vocab_kb.py
-python kg_build/build_incar_data.py
-python kg_build/build_dataset_KVR.py
 ```
 Running the commands will generate 'glove300.npy','vocab.npy','w2i.npy' files inside 'vocab/' directory
 
