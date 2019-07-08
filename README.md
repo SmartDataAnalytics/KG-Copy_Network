@@ -49,7 +49,7 @@ Pre-processing is not required if you just want to train/test the model at this 
 
 For Soccer Domain:
 ```
-python -u ./train_kg_copy.py --batch_size 32 --hidden_size 64 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --gpu 1 --epochs 150 --data_dir preproc_files/soccer/
+python -u ./train_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --gpu 1 --epochs 150 --data_dir preproc_files/soccer/
 ```
 
 ```

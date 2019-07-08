@@ -110,7 +110,8 @@ def train():
     emb_val = -1000
 
     global_entity_list = []
-
+    best_blue = 0.0
+    f1_sc = 0.0
     for epoch in range(args.epochs):
         epsilon = 0.000000001
         model.train()
@@ -194,12 +195,15 @@ def train():
         f1 = f1_score/len(val_iter)
         print("F1 score: ", f1)
         #ea = moses_bleu
-        if f1 > emb_val:
-            emb_val = f1
-            print ('Saving best model')
-            save_model(model, model_name)
-        else:
-            print ('Not saving the model. Best validation moses bleu so far:{:.4f}'.format(emb_val))
+        if moses_bleu is not None:
+            if moses_bleu>best_blue:
+                best_blue=moses_bleu
+                f1_sc = f1
+                print('Saving best model')
+                print('moses bleu:{:.4f}, F1:{:.4f}'.format(best_blue,f1))
+                save_model(model, model_name)
+            else:
+                print ('Not saving the model. Best validation moses bleu so far:{:.4f} with f1:{:.4f}'.format(best_blue,f1_sc))
         print ('Validation Loss:{:.2f}'.format(val_loss/val_iter.total))
         # sprint ('Embedding average:{:.6f}'.format(emb_val))
 
