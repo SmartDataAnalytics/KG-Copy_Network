@@ -39,6 +39,7 @@ python -m spacy download en
 python -m spacy download en_core_web_lg
 
 python preprocess_kb_2.py --data_dir soccer_conversations/
+python preprocess_kb_incar.py --data_dir preproc_files/incar/ --stoi vocab/w2i_incar.npy --vocab_glove vocab/glove300_incar.npy
 python utils/generate_entities_soccer.py
 ```
 

@@ -30,7 +30,6 @@ teamname_mapping = {
 }
 
 
-
 IGONRE_PLAYER_STATE = ["INJ","OTH","SUS","PRE","RET"]
 
 #players.append(['Number', 'Position', 'Name', 'Date of birth', 'height', 'senior career caps', 'senior career goals'])
@@ -176,13 +175,10 @@ def side_bar_info(wiki_link):
         if tr.find_all('th'):
             if tr.find_all('th')[0].get_text().strip()=="Manager":
                 head_coach = tr.find_all('td')[0].get_text().strip()
-
             if tr.find_all('th')[0].get_text().strip()=="Head coach":
                 head_coach = tr.find_all('td')[0].get_text().strip()
-
             if tr.find_all('th')[0].get_text().strip()=="President":
                 president = tr.find_all('td')[0].get_text().strip()
-
             if tr.find_all('th')[0].get_text().strip()=="Chairman":
                 president = tr.find_all('td')[0].get_text().strip()
 
@@ -247,8 +243,6 @@ def fetch_current_squad(club):
             break
 
     create_KG(players,club,side_bar)
-
-
 
 
 
