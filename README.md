@@ -25,6 +25,7 @@ wget https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec
 mv wiki.en.vec vocab/
 python create_vocab_kb.py
 python kg_build/build_incar_data.py
+python kg_build/build_dataset_KVR.py
 ```
 Running the commands will generate 'glove300.npy','vocab.npy','w2i.npy' files inside 'vocab/' directory
 

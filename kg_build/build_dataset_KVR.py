@@ -147,7 +147,7 @@ if __name__=="__main__":
     file2team = np.load("soccer_conversations/hit_team_maps.npy",allow_pickle=True).item()
 
 
-    dataset_types = ["val","train","test"]
+    dataset_types = ["test"]
     for dataset_type in dataset_types:
         print("Building ",dataset_type," set")
         path = "soccer_conversations/"+dataset_type
@@ -161,6 +161,7 @@ if __name__=="__main__":
         total_qa = 0
         for files in onlyfiles:
             file_id = files[0:files.find(".")]
+            print(file_id)
             #chiking if filename not in blacklist and team in the filename has a corresponding KG
             if file2team[file_id] and (file_id not in blacklist) and (file2team[file_id] in list(teamname2wikiname.keys())):
                 knowledge = get_KG(teamname2wikiname[file2team[file_id]])
