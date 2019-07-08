@@ -17,13 +17,6 @@ Martin Silva	goals	0
 Martin Silva	caps	11
 Martin Silva	age	36
 Martin Silva	jersey	23
-Uruguay	defender	Jose Gimenez
-Uruguay	has player	Jose Gimenez
-Jose Gimenez	position	defender
-Jose Gimenez	goals	8
-Jose Gimenez	caps	54
-Jose Gimenez	age	24
-Jose Gimenez	jersey	2
 Uruguay	defender	Diego Godin 
 Uruguay	has player	Diego Godin 
 Diego Godin 	position	defender
@@ -31,27 +24,6 @@ Diego Godin 	goals	8
 Diego Godin 	caps	131
 Diego Godin 	age	33
 Diego Godin 	jersey	3
-Uruguay	defender	Giovanni Gonzalez
-Uruguay	has player	Giovanni Gonzalez
-Giovanni Gonzalez	position	defender
-Giovanni Gonzalez	goals	0
-Giovanni Gonzalez	caps	5
-Giovanni Gonzalez	age	24
-Giovanni Gonzalez	jersey	4
-Uruguay	defender	Diego Laxalt
-Uruguay	has player	Diego Laxalt
-Diego Laxalt	position	defender
-Diego Laxalt	goals	0
-Diego Laxalt	caps	19
-Diego Laxalt	age	26
-Diego Laxalt	jersey	17
-Uruguay	defender	Sebastian Coates
-Uruguay	has player	Sebastian Coates
-Sebastian Coates	position	defender
-Sebastian Coates	goals	1
-Sebastian Coates	caps	35
-Sebastian Coates	age	28
-Sebastian Coates	jersey	19
 Uruguay	defender	Martin Caceres
 Uruguay	has player	Martin Caceres
 Martin Caceres	position	defender
@@ -59,20 +31,34 @@ Martin Caceres	goals	4
 Martin Caceres	caps	93
 Martin Caceres	age	32
 Martin Caceres	jersey	22
-Uruguay	midfielder	Matias Vecino
-Uruguay	has player	Matias Vecino
-Matias Vecino	position	midfielder
-Matias Vecino	goals	3
-Matias Vecino	caps	35
-Matias Vecino	age	27
-Matias Vecino	jersey	5
-Uruguay	midfielder	Rodrigo Bentancur
-Uruguay	has player	Rodrigo Bentancur
-Rodrigo Bentancur	position	midfielder
-Rodrigo Bentancur	goals	0
-Rodrigo Bentancur	caps	23
-Rodrigo Bentancur	age	22
-Rodrigo Bentancur	jersey	6
+Uruguay	defender	Jose Gimenez
+Uruguay	has player	Jose Gimenez
+Jose Gimenez	position	defender
+Jose Gimenez	goals	8
+Jose Gimenez	caps	54
+Jose Gimenez	age	24
+Jose Gimenez	jersey	2
+Uruguay	defender	Sebastian Coates
+Uruguay	has player	Sebastian Coates
+Sebastian Coates	position	defender
+Sebastian Coates	goals	1
+Sebastian Coates	caps	35
+Sebastian Coates	age	28
+Sebastian Coates	jersey	19
+Uruguay	defender	Diego Laxalt
+Uruguay	has player	Diego Laxalt
+Diego Laxalt	position	defender
+Diego Laxalt	goals	0
+Diego Laxalt	caps	19
+Diego Laxalt	age	26
+Diego Laxalt	jersey	17
+Uruguay	defender	Giovanni Gonzalez
+Uruguay	has player	Giovanni Gonzalez
+Giovanni Gonzalez	position	defender
+Giovanni Gonzalez	goals	0
+Giovanni Gonzalez	caps	5
+Giovanni Gonzalez	age	24
+Giovanni Gonzalez	jersey	4
 Uruguay	midfielder	Nicolas Lodeiro
 Uruguay	has player	Nicolas Lodeiro
 Nicolas Lodeiro	position	midfielder
@@ -80,6 +66,13 @@ Nicolas Lodeiro	goals	5
 Nicolas Lodeiro	caps	60
 Nicolas Lodeiro	age	30
 Nicolas Lodeiro	jersey	7
+Uruguay	midfielder	Matias Vecino
+Uruguay	has player	Matias Vecino
+Matias Vecino	position	midfielder
+Matias Vecino	goals	3
+Matias Vecino	caps	35
+Matias Vecino	age	27
+Matias Vecino	jersey	5
 Uruguay	midfielder	Nahitan Nandez
 Uruguay	has player	Nahitan Nandez
 Nahitan Nandez	position	midfielder
@@ -94,6 +87,13 @@ Giorgian De Arrascaeta	goals	2
 Giorgian De Arrascaeta	caps	23
 Giorgian De Arrascaeta	age	25
 Giorgian De Arrascaeta	jersey	10
+Uruguay	midfielder	Rodrigo Bentancur
+Uruguay	has player	Rodrigo Bentancur
+Rodrigo Bentancur	position	midfielder
+Rodrigo Bentancur	goals	0
+Rodrigo Bentancur	caps	23
+Rodrigo Bentancur	age	22
+Rodrigo Bentancur	jersey	6
 Uruguay	midfielder	Lucas Torreira
 Uruguay	has player	Lucas Torreira
 Lucas Torreira	position	midfielder
@@ -115,6 +115,13 @@ Gaston Pereiro	goals	4
 Gaston Pereiro	caps	9
 Gaston Pereiro	age	24
 Gaston Pereiro	jersey	16
+Uruguay	forward	Edinson Cavani
+Uruguay	has player	Edinson Cavani
+Edinson Cavani	position	forward
+Edinson Cavani	goals	48
+Edinson Cavani	caps	114
+Edinson Cavani	age	32
+Edinson Cavani	jersey	21
 Uruguay	forward	Luis Suarez
 Uruguay	has player	Luis Suarez
 Luis Suarez	position	forward
@@ -129,6 +136,13 @@ Cristhian Stuani	goals	8
 Cristhian Stuani	caps	49
 Cristhian Stuani	age	32
 Cristhian Stuani	jersey	11
+Uruguay	forward	Jonathan Rodriguez
+Uruguay	has player	Jonathan Rodriguez
+Jonathan Rodriguez	position	forward
+Jonathan Rodriguez	goals	2
+Jonathan Rodriguez	caps	16
+Jonathan Rodriguez	age	26
+Jonathan Rodriguez	jersey	20
 Uruguay	forward	Maxi Gomez
 Uruguay	has player	Maxi Gomez
 Maxi Gomez	position	forward
@@ -136,20 +150,6 @@ Maxi Gomez	goals	2
 Maxi Gomez	caps	12
 Maxi Gomez	age	22
 Maxi Gomez	jersey	18
-Uruguay	forward	Jonathan Rodriguez
-Uruguay	has player	Jonathan Rodriguez
-Jonathan Rodriguez	position	forward
-Jonathan Rodriguez	goals	2
-Jonathan Rodriguez	caps	16
-Jonathan Rodriguez	age	25
-Jonathan Rodriguez	jersey	20
-Uruguay	forward	Edinson Cavani
-Uruguay	has player	Edinson Cavani
-Edinson Cavani	position	forward
-Edinson Cavani	goals	48
-Edinson Cavani	caps	114
-Edinson Cavani	age	32
-Edinson Cavani	jersey	21
 Uruguay	midfielder	Cristian Rodriguez
 Uruguay	has player	Cristian Rodriguez
 Cristian Rodriguez	position	midfielder

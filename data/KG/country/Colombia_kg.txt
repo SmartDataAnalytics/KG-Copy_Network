@@ -23,13 +23,6 @@ Cristian Zapata	goals	2
 Cristian Zapata	caps	58
 Cristian Zapata	age	32
 Cristian Zapata	jersey	2
-Colombia	defender	Stefan Medina
-Colombia	has player	Stefan Medina
-Stefan Medina	position	defender
-Stefan Medina	goals	0
-Stefan Medina	caps	16
-Stefan Medina	age	27
-Stefan Medina	jersey	3
 Colombia	defender	Santiago Arias
 Colombia	has player	Santiago Arias
 Santiago Arias	position	defender
@@ -37,20 +30,6 @@ Santiago Arias	goals	0
 Santiago Arias	caps	52
 Santiago Arias	age	27
 Santiago Arias	jersey	4
-Colombia	defender	William Tesillo
-Colombia	has player	William Tesillo
-William Tesillo	position	defender
-William Tesillo	goals	1
-William Tesillo	caps	9
-William Tesillo	age	29
-William Tesillo	jersey	6
-Colombia	defender	Yerry Mina
-Colombia	has player	Yerry Mina
-Yerry Mina	position	defender
-Yerry Mina	goals	6
-Yerry Mina	caps	21
-Yerry Mina	age	24
-Yerry Mina	jersey	13
 Colombia	defender	Davinson Sanchez
 Colombia	has player	Davinson Sanchez
 Davinson Sanchez	position	defender
@@ -58,27 +37,27 @@ Davinson Sanchez	goals	0
 Davinson Sanchez	caps	23
 Davinson Sanchez	age	23
 Davinson Sanchez	jersey	23
-Colombia	midfielder	Wilmar Barrios
-Colombia	has player	Wilmar Barrios
-Wilmar Barrios	position	midfielder
-Wilmar Barrios	goals	0
-Wilmar Barrios	caps	25
-Wilmar Barrios	age	25
-Wilmar Barrios	jersey	5
-Colombia	midfielder	Edwin Cardona
-Colombia	has player	Edwin Cardona
-Edwin Cardona	position	midfielder
-Edwin Cardona	goals	5
-Edwin Cardona	caps	37
-Edwin Cardona	age	26
-Edwin Cardona	jersey	8
-Colombia	midfielder	James Rodriguez 
-Colombia	has player	James Rodriguez 
-James Rodriguez 	position	midfielder
-James Rodriguez 	goals	22
-James Rodriguez 	caps	76
-James Rodriguez 	age	27
-James Rodriguez 	jersey	10
+Colombia	defender	Yerry Mina
+Colombia	has player	Yerry Mina
+Yerry Mina	position	defender
+Yerry Mina	goals	6
+Yerry Mina	caps	21
+Yerry Mina	age	24
+Yerry Mina	jersey	13
+Colombia	defender	Stefan Medina
+Colombia	has player	Stefan Medina
+Stefan Medina	position	defender
+Stefan Medina	goals	0
+Stefan Medina	caps	16
+Stefan Medina	age	27
+Stefan Medina	jersey	3
+Colombia	defender	William Tesillo
+Colombia	has player	William Tesillo
+William Tesillo	position	defender
+William Tesillo	goals	1
+William Tesillo	caps	9
+William Tesillo	age	29
+William Tesillo	jersey	6
 Colombia	midfielder	Juan Cuadrado
 Colombia	has player	Juan Cuadrado
 Juan Cuadrado	position	midfielder
@@ -86,6 +65,27 @@ Juan Cuadrado	goals	8
 Juan Cuadrado	caps	84
 Juan Cuadrado	age	31
 Juan Cuadrado	jersey	11
+Colombia	midfielder	James Rodriguez 
+Colombia	has player	James Rodriguez 
+James Rodriguez 	position	midfielder
+James Rodriguez 	goals	22
+James Rodriguez 	caps	76
+James Rodriguez 	age	27
+James Rodriguez 	jersey	10
+Colombia	midfielder	Edwin Cardona
+Colombia	has player	Edwin Cardona
+Edwin Cardona	position	midfielder
+Edwin Cardona	goals	5
+Edwin Cardona	caps	37
+Edwin Cardona	age	26
+Edwin Cardona	jersey	8
+Colombia	midfielder	Wilmar Barrios
+Colombia	has player	Wilmar Barrios
+Wilmar Barrios	position	midfielder
+Wilmar Barrios	goals	0
+Wilmar Barrios	caps	25
+Wilmar Barrios	age	25
+Wilmar Barrios	jersey	5
 Colombia	midfielder	Mateus Uribe
 Colombia	has player	Mateus Uribe
 Mateus Uribe	position	midfielder
@@ -107,13 +107,6 @@ Gustavo Cuellar	goals	1
 Gustavo Cuellar	caps	7
 Gustavo Cuellar	age	26
 Gustavo Cuellar	jersey	18
-Colombia	forward	Duvan Zapata
-Colombia	has player	Duvan Zapata
-Duvan Zapata	position	forward
-Duvan Zapata	goals	3
-Duvan Zapata	caps	13
-Duvan Zapata	age	28
-Duvan Zapata	jersey	7
 Colombia	forward	Radamel Falcao 
 Colombia	has player	Radamel Falcao 
 Radamel Falcao 	position	forward
@@ -121,13 +114,6 @@ Radamel Falcao 	goals	34
 Radamel Falcao 	caps	89
 Radamel Falcao 	age	33
 Radamel Falcao 	jersey	9
-Colombia	forward	Luis Diaz
-Colombia	has player	Luis Diaz
-Luis Diaz	position	forward
-Luis Diaz	goals	1
-Luis Diaz	caps	8
-Luis Diaz	age	22
-Luis Diaz	jersey	14
 Colombia	forward	Luis Muriel
 Colombia	has player	Luis Muriel
 Luis Muriel	position	forward
@@ -135,6 +121,13 @@ Luis Muriel	goals	3
 Luis Muriel	caps	27
 Luis Muriel	age	28
 Luis Muriel	jersey	19
+Colombia	forward	Duvan Zapata
+Colombia	has player	Duvan Zapata
+Duvan Zapata	position	forward
+Duvan Zapata	goals	3
+Duvan Zapata	caps	13
+Duvan Zapata	age	28
+Duvan Zapata	jersey	7
 Colombia	forward	Roger Martinez
 Colombia	has player	Roger Martinez
 Roger Martinez	position	forward
@@ -142,6 +135,13 @@ Roger Martinez	goals	2
 Roger Martinez	caps	12
 Roger Martinez	age	25
 Roger Martinez	jersey	20
+Colombia	forward	Luis Diaz
+Colombia	has player	Luis Diaz
+Luis Diaz	position	forward
+Luis Diaz	goals	1
+Luis Diaz	caps	8
+Luis Diaz	age	22
+Luis Diaz	jersey	14
 Colombia	forward	Carlos Bacca
 Colombia	has player	Carlos Bacca
 Carlos Bacca	position	forward

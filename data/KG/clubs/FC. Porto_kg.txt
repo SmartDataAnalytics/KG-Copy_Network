@@ -9,13 +9,6 @@ Iker Casillas	caps	116
 Iker Casillas	date of birth	1981-05-20
 Iker Casillas	jersey	1
 Iker Casillas	height	1.82 m
-FC. Porto	has player	Eder Militao
-Eder Militao	position	defender
-Eder Militao	goals	3
-Eder Militao	caps	29
-Eder Militao	date of birth	1998-01-18
-Eder Militao	jersey	3
-Eder Militao	height	1.87 m
 FC. Porto	has player	Vincent Aboubakar
 Vincent Aboubakar	position	forward
 Vincent Aboubakar	goals	36
@@ -51,13 +44,6 @@ Alex Telles	caps	95
 Alex Telles	date of birth	1992-12-15
 Alex Telles	jersey	13
 Alex Telles	height	1.80 m
-FC. Porto	has player	Hector Herrera
-Hector Herrera	position	midfielder
-Hector Herrera	goals	27
-Hector Herrera	caps	164
-Hector Herrera	date of birth	1990-04-19
-Hector Herrera	jersey	16
-Hector Herrera	height	1.80 m
 FC. Porto	has player	Jesus Corona
 Jesus Corona	position	forward
 Jesus Corona	goals	17
@@ -86,13 +72,20 @@ Otavio	caps	56
 Otavio	date of birth	1995-02-09
 Otavio	jersey	25
 Otavio	height	1.71 m
-FC. Porto	has player	Tiquinho Soares
-Tiquinho Soares	position	forward
-Tiquinho Soares	goals	35
-Tiquinho Soares	caps	67
-Tiquinho Soares	date of birth	1991-01-17
-Tiquinho Soares	jersey	29
-Tiquinho Soares	height	1.87 m
+FC. Porto	has player	Sergio Oliveira
+Sergio Oliveira	position	midfielder
+Sergio Oliveira	goals	7
+Sergio Oliveira	caps	37
+Sergio Oliveira	date of birth	1992-06-02
+Sergio Oliveira	jersey	27
+Sergio Oliveira	height	1.81 m
+FC. Porto	has player	Soares
+Soares	position	forward
+Soares	goals	35
+Soares	caps	67
+Soares	date of birth	1991-01-17
+Soares	jersey	29
+Soares	height	1.87 m
 FC. Porto	has player	Pepe
 Pepe	position	defender
 Pepe	goals	2

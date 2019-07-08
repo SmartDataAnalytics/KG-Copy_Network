@@ -20,7 +20,7 @@ Senegal	goalkeeper	Alfred Gomis
 Senegal	has player	Alfred Gomis
 Alfred Gomis	position	goalkeeper
 Alfred Gomis	goals	0
-Alfred Gomis	caps	6
+Alfred Gomis	caps	7
 Alfred Gomis	age	25
 Alfred Gomis	jersey	23
 Senegal	defender	Saliou Ciss
@@ -34,7 +34,7 @@ Senegal	defender	Kalidou Koulibaly
 Senegal	has player	Kalidou Koulibaly
 Kalidou Koulibaly	position	defender
 Kalidou Koulibaly	goals	0
-Kalidou Koulibaly	caps	36
+Kalidou Koulibaly	caps	37
 Kalidou Koulibaly	age	28
 Kalidou Koulibaly	jersey	3
 Senegal	defender	Salif Sane
@@ -48,14 +48,14 @@ Senegal	defender	Youssouf Sabaly
 Senegal	has player	Youssouf Sabaly
 Youssouf Sabaly	position	defender
 Youssouf Sabaly	goals	0
-Youssouf Sabaly	caps	14
+Youssouf Sabaly	caps	15
 Youssouf Sabaly	age	26
 Youssouf Sabaly	jersey	12
 Senegal	defender	Lamine Gassama
 Senegal	has player	Lamine Gassama
 Lamine Gassama	position	defender
 Lamine Gassama	goals	0
-Lamine Gassama	caps	41
+Lamine Gassama	caps	42
 Lamine Gassama	age	29
 Lamine Gassama	jersey	21
 Senegal	defender	Moussa Wague
@@ -69,14 +69,14 @@ Senegal	midfielder	Idrissa Gana Gueye
 Senegal	has player	Idrissa Gana Gueye
 Idrissa Gana Gueye	position	midfielder
 Idrissa Gana Gueye	goals	3
-Idrissa Gana Gueye	caps	66
+Idrissa Gana Gueye	caps	67
 Idrissa Gana Gueye	age	29
 Idrissa Gana Gueye	jersey	5
 Senegal	midfielder	Cheikhou Kouyate
 Senegal	has player	Cheikhou Kouyate
 Cheikhou Kouyate	position	midfielder
 Cheikhou Kouyate	goals	2
-Cheikhou Kouyate	caps	55
+Cheikhou Kouyate	caps	56
 Cheikhou Kouyate	age	29
 Cheikhou Kouyate	jersey	8
 Senegal	midfielder	Alfred N'Diaye
@@ -90,30 +90,23 @@ Senegal	midfielder	Henri Saivet
 Senegal	has player	Henri Saivet
 Henri Saivet	position	midfielder
 Henri Saivet	goals	1
-Henri Saivet	caps	27
+Henri Saivet	caps	28
 Henri Saivet	age	28
 Henri Saivet	jersey	14
 Senegal	midfielder	Krepin Diatta
 Senegal	has player	Krepin Diatta
 Krepin Diatta	position	midfielder
 Krepin Diatta	goals	1
-Krepin Diatta	caps	6
+Krepin Diatta	caps	7
 Krepin Diatta	age	20
 Krepin Diatta	jersey	15
 Senegal	midfielder	Badou Ndiaye
 Senegal	has player	Badou Ndiaye
 Badou Ndiaye	position	midfielder
 Badou Ndiaye	goals	1
-Badou Ndiaye	caps	24
+Badou Ndiaye	caps	25
 Badou Ndiaye	age	28
 Badou Ndiaye	jersey	17
-Senegal	midfielder	Sada Thioub
-Senegal	has player	Sada Thioub
-Sada Thioub	position	midfielder
-Sada Thioub	goals	0
-Sada Thioub	caps	5
-Sada Thioub	age	24
-Sada Thioub	jersey	20
 Senegal	forward	Moussa Konate
 Senegal	has player	Moussa Konate
 Moussa Konate	position	forward
@@ -125,35 +118,35 @@ Senegal	forward	M'Baye Niang
 Senegal	has player	M'Baye Niang
 M'Baye Niang	position	forward
 M'Baye Niang	goals	4
-M'Baye Niang	caps	18
+M'Baye Niang	caps	19
 M'Baye Niang	age	24
 M'Baye Niang	jersey	9
 Senegal	forward	Sadio Mane 
 Senegal	has player	Sadio Mane 
 Sadio Mane 	position	forward
-Sadio Mane 	goals	18
-Sadio Mane 	caps	62
+Sadio Mane 	goals	19
+Sadio Mane 	caps	63
 Sadio Mane 	age	27
 Sadio Mane 	jersey	10
 Senegal	forward	Keita Balde
 Senegal	has player	Keita Balde
 Keita Balde	position	forward
 Keita Balde	goals	5
-Keita Balde	caps	27
+Keita Balde	caps	28
 Keita Balde	age	24
 Keita Balde	jersey	11
 Senegal	forward	Ismaila Sarr
 Senegal	has player	Ismaila Sarr
 Ismaila Sarr	position	forward
 Ismaila Sarr	goals	4
-Ismaila Sarr	caps	24
+Ismaila Sarr	caps	25
 Ismaila Sarr	age	21
 Ismaila Sarr	jersey	18
 Senegal	forward	Mbaye Diagne
 Senegal	has player	Mbaye Diagne
 Mbaye Diagne	position	forward
 Mbaye Diagne	goals	0
-Mbaye Diagne	caps	6
+Mbaye Diagne	caps	7
 Mbaye Diagne	age	27
 Mbaye Diagne	jersey	19
 Senegal	forward	Mame Biram Diouf

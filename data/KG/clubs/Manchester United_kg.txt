@@ -106,7 +106,7 @@ Fred	goals	1
 Fred	caps	17
 Fred	date of birth	1993-03-05
 Fred	jersey	17
-Fred	height	1.69 m
+Fred	height	1.7 m
 Manchester United	has player	Ashley Young
 Ashley Young	position	defender
 Ashley Young	goals	15

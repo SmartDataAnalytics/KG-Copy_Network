@@ -65,13 +65,6 @@ Lucas Torreira	caps	34
 Lucas Torreira	date of birth	1996-02-11
 Lucas Torreira	jersey	11
 Lucas Torreira	height	1.68 m
-Arsenal	has player	David Ospina
-David Ospina	position	goalkeeper
-David Ospina	goals	0
-David Ospina	caps	29
-David Ospina	date of birth	1988-08-31
-David Ospina	jersey	13
-David Ospina	height	1.83 m
 Arsenal	has player	Pierre-Emerick Aubameyang
 Pierre-Emerick Aubameyang	position	forward
 Pierre-Emerick Aubameyang	goals	32

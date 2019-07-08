@@ -7,14 +7,14 @@ Mexico	goalkeeper	Jonathan Orozco
 Mexico	has player	Jonathan Orozco
 Jonathan Orozco	position	goalkeeper
 Jonathan Orozco	goals	0
-Jonathan Orozco	caps	7
+Jonathan Orozco	caps	8
 Jonathan Orozco	age	33
 Jonathan Orozco	jersey	1
 Mexico	goalkeeper	Guillermo Ochoa
 Mexico	has player	Guillermo Ochoa
 Guillermo Ochoa	position	goalkeeper
 Guillermo Ochoa	goals	0
-Guillermo Ochoa	caps	105
+Guillermo Ochoa	caps	106
 Guillermo Ochoa	age	33
 Guillermo Ochoa	jersey	13
 Mexico	defender	Nestor Araujo
@@ -28,56 +28,56 @@ Mexico	defender	Carlos Salcedo
 Mexico	has player	Carlos Salcedo
 Carlos Salcedo	position	defender
 Carlos Salcedo	goals	0
-Carlos Salcedo	caps	29
+Carlos Salcedo	caps	31
 Carlos Salcedo	age	25
 Carlos Salcedo	jersey	3
 Mexico	defender	Diego Reyes
 Mexico	has player	Diego Reyes
 Diego Reyes	position	defender
 Diego Reyes	goals	2
-Diego Reyes	caps	62
+Diego Reyes	caps	63
 Diego Reyes	age	26
 Diego Reyes	jersey	5
 Mexico	defender	Hector Moreno
 Mexico	has player	Hector Moreno
 Hector Moreno	position	defender
 Hector Moreno	goals	4
-Hector Moreno	caps	99
+Hector Moreno	caps	100
 Hector Moreno	age	31
 Hector Moreno	jersey	15
 Mexico	defender	Cesar Montes
 Mexico	has player	Cesar Montes
 Cesar Montes	position	defender
 Cesar Montes	goals	0
-Cesar Montes	caps	8
+Cesar Montes	caps	9
 Cesar Montes	age	22
 Cesar Montes	jersey	17
 Mexico	defender	Luis Rodriguez
 Mexico	has player	Luis Rodriguez
 Luis Rodriguez	position	defender
 Luis Rodriguez	goals	1
-Luis Rodriguez	caps	15
+Luis Rodriguez	caps	16
 Luis Rodriguez	age	28
 Luis Rodriguez	jersey	21
 Mexico	defender	Jesus Gallardo
 Mexico	has player	Jesus Gallardo
 Jesus Gallardo	position	defender
 Jesus Gallardo	goals	0
-Jesus Gallardo	caps	38
+Jesus Gallardo	caps	40
 Jesus Gallardo	age	24
 Jesus Gallardo	jersey	23
 Mexico	midfielder	Edson Alvarez
 Mexico	has player	Edson Alvarez
 Edson Alvarez	position	midfielder
 Edson Alvarez	goals	1
-Edson Alvarez	caps	25
+Edson Alvarez	caps	27
 Edson Alvarez	age	21
 Edson Alvarez	jersey	4
 Mexico	midfielder	Jonathan dos Santos
 Mexico	has player	Jonathan dos Santos
 Jonathan dos Santos	position	midfielder
 Jonathan dos Santos	goals	2
-Jonathan dos Santos	caps	43
+Jonathan dos Santos	caps	45
 Jonathan dos Santos	age	29
 Jonathan dos Santos	jersey	6
 Mexico	midfielder	Orbelin Pineda
@@ -91,21 +91,21 @@ Mexico	midfielder	Carlos Rodriguez
 Mexico	has player	Carlos Rodriguez
 Carlos Rodriguez	position	midfielder
 Carlos Rodriguez	goals	0
-Carlos Rodriguez	caps	5
+Carlos Rodriguez	caps	7
 Carlos Rodriguez	age	22
 Carlos Rodriguez	jersey	8
 Mexico	midfielder	Luis Montes
 Mexico	has player	Luis Montes
 Luis Montes	position	midfielder
 Luis Montes	goals	5
-Luis Montes	caps	23
+Luis Montes	caps	25
 Luis Montes	age	33
 Luis Montes	jersey	10
 Mexico	midfielder	Roberto Alvarado
 Mexico	has player	Roberto Alvarado
 Roberto Alvarado	position	midfielder
 Roberto Alvarado	goals	2
-Roberto Alvarado	caps	10
+Roberto Alvarado	caps	13
 Roberto Alvarado	age	20
 Roberto Alvarado	jersey	11
 Mexico	midfielder	Erick Gutierrez
@@ -119,21 +119,21 @@ Mexico	midfielder	Andres Guardado
 Mexico	has player	Andres Guardado 
 Andres Guardado 	position	midfielder
 Andres Guardado 	goals	28
-Andres Guardado 	caps	158
+Andres Guardado 	caps	160
 Andres Guardado 	age	32
 Andres Guardado 	jersey	18
 Mexico	midfielder	Uriel Antuna
 Mexico	has player	Uriel Antuna
 Uriel Antuna	position	midfielder
 Uriel Antuna	goals	4
-Uriel Antuna	caps	6
+Uriel Antuna	caps	7
 Uriel Antuna	age	21
 Uriel Antuna	jersey	22
 Mexico	forward	Raul Jimenez
 Mexico	has player	Raul Jimenez
 Raul Jimenez	position	forward
-Raul Jimenez	goals	21
-Raul Jimenez	caps	75
+Raul Jimenez	goals	22
+Raul Jimenez	caps	77
 Raul Jimenez	age	28
 Raul Jimenez	jersey	9
 Mexico	forward	Alexis Vega
@@ -147,7 +147,7 @@ Mexico	forward	Rodolfo Pizarro
 Mexico	has player	Rodolfo Pizarro
 Rodolfo Pizarro	position	forward
 Rodolfo Pizarro	goals	4
-Rodolfo Pizarro	caps	19
+Rodolfo Pizarro	caps	21
 Rodolfo Pizarro	age	25
 Rodolfo Pizarro	jersey	20
 Mexico	goalkeeper	Jose de Jesus Corona
@@ -168,27 +168,9 @@ Javier Aquino	position	midfielder
 Javier Aquino	goals	0
 Javier Aquino	caps	54
 Javier Aquino	age	29
-Mexico	midfielder	Giovani dos Santos
-Mexico	has player	Giovani dos Santos
-Giovani dos Santos	position	midfielder
-Giovani dos Santos	goals	19
-Giovani dos Santos	caps	106
-Giovani dos Santos	age	30
-Mexico	midfielder	Hector Herrera
-Mexico	has player	Hector Herrera
-Hector Herrera	position	midfielder
-Hector Herrera	goals	5
-Hector Herrera	caps	70
-Hector Herrera	age	29
 Mexico	forward	Javier Hernandez
 Mexico	has player	Javier Hernandez
 Javier Hernandez	position	forward
 Javier Hernandez	goals	51
 Javier Hernandez	caps	108
 Javier Hernandez	age	31
-Mexico	forward	Carlos Vela
-Mexico	has player	Carlos Vela
-Carlos Vela	position	forward
-Carlos Vela	goals	19
-Carlos Vela	caps	72
-Carlos Vela	age	30

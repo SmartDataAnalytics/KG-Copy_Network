@@ -1,7 +1,7 @@
 Chelsea	ground	Stamford Bridge
 Stamford Bridge	capacity	40,853
 Chelsea	chairman	Bruce Buck
-Chelsea	coach	Vacant
+Chelsea	coach	Frank Lampard
 Chelsea	has player	Kepa Arrizabalaga
 Kepa Arrizabalaga	position	goalkeeper
 Kepa Arrizabalaga	goals	0
@@ -30,13 +30,13 @@ Jorginho	caps	37
 Jorginho	date of birth	1991-12-20
 Jorginho	jersey	5
 Jorginho	height	1.80 m
-Chelsea	has player	Danny Drinkwater
-Danny Drinkwater	position	midfielder
-Danny Drinkwater	goals	1
-Danny Drinkwater	caps	12
-Danny Drinkwater	date of birth	1990-03-05
-Danny Drinkwater	jersey	6
-Danny Drinkwater	height	1.77 m
+Chelsea	has player	Kurt Zouma
+Kurt Zouma	position	defender
+Kurt Zouma	goals	1
+Kurt Zouma	caps	47
+Kurt Zouma	date of birth	1994-10-27
+Kurt Zouma	jersey	6
+Kurt Zouma	height	1.90 m
 Chelsea	has player	N'Golo Kante
 N'Golo Kante	position	midfielder
 N'Golo Kante	goals	6
@@ -93,6 +93,13 @@ Willian	caps	198
 Willian	date of birth	1988-08-09
 Willian	jersey	22
 Willian	height	1.75 m
+Chelsea	has player	Michy Batshuayi
+Michy Batshuayi	position	forward
+Michy Batshuayi	goals	7
+Michy Batshuayi	caps	32
+Michy Batshuayi	date of birth	1993-10-02
+Michy Batshuayi	jersey	23
+Michy Batshuayi	height	1.85 m
 Chelsea	has player	Andreas Christensen
 Andreas Christensen	position	defender
 Andreas Christensen	goals	0
@@ -121,3 +128,10 @@ Emerson Palmieri	caps	15
 Emerson Palmieri	date of birth	1994-08-03
 Emerson Palmieri	jersey	33
 Emerson Palmieri	height	1.75 m
+Chelsea	has player	Danny Drinkwater
+Danny Drinkwater	position	midfielder
+Danny Drinkwater	goals	1
+Danny Drinkwater	caps	12
+Danny Drinkwater	date of birth	1990-03-05
+Danny Drinkwater	jersey	--
+Danny Drinkwater	height	1.77 m

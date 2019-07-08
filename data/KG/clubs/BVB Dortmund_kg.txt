@@ -44,6 +44,13 @@ Jadon Sancho	caps	46
 Jadon Sancho	date of birth	2000-03-25
 Jadon Sancho	jersey	7
 Jadon Sancho	height	1.80 m
+BVB Dortmund	has player	Mahmoud Dahoud
+Mahmoud Dahoud	position	midfielder
+Mahmoud Dahoud	goals	1
+Mahmoud Dahoud	caps	37
+Mahmoud Dahoud	date of birth	1996-01-01
+Mahmoud Dahoud	jersey	8
+Mahmoud Dahoud	height	1.77 m
 BVB Dortmund	has player	Paco Alcacer
 Paco Alcacer	position	forward
 Paco Alcacer	goals	6
@@ -79,13 +86,6 @@ Manuel Akanji	caps	28
 Manuel Akanji	date of birth	1995-07-19
 Manuel Akanji	jersey	16
 Manuel Akanji	height	1.86 m
-BVB Dortmund	has player	Mahmoud Dahoud
-Mahmoud Dahoud	position	midfielder
-Mahmoud Dahoud	goals	1
-Mahmoud Dahoud	caps	37
-Mahmoud Dahoud	date of birth	1996-01-01
-Mahmoud Dahoud	jersey	19
-Mahmoud Dahoud	height	1.77 m
 BVB Dortmund	has player	Maximilian Philipp
 Maximilian Philipp	position	forward
 Maximilian Philipp	goals	10
@@ -93,13 +93,6 @@ Maximilian Philipp	caps	35
 Maximilian Philipp	date of birth	1994-03-01
 Maximilian Philipp	jersey	20
 Maximilian Philipp	height	1.83 m
-BVB Dortmund	has player	Christian Pulisic
-Christian Pulisic	position	midfielder
-Christian Pulisic	goals	3
-Christian Pulisic	caps	9
-Christian Pulisic	date of birth	1998-09-18
-Christian Pulisic	jersey	22
-Christian Pulisic	height	170 cm
 BVB Dortmund	has player	Lukasz Piszczek
 Lukasz Piszczek	position	defender
 Lukasz Piszczek	goals	15
@@ -149,3 +142,27 @@ Omer Toprak	caps	35
 Omer Toprak	date of birth	1989-07-21
 Omer Toprak	jersey	36
 Omer Toprak	height	1.86 m
+BVB Dortmund	has player	Jeremy Toljan
+Jeremy Toljan	position	defender
+Jeremy Toljan	goals	1
+Jeremy Toljan	caps	18
+Jeremy Toljan	date of birth	1994-08-08
+Jeremy Toljan	height	1.82 m
+BVB Dortmund	has player	Shinji Kagawa
+Shinji Kagawa	position	midfielder
+Shinji Kagawa	goals	20
+Shinji Kagawa	caps	99
+Shinji Kagawa	date of birth	1989-03-17
+Shinji Kagawa	height	1.75 m
+BVB Dortmund	has player	Sebastian Rode
+Sebastian Rode	position	midfielder
+Sebastian Rode	goals	1
+Sebastian Rode	caps	14
+Sebastian Rode	date of birth	1990-10-11
+Sebastian Rode	height	1.79 m
+BVB Dortmund	has player	Andre Schurrle
+Andre Schurrle	position	midfielder
+Andre Schurrle	goals	3
+Andre Schurrle	caps	33
+Andre Schurrle	date of birth	1990-11-06
+Andre Schurrle	height	1.84 m

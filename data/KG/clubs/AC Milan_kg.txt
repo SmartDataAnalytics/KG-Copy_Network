@@ -112,4 +112,5 @@ Andre Silva	position	forward
 Andre Silva	goals	2
 Andre Silva	caps	24
 Andre Silva	date of birth	1995-11-06
+Andre Silva	jersey	--
 Andre Silva	height	1.84 m

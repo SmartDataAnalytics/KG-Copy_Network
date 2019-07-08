@@ -135,15 +135,3 @@ Rafa Silva	goals	0
 Rafa Silva	caps	16
 Rafa Silva	age	26
 Rafa Silva	jersey	15
-Portugal	defender	Bruno Alves
-Portugal	has player	Bruno Alves
-Bruno Alves	position	defender
-Bruno Alves	goals	11
-Bruno Alves	caps	96
-Bruno Alves	age	37
-Portugal	forward	Ricardo Quaresma
-Portugal	has player	Ricardo Quaresma
-Ricardo Quaresma	position	forward
-Ricardo Quaresma	goals	10
-Ricardo Quaresma	caps	80
-Ricardo Quaresma	age	35

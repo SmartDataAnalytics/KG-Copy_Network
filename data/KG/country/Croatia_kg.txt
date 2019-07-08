@@ -21,7 +21,7 @@ Croatia	has player	Dejan Lovren
 Dejan Lovren	position	defender
 Dejan Lovren	goals	2
 Dejan Lovren	caps	53
-Dejan Lovren	age	29
+Dejan Lovren	age	30
 Dejan Lovren	jersey	6
 Croatia	defender	Tin Jedvaj
 Croatia	has player	Tin Jedvaj

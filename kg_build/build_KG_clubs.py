@@ -115,8 +115,10 @@ def player_info(profile_link,club):
     senior_career_apps = 0
     senior_carrer_goals = 0
 
-
-    tables = page_content.find_all('table',{'class':'infobox vcard'})[0]
+    try:
+        tables = page_content.find_all('table',{'class':'infobox vcard'})[0]
+    except IndexError:
+        return None, None, None, None
 
 
     trs = tables.find_all('tr')
@@ -147,9 +149,11 @@ def player_info(profile_link,club):
                     else:
                         if tr.find_all('td')[0].find("a"):
                             club_url = tr.find_all('td')[0].find("a")
-                            #print(tr.find_all('td')[1].get_text().strip())
                             if club_url.attrs["href"] == club:
-                                senior_career_apps = int(tr.find_all('td')[1].get_text().strip())
+                                try:
+                                    senior_career_apps = int(tr.find_all('td')[1].get_text().strip())
+                                except ValueError:
+                                    return None, None, None, None
                                 goals = tr.find_all('td')[2].get_text().strip()
                                 senior_career_goals = int(goals[1:len(goals)-1])
                                 senior_carrer_goals = goals
@@ -232,6 +236,8 @@ def fetch_current_squad(club):
                         if "cnote" not in tds.attrs["href"]:
                             player_link = tds.attrs["href"]
                             dob,height,senior_caps,senior_goals = player_info(player_link, "/wiki/"+club)
+                            if dob is None:
+                                continue
                     num = unidecode.unidecode(num)
                     pos = unidecode.unidecode(pos)
                     name = unidecode.unidecode(name)
@@ -251,7 +257,7 @@ if __name__ == "__main__":
     base_url = 'https://en.wikipedia.org/wiki/'
 
 
-    club_teams = ['Paris_Saint-Germain_F.C.','Liverpool_F.C.','Atl%C3%A9tico_Madrid','Arsenal_F.C.','FC_Barcelona', 'Real_Madrid_C.F.', 'Juventus_F.C.', 'Manchester_United_F.C.','Chelsea_F.C.','FC_Bayern_Munich', 'FC_Porto', 'Borussia_Dortmund','A.C._Milan']
+    club_teams = ['Paris_Saint-Germain_F.C.','Liverpool_F.C.','Atl%C3%A9tico_Madrid','Arsenal_F.C.','FC_Barcelona', 'Real_Madrid_C.F.', 'Juventus_F.C.', 'Manchester_United_F.C.','Chelsea_F.C.','FC_Bayern_Munich','FC_Porto', 'Borussia_Dortmund','A.C._Milan']
 
     for club in club_teams:
         fetch_current_squad(club)
