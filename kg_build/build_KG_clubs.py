@@ -154,7 +154,7 @@ def player_info(profile_link,club):
                                 except ValueError:
                                     return None, None, None, None
                                 goals = tr.find_all('td')[2].get_text().strip()
-                                senior_career_goals = int(goals[1:len(goals)-1])
+                                #senior_career_goals = int(goals[1:len(goals)-1])
                                 senior_carrer_goals = goals
 
     return date_of_birth, height, senior_career_apps, senior_carrer_goals
