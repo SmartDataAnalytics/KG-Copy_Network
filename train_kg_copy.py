@@ -11,7 +11,7 @@ from bleu import get_moses_multi_bleu
 
 # Get arguments
 args = get_args()
-
+print (args.gpu)
 # Set random seed
 np.random.seed(args.randseed)
 torch.manual_seed(args.randseed)
@@ -175,14 +175,14 @@ def train():
         #rand = random.randint(0, )
         #p = s_p[rand]
         #o = s_g[rand]
-        print (str(a))
-        for k, o in enumerate(s_g):
-            print ('Original:' + o)
-            try:
-                print ('Predicted:' + s_p[k])
-            except UnicodeEncodeError:
-                print ('Predicted: '.format(s_p[k]))
-        print('-------------------------------------------')
+        #print (str(a))
+        #for k, o in enumerate(s_g):
+        #    print ('Original:' + o)
+        #    try:
+        #        print ('Predicted:' + s_p[k])
+        #    except UnicodeEncodeError:
+        #        print ('Predicted: '.format(s_p[k]))
+        #print('-------------------------------------------')
         #v_l = val_loss/val_iter.total
         #ea = np.average(extrema)
         print("Vector extrema:" + str(np.average(extrema)))
@@ -250,16 +250,16 @@ def test(model):
     print ("Greedy Matching:" + str(np.average(gm)))
     print ("Embedding Average on Test:{:.6f}".format(np.average(emb_avg_all)))
     print('\n\n-------------------------------------------')
-    print ('Sample prediction Test')
-    print('-------------------------------------------')
-    print ('words:' + str(a))
-    for k, o in enumerate(s_g):
-        print ('Original:' + o)
-        try:
-            print ('Predicted:' + s_p[k])
-        except UnicodeEncodeError:
-            print ('Predicted: '.format(s_p[k]))
-    print('-------------------------------------------')
+    #print ('Sample prediction Test')
+    #print('-------------------------------------------')
+    #print ('words:' + str(a))
+    #for k, o in enumerate(s_g):
+    #    print ('Original:' + o)
+    #    try:
+    #        print ('Predicted:' + s_p[k])
+    #    except UnicodeEncodeError:
+    #        print ('Predicted: '.format(s_p[k]))
+    #print('-------------------------------------------')
     print('-------------------------------------------')
     predicted_s = [q for ques in predicted_s for q in ques]
     orig_s = [q for ques in orig_s for q in ques]
