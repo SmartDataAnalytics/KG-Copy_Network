@@ -127,11 +127,11 @@ class KGSentient(nn.Module):
                 sentient_gate, obj = self.sentinel_g(input_batch, input_chunk, input_mask, decoder_input,
                                                      kb, kb_mask, sentinel_values[t - 1])
                 #s = sentient_orig[t].reshape(b_size, 1)
-                s = F.sigmoid(sentient_gate)
+                s = torch.sigmoid(sentient_gate)
                 obj = s * obj
                 decoder_vocab = (1 - s) * decoder_vocab
                 decoder_vocab = decoder_vocab.scatter_add(1, self.kg_vocab.repeat(b_size).view(b_size, self.kb_max_size), obj)
-                sentinel_values[t] = F.sigmoid(sentient_gate).squeeze()
+                sentinel_values[t] = torch.sigmoid(sentient_gate).squeeze()
                 all_decoder_outputs_vocab[t] = decoder_vocab
                 decoder_input = out_batch[t].long() # Next input is current target
         else:
@@ -142,7 +142,7 @@ class KGSentient(nn.Module):
                 all_decoder_outputs_vocab[t] = decoder_vocab
                 sentient_gate, obj = self.sentinel_g(input_batch, input_chunk, input_mask, decoder_input,
                                                      kb, kb_mask, sentinel_values[t - 1])
-                s = F.sigmoid(sentient_gate)
+                s = torch.sigmoid(sentient_gate)
                 sentinel_values[t] = s.squeeze()
                 obj = s * obj
                 decoder_vocab = (1 - s) * decoder_vocab
@@ -229,7 +229,7 @@ class KGSentient(nn.Module):
                                                  kb, kb_mask, sentinel_values[t - 1])
             # print (sentient_gate.size())
             # obj_output = (torch.cat([vocab_pad, obj], dim=-1))
-            s = F.sigmoid(sentient_gate)
+            s = torch.sigmoid(sentient_gate)
             sentinel_values[t] = s.squeeze()
             obj = s * obj
             decoder_vocab = (1 - s) * decoder_vocab
@@ -296,7 +296,7 @@ class KGSentient(nn.Module):
                                                  kb, kb_mask, sentinel_values[t - 1])
             # print (sentient_gate.size())
             # obj_output = (torch.cat([vocab_pad, obj], dim=-1))
-            s = F.sigmoid(sentient_gate)
+            s = torch.sigmoid(sentient_gate)
             sentinel_values[t] = s.squeeze()
             obj = s * obj
             decoder_vocab = (1 - s) * decoder_vocab
@@ -376,11 +376,11 @@ class Attention(nn.Module):
     def forward(self, encoder_outputs, decoder_hidden, inp_mask):
         seq_len = encoder_outputs.size(1) # get sequence lengths S
         H = decoder_hidden.repeat(seq_len, 1, 1).transpose(0, 1) # B X S X H
-        energy = F.tanh(self.W_h(torch.cat([H, encoder_outputs], 2))) # B X S X H
+        energy = torch.tanh(self.W_h(torch.cat([H, encoder_outputs], 2))) # B X S X H
         energy = energy.transpose(2, 1)
         v = self.v.repeat(encoder_outputs.data.shape[0],1).unsqueeze(1) #[B X 1 X H]
         energy = torch.bmm(v,energy).view(-1, seq_len) # [B X T]
-        a = F.softmax(energy, dim=-1) * inp_mask.transpose(0, 1) # B X T
+        a = torch.softmax(energy, dim=-1) * inp_mask.transpose(0, 1) # B X T
         normalization_factor = a.sum(1, keepdim=True)
         a = a / (normalization_factor+self.epsilon) # adding a small offset to avoid nan values
 
@@ -441,7 +441,7 @@ class Decoder(nn.Module):
         rnn_output = rnn_output.squeeze(0) # S=1 x B x H -> B x H
         context = context.squeeze(1)       # B x S=1 x H -> B x H
         concat_input = torch.cat((rnn_output, context), 1)
-        concat_output = F.tanh(self.concat(concat_input))
+        concat_output = torch.tanh(self.concat(concat_input))
         #print (concat_output.size())
         # Finally predict next token (Luong eq. 6, without softmax)
         output = self.out(concat_output)
