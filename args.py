@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 def get_args():
     parser = ArgumentParser(description="Soccer chatbot")
     parser.add_argument('--no_cuda', action='store_false', help='do not use cuda', dest='cuda')
-    parser.add_argument('--gpu', type=bool, default=True)
+    parser.add_argument('--gpu', type=bool, default=False)
     parser.add_argument('--epochs', type=int, default=60)
     parser.add_argument('--batch_size', type=int, default=32)
     parser.add_argument('--dataset', type=str, default="EntityDetection")

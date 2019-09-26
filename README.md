@@ -3,7 +3,7 @@
 
 ## Requirements
 - python 3.6
-- pytorch 0.4.1
+- pytorch 1.2.0
 - Run ```pip install -r requirements.txt```
 
 **NOTE: The following pre-processing step is not required if you just want to train the system on our processed data (since all the required pre-processed data are included in the project directory).

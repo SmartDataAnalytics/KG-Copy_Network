@@ -1,4 +1,4 @@
-torch==0.4.1
+torch==1.2.0
 tqdm
 spacy
 unidecode
